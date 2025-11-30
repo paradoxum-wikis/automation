@@ -1,0 +1,71 @@
+{
+  "timestamp": "2025-11-30T14:13:47.768Z",
+  "totalContributors": 5,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "88",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "SupremeVux",
+      "userId": "55299315",
+      "avatar": "<div class=\"wds-avatar\" title=\"SupremeVux\"><a href=\"/wiki/User:SupremeVux\"><img src=\"https://static.wikia.nocookie.net/307c9609-03d7-4417-b7d5-0011c4eaae9a/zoom-crop/width/36/height/36\" alt=\"SupremeVux\" title=\"SupremeVux\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:SupremeVux",
+      "userContactPage": "/wiki/Message_Wall:SupremeVux",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "12",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "Frogt007",
+      "userId": "49619721",
+      "avatar": "<div class=\"wds-avatar\" title=\"Frogt007\"><a href=\"/wiki/User:Frogt007\"><img src=\"https://static.wikia.nocookie.net/da9739d3-3ddf-427d-83a6-612f4ef1e851/zoom-crop/width/36/height/36\" alt=\"Frogt007\" title=\"Frogt007\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-content-moderator\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Frogt007",
+      "userContactPage": "/wiki/Message_Wall:Frogt007",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    },
+    {
+      "userName": "RustyChroma",
+      "userId": "50455120",
+      "avatar": "<div class=\"wds-avatar\" title=\"RustyChroma\"><a href=\"/wiki/User:RustyChroma\"><img src=\"https://static.wikia.nocookie.net/668543cd-dada-4dab-bd89-26abb7c2d3f7/zoom-crop/width/36/height/36\" alt=\"RustyChroma\" title=\"RustyChroma\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:RustyChroma",
+      "userContactPage": "/wiki/Message_Wall:RustyChroma",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 4
+    },
+    {
+      "userName": "LolenitoXD",
+      "userId": "53593192",
+      "avatar": "<div class=\"wds-avatar\" title=\"LolenitoXD\"><a href=\"/wiki/User:LolenitoXD\"><svg class=\"wds-avatar__image\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:LolenitoXD",
+      "userContactPage": "/wiki/Message_Wall:LolenitoXD",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 5
+    }
+  ]
+}
