@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-12-14T14:14:11.282Z",
+  "totalContributors": 3,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "12",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "Raspbelle",
+      "userId": "53116541",
+      "avatar": "<div class=\"wds-avatar\" title=\"Raspbelle\"><a href=\"/wiki/User:Raspbelle\"><img src=\"https://static.wikia.nocookie.net/779b645f-9d8f-4c14-875c-95391317619f/zoom-crop/width/36/height/36\" alt=\"Raspbelle\" title=\"Raspbelle\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Raspbelle",
+      "userContactPage": "/wiki/Message_Wall:Raspbelle",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 2
+    },
+    {
+      "userName": "INLOC",
+      "userId": "58141291",
+      "avatar": "<div class=\"wds-avatar\" title=\"INLOC\"><a href=\"/wiki/User:INLOC\"><img src=\"https://static.wikia.nocookie.net/513df335-1d81-4460-bf30-64f885a2e7e5/zoom-crop/width/36/height/36\" alt=\"INLOC\" title=\"INLOC\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:INLOC",
+      "userContactPage": "/wiki/Message_Wall:INLOC",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 3
+    }
+  ]
+}
