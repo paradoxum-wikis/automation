@@ -1,0 +1,97 @@
+{
+  "timestamp": "2026-02-22T14:21:31.107Z",
+  "totalContributors": 7,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "38",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "0litronPepperohniRolls221",
+      "userId": "52854857",
+      "avatar": "<div class=\"wds-avatar\" title=\"0litronPepperohniRolls221\"><a href=\"/wiki/User:0litronPepperohniRolls221\"><img src=\"https://static.wikia.nocookie.net/c021301d-5e02-481a-b3ea-f5c383ec2a24/zoom-crop/width/36/height/36\" alt=\"0litronPepperohniRolls221\" title=\"0litronPepperohniRolls221\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:0litronPepperohniRolls221",
+      "userContactPage": "/wiki/Message_Wall:0litronPepperohniRolls221",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "Kaoszuu",
+      "userId": "55381645",
+      "avatar": "<div class=\"wds-avatar\" title=\"Kaoszuu\"><a href=\"/wiki/User:Kaoszuu\"><svg class=\"wds-avatar__image\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:Kaoszuu",
+      "userContactPage": "/wiki/Message_Wall:Kaoszuu",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    },
+    {
+      "userName": "Vwwwiou",
+      "userId": "44484630",
+      "avatar": "<div class=\"wds-avatar\" title=\"Vwwwiou\"><a href=\"/wiki/User:Vwwwiou\"><svg class=\"wds-avatar__image\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:Vwwwiou",
+      "userContactPage": "/wiki/Message_Wall:Vwwwiou",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 4
+    },
+    {
+      "userName": "0litron's32ndalt",
+      "userId": "59070918",
+      "avatar": "<div class=\"wds-avatar\" title=\"0litron&#039;s32ndalt\"><a href=\"/wiki/User:0litron%27s32ndalt\"><svg class=\"wds-avatar__image\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:0litron%27s32ndalt",
+      "userContactPage": "/wiki/Message_Wall:0litron%27s32ndalt",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 5
+    },
+    {
+      "userName": "AL thy Gamr",
+      "userId": "52593490",
+      "avatar": "<div class=\"wds-avatar\" title=\"AL thy Gamr\"><a href=\"/wiki/User:AL_thy_Gamr\"><img src=\"https://static.wikia.nocookie.net/65278cc4-1773-4200-a215-165c086093ef/zoom-crop/width/36/height/36\" alt=\"AL thy Gamr\" title=\"AL thy Gamr\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:AL_thy_Gamr",
+      "userContactPage": "/wiki/Message_Wall:AL_thy_Gamr",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 6
+    },
+    {
+      "userName": "INLOC",
+      "userId": "58141291",
+      "avatar": "<div class=\"wds-avatar\" title=\"INLOC\"><a href=\"/wiki/User:INLOC\"><img src=\"https://static.wikia.nocookie.net/513df335-1d81-4460-bf30-64f885a2e7e5/zoom-crop/width/36/height/36\" alt=\"INLOC\" title=\"INLOC\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:INLOC",
+      "userContactPage": "/wiki/Message_Wall:INLOC",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 7
+    }
+  ]
+}
