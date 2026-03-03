@@ -12,7 +12,7 @@ jobs:
       contents: write
     defaults:
       run:
-        working-directory: ./aew/wiki-recap
+        working-directory: ./aew/recap
 
     steps:
       - name: Checkout repository

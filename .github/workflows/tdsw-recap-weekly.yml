@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./tdsw/wiki-recap
+        working-directory: ./tdsw/recap
 
     steps:
       - name: Checkout repository
