@@ -2,9 +2,7 @@ name: AEW Trello Monitor
 
 on:
   schedule:
-    - cron: "*/1 * * * *"
-  push:
-    branches: [main]
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
