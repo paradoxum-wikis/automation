@@ -1,4 +1,4 @@
-name: Weekly Contribution Check
+name: TDSW Weekly Contributions
 
 on:
   schedule:
@@ -11,6 +11,9 @@ permissions:
 jobs:
   check-contributions:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./tdsw/wiki-recap
 
     steps:
       - name: Checkout repository
@@ -25,7 +28,7 @@ jobs:
       - name: Run contribution checker
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_URL: ${{ secrets.TDSW_WEBHOOK_URL }}
         run: bun run index.js
 
       - name: Commit push

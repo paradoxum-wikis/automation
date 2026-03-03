@@ -1,4 +1,4 @@
-name: Trello Stalk Monitor
+name: AEW Trello Monitor
 
 on:
   schedule:
@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    defaults:
+      run:
+        working-directory: ./aew/trello-tracker
 
     steps:
       - uses: actions/checkout@v6

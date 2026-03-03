@@ -1,8 +1,8 @@
-name: Weekly Discord Webhook
+name: AEW Weekly Contributions
 
 on:
   schedule:
-    - cron: '0 14 * * 0'  # Every Sunday at 14:00 UTC
+    - cron: "0 14 * * 0" # Every Sunday at 14:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    defaults:
+      run:
+        working-directory: ./aew/wiki-recap
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
@@ -27,7 +31,7 @@ jobs:
       - name: Run DarkGabonnie
         run: npm run start
         env:
-          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_URL: ${{ secrets.AEW_WEBHOOK_URL }}
           FANDOM_SUBDOMAIN: ${{ vars.FANDOM_SUBDOMAIN }}
           EMBED_COLOR: ${{ vars.EMBED_COLOR }}
           TOP_N_CONTRIBUTORS: ${{ vars.TOP_N_CONTRIBUTORS }}
