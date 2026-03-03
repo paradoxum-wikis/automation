@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-09-14T14:11:47.934Z",
+  "totalContributors": 4,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "196",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "Antisrun228",
+      "userId": "53773711",
+      "avatar": "<div class=\"wds-avatar\" title=\"Antisrun228\"><a href=\"/wiki/User:Antisrun228\"><img src=\"https://static.wikia.nocookie.net/ca873fc1-834c-43ad-b363-6ce220ae30bb/zoom-crop/width/36/height/36\" alt=\"Antisrun228\" title=\"Antisrun228\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Antisrun228",
+      "userContactPage": "/wiki/Message_Wall:Antisrun228",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "WikiaColors",
+      "userId": "26393112",
+      "avatar": "<div class=\"wds-avatar\" title=\"WikiaColors\"><a href=\"/wiki/User:WikiaColors\"><img src=\"https://static.wikia.nocookie.net/8efd98a9-11b9-4d31-b628-829a13b6434e/zoom-crop/width/36/height/36\" alt=\"WikiaColors\" title=\"WikiaColors\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:WikiaColors",
+      "userContactPage": "/wiki/Message_Wall:WikiaColors",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 3
+    },
+    {
+      "userName": "Loeleveman",
+      "userId": "55615079",
+      "avatar": "<div class=\"wds-avatar\" title=\"Loeleveman\"><a href=\"/wiki/User:Loeleveman\"><img src=\"https://static.wikia.nocookie.net/01f463b5-383c-4c76-8c3b-e2efdf2fda5a/zoom-crop/width/36/height/36\" alt=\"Loeleveman\" title=\"Loeleveman\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Loeleveman",
+      "userContactPage": "/wiki/Message_Wall:Loeleveman",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 4
+    }
+  ]
+}

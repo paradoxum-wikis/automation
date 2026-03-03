@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-02-01T14:21:51.339Z",
+  "totalContributors": 3,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "161",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "Frogt007",
+      "userId": "49619721",
+      "avatar": "<div class=\"wds-avatar\" title=\"Frogt007\"><a href=\"/wiki/User:Frogt007\"><img src=\"https://static.wikia.nocookie.net/da9739d3-3ddf-427d-83a6-612f4ef1e851/zoom-crop/width/36/height/36\" alt=\"Frogt007\" title=\"Frogt007\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-content-moderator\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Frogt007",
+      "userContactPage": "/wiki/Message_Wall:Frogt007",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "72",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "SupremeVux",
+      "userId": "55299315",
+      "avatar": "<div class=\"wds-avatar\" title=\"SupremeVux\"><a href=\"/wiki/User:SupremeVux\"><img src=\"https://static.wikia.nocookie.net/db6237c4-1f16-4d5c-aed8-2973aa47673e/zoom-crop/width/36/height/36\" alt=\"SupremeVux\" title=\"SupremeVux\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:SupremeVux",
+      "userContactPage": "/wiki/Message_Wall:SupremeVux",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "5",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    }
+  ]
+}

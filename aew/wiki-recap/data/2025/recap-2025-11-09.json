@@ -1,0 +1,84 @@
+{
+  "timestamp": "2025-11-09T14:12:39.329Z",
+  "totalContributors": 6,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "274",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "XylapyMelody",
+      "userId": "46716906",
+      "avatar": "<div class=\"wds-avatar\" title=\"XylapyMelody\"><a href=\"/wiki/User:XylapyMelody\"><img src=\"https://static.wikia.nocookie.net/f1e2408e-f50e-4f0b-9043-599038caadfe/zoom-crop/width/36/height/36\" alt=\"XylapyMelody\" title=\"XylapyMelody\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:XylapyMelody",
+      "userContactPage": "/wiki/Message_Wall:XylapyMelody",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "17",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "SupremeVux",
+      "userId": "55299315",
+      "avatar": "<div class=\"wds-avatar\" title=\"SupremeVux\"><a href=\"/wiki/User:SupremeVux\"><img src=\"https://static.wikia.nocookie.net/b696a2bf-1f7a-4c76-8587-0770a7657573/zoom-crop/width/36/height/36\" alt=\"SupremeVux\" title=\"SupremeVux\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:SupremeVux",
+      "userContactPage": "/wiki/Message_Wall:SupremeVux",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "14",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    },
+    {
+      "userName": "Frogt007",
+      "userId": "49619721",
+      "avatar": "<div class=\"wds-avatar\" title=\"Frogt007\"><a href=\"/wiki/User:Frogt007\"><img src=\"https://static.wikia.nocookie.net/da9739d3-3ddf-427d-83a6-612f4ef1e851/zoom-crop/width/36/height/36\" alt=\"Frogt007\" title=\"Frogt007\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-content-moderator\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Frogt007",
+      "userContactPage": "/wiki/Message_Wall:Frogt007",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "13",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 4
+    },
+    {
+      "userName": "Ploobyclaus",
+      "userId": "53329199",
+      "avatar": "<div class=\"wds-avatar\" title=\"Ploobyclaus\"><a href=\"/wiki/User:Ploobyclaus\"><img src=\"https://static.wikia.nocookie.net/e417be8d-ba51-4bd6-be1e-349190d8b13c/zoom-crop/width/36/height/36\" alt=\"Ploobyclaus\" title=\"Ploobyclaus\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Ploobyclaus",
+      "userContactPage": "/wiki/Message_Wall:Ploobyclaus",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "7",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 5
+    },
+    {
+      "userName": "Mel00noob",
+      "userId": "55182675",
+      "avatar": "<div class=\"wds-avatar\" title=\"Mel00noob\"><a href=\"/wiki/User:Mel00noob\"><svg class=\"wds-avatar__image\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:Mel00noob",
+      "userContactPage": "/wiki/Message_Wall:Mel00noob",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 6
+    }
+  ]
+}

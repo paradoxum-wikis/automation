@@ -1,0 +1,33 @@
+name: Weekly Discord Webhook
+
+on:
+  schedule:
+    - cron: '0 14 * * 0'  # Every Sunday at 14:00 UTC
+  workflow_dispatch:
+
+jobs:
+  sendWebhook:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run DarkGabonnie
+        run: npm run start
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          FANDOM_SUBDOMAIN: ${{ vars.FANDOM_SUBDOMAIN }}
+          EMBED_COLOR: ${{ vars.EMBED_COLOR }}
+          TOP_N_CONTRIBUTORS: ${{ vars.TOP_N_CONTRIBUTORS }}

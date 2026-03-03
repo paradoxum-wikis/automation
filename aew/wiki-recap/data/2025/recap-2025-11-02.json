@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-11-02T16:18:09.077Z",
+  "totalContributors": 8,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "235",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "XylapyMelody",
+      "userId": "46716906",
+      "avatar": "<div class=\"wds-avatar\" title=\"XylapyMelody\"><a href=\"/wiki/User:XylapyMelody\"><img src=\"https://static.wikia.nocookie.net/f1e2408e-f50e-4f0b-9043-599038caadfe/zoom-crop/width/36/height/36\" alt=\"XylapyMelody\" title=\"XylapyMelody\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:XylapyMelody",
+      "userContactPage": "/wiki/Message_Wall:XylapyMelody",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "52",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "Frogt007",
+      "userId": "49619721",
+      "avatar": "<div class=\"wds-avatar\" title=\"Frogt007\"><a href=\"/wiki/User:Frogt007\"><img src=\"https://static.wikia.nocookie.net/da9739d3-3ddf-427d-83a6-612f4ef1e851/zoom-crop/width/36/height/36\" alt=\"Frogt007\" title=\"Frogt007\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Frogt007",
+      "userContactPage": "/wiki/Message_Wall:Frogt007",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "28",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    },
+    {
+      "userName": "LolenitoXD",
+      "userId": "53593192",
+      "avatar": "<div class=\"wds-avatar\" title=\"LolenitoXD\"><a href=\"/wiki/User:LolenitoXD\"><svg class=\"wds-avatar__image\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:LolenitoXD",
+      "userContactPage": "/wiki/Message_Wall:LolenitoXD",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "4",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 4
+    },
+    {
+      "userName": "Breathix",
+      "userId": "54249972",
+      "avatar": "<div class=\"wds-avatar\" title=\"Breathix\"><a href=\"/wiki/User:Breathix\"><img src=\"https://static.wikia.nocookie.net/68b4f839-bd5d-48bf-a070-ef99a7bed054/zoom-crop/width/36/height/36\" alt=\"Breathix\" title=\"Breathix\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-content-moderator\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Breathix",
+      "userContactPage": "/wiki/Message_Wall:Breathix",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "4",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 5
+    },
+    {
+      "userName": "TheMadGuy-123",
+      "userId": "54370852",
+      "avatar": "<div class=\"wds-avatar\" title=\"TheMadGuy-123\"><a href=\"/wiki/User:TheMadGuy-123\"><img src=\"https://static.wikia.nocookie.net/f3e2c4d9-c138-49f8-9014-ccbd8abf723f/zoom-crop/width/36/height/36\" alt=\"TheMadGuy-123\" title=\"TheMadGuy-123\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:TheMadGuy-123",
+      "userContactPage": "/wiki/Message_Wall:TheMadGuy-123",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 6
+    },
+    {
+      "userName": "Vortex2175",
+      "userId": "50546097",
+      "avatar": "<div class=\"wds-avatar\" title=\"Vortex2175\"><a href=\"/wiki/User:Vortex2175\"><img src=\"https://static.wikia.nocookie.net/d389f07f-d0ac-4041-bb59-a1ad95c061db/zoom-crop/width/36/height/36\" alt=\"Vortex2175\" title=\"Vortex2175\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Vortex2175",
+      "userContactPage": "/wiki/Message_Wall:Vortex2175",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 7
+    },
+    {
+      "userName": "TheKid769",
+      "userId": "56110519",
+      "avatar": "<div class=\"wds-avatar\" title=\"TheKid769\"><a href=\"/wiki/User:TheKid769\"><svg class=\"wds-avatar__image\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:TheKid769",
+      "userContactPage": "/wiki/Message_Wall:TheKid769",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 8
+    }
+  ]
+}

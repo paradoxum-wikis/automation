@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-07-27T14:14:09.085Z",
+  "totalContributors": 3,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "58",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "Raspbelle",
+      "userId": "53116541",
+      "avatar": "<div class=\"wds-avatar\" title=\"Raspbelle\"><a href=\"/wiki/User:Raspbelle\"><img src=\"https://static.wikia.nocookie.net/3596a2cc-ad01-4473-b0a9-ecdeb6f35bdb/zoom-crop/width/36/height/36\" alt=\"Raspbelle\" title=\"Raspbelle\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Raspbelle",
+      "userContactPage": "/wiki/Message_Wall:Raspbelle",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "Phidoductom1",
+      "userId": "49234444",
+      "avatar": "<div class=\"wds-avatar\" title=\"Phidoductom1\"><a href=\"/wiki/User:Phidoductom1\"><img src=\"https://static.wikia.nocookie.net/e328d1c0-8485-43cc-b357-08642710a153/zoom-crop/width/36/height/36\" alt=\"Phidoductom1\" title=\"Phidoductom1\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Phidoductom1",
+      "userContactPage": "/wiki/Message_Wall:Phidoductom1",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 3
+    }
+  ]
+}
