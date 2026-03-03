@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-07-06T14:13:34.888Z",
+  "totalContributors": 2,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "77",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "WowUrSoGoodAtTheGame",
+      "userId": "47424908",
+      "avatar": "<div class=\"wds-avatar\" title=\"WowUrSoGoodAtTheGame\"><a href=\"/wiki/User:WowUrSoGoodAtTheGame\"><img src=\"https://static.wikia.nocookie.net/0a8bb109-f960-4af3-bf26-85c9a4d37b5a/zoom-crop/width/36/height/36\" alt=\"WowUrSoGoodAtTheGame\" title=\"WowUrSoGoodAtTheGame\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:WowUrSoGoodAtTheGame",
+      "userContactPage": "/wiki/Message_Wall:WowUrSoGoodAtTheGame",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "timestamp": "2025-09-21T14:12:00.010Z",
+  "totalContributors": 5,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "203",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "XylapyMelody",
+      "userId": "46716906",
+      "avatar": "<div class=\"wds-avatar\" title=\"XylapyMelody\"><a href=\"/wiki/User:XylapyMelody\"><img src=\"https://static.wikia.nocookie.net/c21f466b-24e9-4ce7-8706-67758b1ce490/zoom-crop/width/36/height/36\" alt=\"XylapyMelody\" title=\"XylapyMelody\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:XylapyMelody",
+      "userContactPage": "/wiki/Message_Wall:XylapyMelody",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "5",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "WowUrSoGoodAtTheGame",
+      "userId": "47424908",
+      "avatar": "<div class=\"wds-avatar\" title=\"WowUrSoGoodAtTheGame\"><a href=\"/wiki/User:WowUrSoGoodAtTheGame\"><img src=\"https://static.wikia.nocookie.net/0a8bb109-f960-4af3-bf26-85c9a4d37b5a/zoom-crop/width/36/height/36\" alt=\"WowUrSoGoodAtTheGame\" title=\"WowUrSoGoodAtTheGame\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:WowUrSoGoodAtTheGame",
+      "userContactPage": "/wiki/Message_Wall:WowUrSoGoodAtTheGame",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    },
+    {
+      "userName": "Baconaton",
+      "userId": "52900011",
+      "avatar": "<div class=\"wds-avatar\" title=\"Baconaton\"><a href=\"/wiki/User:Baconaton\"><img src=\"https://static.wikia.nocookie.net/469c4d0f-43e7-40c9-988a-bfb2aa27dc12/zoom-crop/width/36/height/36\" alt=\"Baconaton\" title=\"Baconaton\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Baconaton",
+      "userContactPage": "/wiki/Message_Wall:Baconaton",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 4
+    },
+    {
+      "userName": "WikiaColors",
+      "userId": "26393112",
+      "avatar": "<div class=\"wds-avatar\" title=\"WikiaColors\"><a href=\"/wiki/User:WikiaColors\"><img src=\"https://static.wikia.nocookie.net/8efd98a9-11b9-4d31-b628-829a13b6434e/zoom-crop/width/36/height/36\" alt=\"WikiaColors\" title=\"WikiaColors\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:WikiaColors",
+      "userContactPage": "/wiki/Message_Wall:WikiaColors",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "timestamp": "2025-10-12T14:11:51.429Z",
+  "totalContributors": 6,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "348",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "XylapyMelody",
+      "userId": "46716906",
+      "avatar": "<div class=\"wds-avatar\" title=\"XylapyMelody\"><a href=\"/wiki/User:XylapyMelody\"><img src=\"https://static.wikia.nocookie.net/c21f466b-24e9-4ce7-8706-67758b1ce490/zoom-crop/width/36/height/36\" alt=\"XylapyMelody\" title=\"XylapyMelody\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:XylapyMelody",
+      "userContactPage": "/wiki/Message_Wall:XylapyMelody",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "24",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "Vwwwiou",
+      "userId": "44484630",
+      "avatar": "<div class=\"wds-avatar\" title=\"Vwwwiou\"><a href=\"/wiki/User:Vwwwiou\"><svg class=\"wds-avatar__image\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:Vwwwiou",
+      "userContactPage": "/wiki/Message_Wall:Vwwwiou",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    },
+    {
+      "userName": "RustyChroma",
+      "userId": "50455120",
+      "avatar": "<div class=\"wds-avatar\" title=\"RustyChroma\"><a href=\"/wiki/User:RustyChroma\"><img src=\"https://static.wikia.nocookie.net/668543cd-dada-4dab-bd89-26abb7c2d3f7/zoom-crop/width/36/height/36\" alt=\"RustyChroma\" title=\"RustyChroma\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:RustyChroma",
+      "userContactPage": "/wiki/Message_Wall:RustyChroma",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 4
+    },
+    {
+      "userName": "VibEyedValk",
+      "userId": "53666699",
+      "avatar": "<div class=\"wds-avatar\" title=\"VibEyedValk\"><a href=\"/wiki/User:VibEyedValk\"><img src=\"https://static.wikia.nocookie.net/53ae380a-3a73-46a5-b6c6-c23c7ffe3703/zoom-crop/width/36/height/36\" alt=\"VibEyedValk\" title=\"VibEyedValk\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:VibEyedValk",
+      "userContactPage": "/wiki/Message_Wall:VibEyedValk",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 5
+    },
+    {
+      "userName": "CATPLAYZs",
+      "userId": "57107719",
+      "avatar": "<div class=\"wds-avatar\" title=\"CATPLAYZs\"><a href=\"/wiki/User:CATPLAYZs\"><svg class=\"wds-avatar__image\"><use xlink:href=\"#wds-icons-avatar\"></use></svg></a></div>",
+      "profileUrl": "/wiki/User:CATPLAYZs",
+      "userContactPage": "/wiki/Message_Wall:CATPLAYZs",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 6
+    }
+  ]
+}

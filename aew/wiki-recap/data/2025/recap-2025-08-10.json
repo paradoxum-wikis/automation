@@ -1,0 +1,71 @@
+{
+  "timestamp": "2025-08-10T14:14:05.705Z",
+  "totalContributors": 5,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "286",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "Vortex2175",
+      "userId": "50546097",
+      "avatar": "<div class=\"wds-avatar\" title=\"Vortex2175\"><a href=\"/wiki/User:Vortex2175\"><img src=\"https://static.wikia.nocookie.net/d389f07f-d0ac-4041-bb59-a1ad95c061db/zoom-crop/width/36/height/36\" alt=\"Vortex2175\" title=\"Vortex2175\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Vortex2175",
+      "userContactPage": "/wiki/Message_Wall:Vortex2175",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "Raspbelle",
+      "userId": "53116541",
+      "avatar": "<div class=\"wds-avatar\" title=\"Raspbelle\"><a href=\"/wiki/User:Raspbelle\"><img src=\"https://static.wikia.nocookie.net/3596a2cc-ad01-4473-b0a9-ecdeb6f35bdb/zoom-crop/width/36/height/36\" alt=\"Raspbelle\" title=\"Raspbelle\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Raspbelle",
+      "userContactPage": "/wiki/Message_Wall:Raspbelle",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    },
+    {
+      "userName": "Phidoductom1",
+      "userId": "49234444",
+      "avatar": "<div class=\"wds-avatar\" title=\"Phidoductom1\"><a href=\"/wiki/User:Phidoductom1\"><img src=\"https://static.wikia.nocookie.net/e328d1c0-8485-43cc-b357-08642710a153/zoom-crop/width/36/height/36\" alt=\"Phidoductom1\" title=\"Phidoductom1\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Phidoductom1",
+      "userContactPage": "/wiki/Message_Wall:Phidoductom1",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 4
+    },
+    {
+      "userName": "Mishanik538",
+      "userId": "52412764",
+      "avatar": "<div class=\"wds-avatar\" title=\"Mishanik538\"><a href=\"/wiki/User:Mishanik538\"><img src=\"https://static.wikia.nocookie.net/698209d5-c76a-40a6-9922-856767517a14/zoom-crop/width/36/height/36\" alt=\"Mishanik538\" title=\"Mishanik538\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:Mishanik538",
+      "userContactPage": "/wiki/Message_Wall:Mishanik538",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "1",
+      "latestRevision": null,
+      "contributionsText": "contribution",
+      "index": 5
+    }
+  ]
+}
