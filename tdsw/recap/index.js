@@ -92,7 +92,7 @@ client.once("ready", async () => {
 
     const embed = {
       title: "This Week's Top Contributors",
-      description: `${top5.map(([name, count], i) => `${i + 1}. [${name}](https://tds.fandom.com/User:${name.replace(/ /g, "_")}) - ${count} edit${count === 1 ? "" : "s"}`).join("\n")}\n\n[📊 View full recap](https://github.com/Paradoxum-Wikis/weekly-contributor-test/blob/main/week/${data.week}.json)`,
+      description: `${top5.map(([name, count], i) => `${i + 1}. [${name}](https://tds.fandom.com/User:${name.replace(/ /g, "_")}) - ${count} edit${count === 1 ? "" : "s"}`).join("\n")}\n\n[📊 View full recap](https://github.com/paradoxum-wikis/automation/blob/main/tdsw/recap/week/${data.week}.json)`,
       footer: {
         text: `Top 5 contributors from ${formatDate(lastMonday)} to ${formatDate(new Date(now.getTime() - 86400000))}`,
       },
