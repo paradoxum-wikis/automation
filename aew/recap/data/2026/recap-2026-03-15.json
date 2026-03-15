@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-03-15T14:37:00.882Z",
+  "totalContributors": 3,
+  "contributors": [
+    {
+      "userName": "Gabonnie",
+      "userId": "36243163",
+      "avatar": "<div class=\"wds-avatar\" title=\"Gabonnie\"><a href=\"/wiki/User:Gabonnie\"><img src=\"https://static.wikia.nocookie.net/c566ceec-b99a-489a-b5ee-fd3c1a3e2eec/zoom-crop/width/36/height/36\" alt=\"Gabonnie\" title=\"Gabonnie\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-admin\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Gabonnie",
+      "userContactPage": "/wiki/Message_Wall:Gabonnie",
+      "isAdmin": true,
+      "isCurrent": false,
+      "contributions": "7",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 1
+    },
+    {
+      "userName": "Frogt007",
+      "userId": "49619721",
+      "avatar": "<div class=\"wds-avatar\" title=\"Frogt007\"><a href=\"/wiki/User:Frogt007\"><img src=\"https://static.wikia.nocookie.net/da9739d3-3ddf-427d-83a6-612f4ef1e851/zoom-crop/width/36/height/36\" alt=\"Frogt007\" title=\"Frogt007\" class=\"wds-avatar__image\"><span class=\"wds-avatar__badge\"><svg><use xlink:href=\"#wds-avatar-badges-content-moderator\"></use></svg></span></a></div>",
+      "profileUrl": "/wiki/User:Frogt007",
+      "userContactPage": "/wiki/Message_Wall:Frogt007",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "3",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 2
+    },
+    {
+      "userName": "INLOC",
+      "userId": "58141291",
+      "avatar": "<div class=\"wds-avatar\" title=\"INLOC\"><a href=\"/wiki/User:INLOC\"><img src=\"https://static.wikia.nocookie.net/4440fb25-1664-4f48-b3e5-3d71aa44e163/zoom-crop/width/36/height/36\" alt=\"INLOC\" title=\"INLOC\" class=\"wds-avatar__image\"></a></div>",
+      "profileUrl": "/wiki/User:INLOC",
+      "userContactPage": "/wiki/Message_Wall:INLOC",
+      "isAdmin": false,
+      "isCurrent": false,
+      "contributions": "2",
+      "latestRevision": null,
+      "contributionsText": "contributions",
+      "index": 3
+    }
+  ]
+}
