@@ -82,11 +82,7 @@
               "width": 4463
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94be",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94be"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/6900db0d87e950987c4724f8/attachments/6900e5abf6a5248de790fcae/download/Asset_104x.png",
           "pos": 140737488355328,
           "fileName": "Asset_104x.png"
@@ -166,11 +162,7 @@
               "width": 1920
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94bf",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94bf"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/6900db0d87e950987c4724f8/attachments/6900e845265cb1e4e367188f/download/GplBaDHWEAAetC_.jpeg",
           "pos": 140737488371712,
           "fileName": "GplBaDHWEAAetC_.jpeg"
@@ -250,11 +242,7 @@
               "width": 1920
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94c0",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94c0"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/6900db0d87e950987c4724f8/attachments/69012d76fe7045619892f73d/download/thumb4.png",
           "pos": 140737488388096,
           "fileName": "thumb4.png"
@@ -345,11 +333,7 @@
               "width": 1920
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94c2",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94c2"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/6900e04b951e98672a7ec631/attachments/690129f2c268a98bc7c3b927/download/Husk_Thumbnail.png",
           "pos": 140737488355328,
           "fileName": "Husk_Thumbnail.png"
@@ -370,7 +354,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 1
+          "uses": 12
         },
         {
           "id": "68ffb0f747088dd37de7a68c",
@@ -406,7 +390,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -452,7 +436,7 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/iCDmQcEQ/20-lag-compensation",
-      "closed": false
+      "closed": true
     },
     "68ffc8a30a1f0039e00f398f": {
       "name": "Survivor: Toothy",
@@ -546,11 +530,7 @@
               "width": 2486
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94b2",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94b2"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/68ffc8a30a1f0039e00f398f/attachments/6900e69b0468fe5212018f0e/download/image.png",
           "pos": 140737488355328,
           "fileName": "image.png"
@@ -651,11 +631,7 @@
               "width": 1408
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94b4",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94b4"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/download/Hacking.png",
           "pos": 140737488355328,
           "fileName": "Hacking.png"
@@ -684,10 +660,30 @@
       "url": "https://trello.com/c/O1lpwWdf/13-improved-mobile-ux",
       "closed": false
     },
+    "6934a3e1358695d9987ba0d7": {
+      "name": "Free To Play Weekend 🚀",
+      "desc": "",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68f",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68f",
+          "color": "blue",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/u9bBpSX7/39-free-to-play-weekend-%F0%9F%9A%80",
+      "closed": false
+    },
     "690253a9de0ede3e37dc4f97": {
       "name": "Chase Gamemode (Gamemode Rework)",
       "desc": "This is a fundamental gameplay change that separates the current core game mode into Chase and Objective game modes. Objective will be released at a later date due to a lack of essential features to make Objective’s gameplay balanced.\n\n**Gamemode:**\n\nA high-intensity mode where survivors must outlast the killer until time expires or the exit gates open.\n\n**Generator Nodes:**\n\n- Redo generator placement to be node-based rather than layout based; supports more randomized generator placements on maps.",
-      "idList": "68ffb548a089520807ddbb14",
+      "idList": "692090346a3685cff873e20b",
       "labels": [
         {
           "id": "68ffb0f747088dd37de7a68f",
@@ -707,7 +703,7 @@
     "6900e436218d9132b0599602": {
       "name": "Map Consumables",
       "desc": "Our first step in the long-term vision of consumables in Alter Ego; consumables are limited-use items that give players a temporary boost or advantage during matches.",
-      "idList": "68ffb548a089520807ddbb14",
+      "idList": "692090346a3685cff873e20b",
       "labels": [
         {
           "id": "68ffb0f747088dd37de7a68f",
@@ -727,7 +723,7 @@
     "6900dab8a3eda9692a6493e4": {
       "name": "News Feed",
       "desc": "Easy way to stay up-to-date with the latest updates, directly in the game.",
-      "idList": "68ffb548a089520807ddbb14",
+      "idList": "692090346a3685cff873e20b",
       "labels": [
         {
           "id": "68ffb0f747088dd37de7a68f",
@@ -747,7 +743,7 @@
     "6900da801bd7b0e82cee0c1a": {
       "name": "Developer Credits Page",
       "desc": "Credit for developers' work on the game.",
-      "idList": "68ffb548a089520807ddbb14",
+      "idList": "692090346a3685cff873e20b",
       "labels": [
         {
           "id": "68ffb0f747088dd37de7a68f",
@@ -764,30 +760,10 @@
       "url": "https://trello.com/c/haSL1bZ1/9-developer-credits-page",
       "closed": false
     },
-    "6900da9626f170f14545bbc2": {
-      "name": "Status Effect System Revamp",
-      "desc": "A backend rewrite of our Status Effects system to empower us to make cooler characters in the future.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68f",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Shipped",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68f",
-          "color": "blue",
-          "uses": 12
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/mesJTazm/10-status-effect-system-revamp",
-      "closed": false
-    },
     "6900da7abdd75c6e6e2a8ff6": {
       "name": "Lobby NPCs",
       "desc": "Interactable characters to bring more life and story into Alter Ego. These NPCs will give players a chance to explore the lore and worldbuilding of our game - making downtime more engaging between matches.\n\nOver time, we’ll be able to expand this system and update our characters to reflect new events, storylines, and signaling future updates, allowing the Labyrinth to grow alongside the game itself.",
-      "idList": "68ffb548a089520807ddbb14",
+      "idList": "692090346a3685cff873e20b",
       "labels": [
         {
           "id": "68ffb0f747088dd37de7a68f",
@@ -867,11 +843,7 @@
               "width": 1056
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94bc",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94bc"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/download/image.png",
           "pos": 140737488355328,
           "fileName": "image.png"
@@ -880,9 +852,9 @@
       "url": "https://trello.com/c/gdgMW60B/8-lobby-npcs",
       "closed": false
     },
-    "6934a3e1358695d9987ba0d7": {
-      "name": "Free To Play Weekend 🚀",
-      "desc": "",
+    "6900da9626f170f14545bbc2": {
+      "name": "Status Effect System Revamp",
+      "desc": "A backend rewrite of our Status Effects system to empower us to make cooler characters in the future.",
       "idList": "692090346a3685cff873e20b",
       "labels": [
         {
@@ -897,22 +869,22 @@
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/u9bBpSX7/39-free-to-play-weekend-%F0%9F%9A%80",
+      "url": "https://trello.com/c/mesJTazm/10-status-effect-system-revamp",
       "closed": false
     },
     "69209154d2fb3e5109729012": {
       "name": "Beta Launch 🚀",
       "desc": "Information coming soon…",
-      "idList": "692090346a3685cff873e20b",
+      "idList": "68ffca9a28f29fdf39559bb1",
       "labels": [
         {
-          "id": "6900e44b846214f33db124db",
+          "id": "68ffb0f747088dd37de7a68a",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
         }
       ],
       "idAttachmentCover": null,
@@ -923,16 +895,16 @@
     "68ffcaa422a4a38344101be3": {
       "name": "Sols Shop",
       "desc": "Information coming soon…",
-      "idList": "692090346a3685cff873e20b",
+      "idList": "68ffca9a28f29fdf39559bb1",
       "labels": [
         {
-          "id": "6900e44b846214f33db124db",
+          "id": "68ffb0f747088dd37de7a68a",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
         }
       ],
       "idAttachmentCover": "690f9b6c4449fee258fcbc88",
@@ -1003,11 +975,7 @@
               "width": 912
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94d5",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94d5"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/download/image.png",
           "pos": 140737488355328,
           "fileName": "image.png"
@@ -1016,10 +984,190 @@
       "url": "https://trello.com/c/lPshZVDV/5-sols-shop",
       "closed": false
     },
-    "68ffc8a4d110a79f487409f6": {
-      "name": "Ego: The Maw",
-      "desc": "Commander’s Ego: **The Maw**.\n\nFocused on disbanding groups of survivors rather than a singular target. The Maw can control the labyrinth and turn the tide of a match - survivors will have to adapt their playstyle to survive.",
-      "idList": "692090346a3685cff873e20b",
+    "69012519d5c6d6f486d400a6": {
+      "name": "Roster Progression",
+      "desc": "Expand your roster as you play utilizing Sols. Straightforward, rewarding way to grow your lineup and experience what each character has to offer in the game.",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/6cLRK9z4/25-roster-progression",
+      "closed": false
+    },
+    "6900dcd918b7ac4ac81b0e75": {
+      "name": "Emotes",
+      "desc": "Express yourself further with emotes! Show off against Egos in-game or dance with friends in the lobby.",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/FH7IKdMr/16-emotes",
+      "closed": false
+    },
+    "6901241341ac99a7e079987c": {
+      "name": "Taunts",
+      "desc": "Sound cues usable for drawing attention away from other survivors - or simply just to tease the Ego.",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/zhrNC8kz/24-taunts",
+      "closed": false
+    },
+    "6900da70a4966cd3483a161f": {
+      "name": "Console Compatibility",
+      "desc": "Expanded support for Roblox on Playstation / Xbox. Controls + UX will be optimized for a TV setting.",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
+      "closed": false
+    },
+    "6901a0eccd205fda43337692": {
+      "name": "Improved Ego Intro/Outro",
+      "desc": "",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/oQVo6OaN/33-improved-ego-intro-outro",
+      "closed": false
+    },
+    "6901a0e6b18da34a3656de66": {
+      "name": "Survivor Win Screen",
+      "desc": "",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/wZRPWryw/32-survivor-win-screen",
+      "closed": false
+    },
+    "6900e57084a1f1c0054f22af": {
+      "name": "Map: ???",
+      "desc": "Information coming soon…",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/J05M3gH6/22-map",
+      "closed": false
+    },
+    "6901262fc6ec2ab38bed2b07": {
+      "name": "Private Server Support",
+      "desc": "",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/HrjDNPDm/30-private-server-support",
+      "closed": false
+    },
+    "6900da9f51173f1b0acd0c54": {
+      "name": "Inventory UX Improvements",
+      "desc": "A second pass at the inventory UI with clearer support for future additions, such as a section that clearly displays player’s Sols, as well as more text labels to help navigating the menu easier.",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 12
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/kvcOWbVn/11-inventory-ux-improvements",
+      "closed": false
+    },
+    "6900daa2d34c1fa8a4df15ef": {
+      "name": "Ragdolls",
+      "desc": "Ragdoll physics for characters to make world interactivity feel more dynamic and immersive. Certain abilities will make players ragdoll, with their character movements interacting naturally in the environment.",
+      "idList": "68ffca9a28f29fdf39559bb1",
       "labels": [
         {
           "id": "6900e44b846214f33db124db",
@@ -1028,7 +1176,47 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/3eZFRIB3/12-ragdolls",
+      "closed": false
+    },
+    "6900df74a346c37c082c2f97": {
+      "name": "Tooltips",
+      "desc": "Adding in helpful tool tips throughout the game to guide new and experienced players. Notably: hovering over passive abilities in the game will offer explanations on what they do, making learning the game easier and more intuitive.",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 19
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/jzA1cBaC/17-tooltips",
+      "closed": false
+    },
+    "68ffc8a4d110a79f487409f6": {
+      "name": "Ego: The Maw",
+      "desc": "Commander’s Ego: **The Maw**.\n\nFocused on disbanding groups of survivors rather than a singular target. The Maw can control the labyrinth and turn the tide of a match - survivors will have to adapt their playstyle to survive.",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 19
         }
       ],
       "idAttachmentCover": "69025c50b7da04567773d0ad",
@@ -1108,237 +1296,13 @@
               "width": 2923
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94d7",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94d7"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/69025c50b7da04567773d0ad/download/TheMawConcept.png",
           "pos": 140737488355328,
           "fileName": "TheMawConcept.png"
         }
       ],
       "url": "https://trello.com/c/qSxNPzcV/2-ego-the-maw",
-      "closed": false
-    },
-    "69012519d5c6d6f486d400a6": {
-      "name": "Roster Progression",
-      "desc": "Expand your roster as you play utilizing Sols. Straightforward, rewarding way to grow your lineup and experience what each character has to offer in the game.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/6cLRK9z4/25-roster-progression",
-      "closed": false
-    },
-    "6900dcd918b7ac4ac81b0e75": {
-      "name": "Emotes",
-      "desc": "Express yourself further with emotes! Show off against Egos in-game or dance with friends in the lobby.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/FH7IKdMr/16-emotes",
-      "closed": false
-    },
-    "6901241341ac99a7e079987c": {
-      "name": "Taunts",
-      "desc": "Sound cues usable for drawing attention away from other survivors - or simply just to tease the Ego.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/zhrNC8kz/24-taunts",
-      "closed": false
-    },
-    "6901262fc6ec2ab38bed2b07": {
-      "name": "Private Server Support",
-      "desc": "",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/HrjDNPDm/30-private-server-support",
-      "closed": false
-    },
-    "6901a0e6b18da34a3656de66": {
-      "name": "Survivor Win Screen",
-      "desc": "",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/wZRPWryw/32-survivor-win-screen",
-      "closed": false
-    },
-    "6901a0eccd205fda43337692": {
-      "name": "Improved Ego Intro/Outro",
-      "desc": "",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/oQVo6OaN/33-improved-ego-intro-outro",
-      "closed": false
-    },
-    "6900da70a4966cd3483a161f": {
-      "name": "Console Compatibility",
-      "desc": "Expanded support for Roblox on Playstation / Xbox. Controls + UX will be optimized for a TV setting.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
-      "closed": false
-    },
-    "6900e57084a1f1c0054f22af": {
-      "name": "Map: ???",
-      "desc": "Information coming soon…",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/J05M3gH6/22-map",
-      "closed": false
-    },
-    "6900da9f51173f1b0acd0c54": {
-      "name": "Inventory UX Improvements",
-      "desc": "A second pass at the inventory UI with clearer support for future additions, such as a section that clearly displays player’s Sols, as well as more text labels to help navigating the menu easier.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/kvcOWbVn/11-inventory-ux-improvements",
-      "closed": false
-    },
-    "6900df74a346c37c082c2f97": {
-      "name": "Tooltips",
-      "desc": "Adding in helpful tool tips throughout the game to guide new and experienced players. Notably: hovering over passive abilities in the game will offer explanations on what they do, making learning the game easier and more intuitive.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/jzA1cBaC/17-tooltips",
-      "closed": false
-    },
-    "6900daa2d34c1fa8a4df15ef": {
-      "name": "Ragdolls",
-      "desc": "Ragdoll physics for characters to make world interactivity feel more dynamic and immersive. Certain abilities will make players ragdoll, with their character movements interacting naturally in the environment.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/3eZFRIB3/12-ragdolls",
       "closed": false
     },
     "68ffc8aa60c932bb272919eb": {
@@ -1353,7 +1317,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": "690f9aecc444702075327dd6",
@@ -1424,11 +1388,7 @@
               "width": 907
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94c7",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94c7"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/68ffc8aa60c932bb272919eb/attachments/690f9aecc444702075327dd6/download/image.png",
           "pos": 140737488355328,
           "fileName": "image.png"
@@ -1449,7 +1409,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": "690e64ed33ce407e0d7b5760",
@@ -1529,11 +1489,7 @@
               "width": 1300
             }
           ],
-          "sourceView": {
-            "_id": "69a720f13413af38b3cb94c9",
-            "typeName": "SourceView",
-            "id": "69a720f13413af38b3cb94c9"
-          },
+          "sourceView": {},
           "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/download/bman-goner-teaser.png",
           "pos": 140737488355328,
           "fileName": "bman-goner-teaser.png"
@@ -1554,7 +1510,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1574,7 +1530,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1594,7 +1550,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1614,7 +1570,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1634,7 +1590,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1654,7 +1610,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1674,7 +1630,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1694,7 +1650,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1714,7 +1670,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1734,7 +1690,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1754,7 +1710,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1774,7 +1730,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1794,7 +1750,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 30
+          "uses": 19
         }
       ],
       "idAttachmentCover": null,
@@ -1931,7 +1887,7 @@
     "68ffb54696bf79a49703f522": {
       "id": "68ffb54696bf79a49703f522",
       "name": "November",
-      "closed": false,
+      "closed": true,
       "color": null,
       "idBoard": "68ffb0f747088dd37de7a60e",
       "pos": 140737488379904,
@@ -1962,7 +1918,7 @@
     "68ffb548a089520807ddbb14": {
       "id": "68ffb548a089520807ddbb14",
       "name": "January",
-      "closed": false,
+      "closed": true,
       "color": null,
       "idBoard": "68ffb0f747088dd37de7a60e",
       "pos": 140737488384000,
@@ -2146,32 +2102,9 @@
       "nodeId": "ari:cloud:trello::list/workspace/5e5d3a4d7f295033c77bbff5/6934a434f5e2857462e78369"
     }
   },
-  "labels": {
-    "6900e44b846214f33db124db": {
-      "name": "Planned",
-      "color": "purple_light"
-    },
-    "68ffb0f747088dd37de7a68f": {
-      "name": "Shipped",
-      "color": "blue"
-    },
-    "68ffb0f747088dd37de7a68d": {
-      "name": "Delayed",
-      "color": "red"
-    },
-    "68ffb0f747088dd37de7a68a": {
-      "name": "On Track",
-      "color": "green"
-    },
-    "68ffb0f747088dd37de7a68c": {
-      "name": "Running Behind",
-      "color": "orange"
-    }
-  },
   "board": {
     "name": "Alter Ego Public Roadmap",
-    "desc": "",
-    "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
+    "desc": ""
   },
-  "lastCheck": "2026-03-03T17:57:05.779Z"
+  "lastCheck": "2026-03-16T21:03:08.789Z"
 }
