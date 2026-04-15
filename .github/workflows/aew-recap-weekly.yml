@@ -31,7 +31,7 @@ jobs:
           WEBHOOK_URL: ${{ secrets.AEW_WEBHOOK_URL }}
           CHANNEL_ID: "1362097950934695946"
           FANDOM_SUBDOMAIN: "alter-ego"
-          EMBED_COLOR: "0099ff"
+          EMBED_COLOR: "b5285e"
           PROJECT_DIR: "aew"
         run: bun run index.js
 
