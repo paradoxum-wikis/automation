@@ -39,6 +39,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ../tdsw/data/
+          git add ../data/recap/tdsw/
           git commit -m "chore: tdsw weekly data" || echo "No changes to commit"
           git push

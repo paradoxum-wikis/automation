@@ -86,7 +86,7 @@ client.once("ready", async () => {
 			counts: Object.fromEntries(sorted),
 		};
 
-		const dataDir = `../${PROJECT_DIR}/data/${year}`;
+		const dataDir = `../data/recap/${PROJECT_DIR}/${year}`;
 		if (!fs.existsSync(dataDir)) {
 			fs.mkdirSync(dataDir, { recursive: true });
 		}
@@ -134,7 +134,7 @@ client.once("ready", async () => {
 				descriptionContent;
 		}
 
-		descriptionContent += `\n\n[📊 View full recap](https://github.com/paradoxum-wikis/automation/blob/main/${PROJECT_DIR}/data/${year}/${weekDate}.json)`;
+		descriptionContent += `\n\n[📊 View full recap](https://github.com/paradoxum-wikis/automation/blob/main/data/recap/${PROJECT_DIR}/${year}/${weekDate}.json)`;
 
 		const embed = {
 			title: "This Week's Top Contributors Recap",
