@@ -12,7 +12,7 @@ jobs:
       contents: write
     defaults:
       run:
-        working-directory: ./aew/trello-tracker
+        working-directory: ./trello-tracker
 
     steps:
       - uses: actions/checkout@v6
@@ -26,5 +26,5 @@ jobs:
       - run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add board_state.json
+          git add ../data/trello-tracker/aew/board_state.json
           git diff --cached --quiet || git commit -m "chore: update board state" && git push
