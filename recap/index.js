@@ -130,7 +130,7 @@ client.once("ready", async () => {
 
 		if (PROJECT_DIR === "aew") {
 			descriptionContent =
-				"🏆 Type `/syncroles` to receive your contributor role!\n\n" +
+				"🏆 Type `/syncroles` to receive your contributor role!\n" +
 				descriptionContent;
 		}
 
