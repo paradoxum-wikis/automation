@@ -40,4 +40,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add ../data/recap/tdsw/
-          git diff --cached --quiet || (git commit -m "chore: tdsw weekly data" && git push)
+          git diff --cached --quiet || (git commit -m "chore: tdsw weekly data" && (git push || (git pull --rebase && git push)))
