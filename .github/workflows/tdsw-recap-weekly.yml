@@ -2,7 +2,7 @@ name: TDSW Weekly Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Every Monday at 00:00 UTC
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./tdsw/recap
+        working-directory: ./recap
 
     steps:
       - name: Checkout repository
@@ -29,12 +29,16 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           WEBHOOK_URL: ${{ secrets.TDSW_WEBHOOK_URL }}
+          CHANNEL_ID: "940127956276224020"
+          FANDOM_SUBDOMAIN: "tds"
+          EMBED_COLOR: "00ff00"
+          PROJECT_DIR: "tdsw"
         run: bun run index.js
 
       - name: Commit push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add week/
-          git commit -m "chore: weekly data" || echo "No changes to commit"
+          git add ../tdsw/data/
+          git commit -m "chore: tdsw weekly data" || echo "No changes to commit"
           git push
