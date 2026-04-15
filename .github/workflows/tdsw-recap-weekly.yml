@@ -31,7 +31,7 @@ jobs:
           WEBHOOK_URL: ${{ secrets.TDSW_WEBHOOK_URL }}
           CHANNEL_ID: "940127956276224020"
           FANDOM_SUBDOMAIN: "tds"
-          EMBED_COLOR: "00ff00"
+          EMBED_COLOR: "01cef5"
           PROJECT_DIR: "tdsw"
         run: bun run index.js
 
