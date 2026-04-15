@@ -24,7 +24,7 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.TRELLO_WEBHOOK_URL }}
           TRELLO_JSON_URL: ${{ secrets.TRELLO_JSON_URL }}
       - run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
           git add ../data/trello-tracker/aew/board_state.json
-          git diff --cached --quiet || git commit -m "chore: update board state" && git push
+          git diff --cached --quiet || (git commit -m "chore: update board state" && git push)

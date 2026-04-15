@@ -37,8 +37,7 @@ jobs:
 
       - name: Commit push
         run: |
-          git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
           git add ../data/recap/tdsw/
-          git commit -m "chore: tdsw weekly data" || echo "No changes to commit"
-          git push
+          git diff --cached --quiet || (git commit -m "chore: tdsw weekly data" && git push)
