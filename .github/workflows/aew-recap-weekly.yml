@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   check-contributions:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     defaults:
       run:
         working-directory: ./recap
