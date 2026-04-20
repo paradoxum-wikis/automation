@@ -137,7 +137,7 @@ client.once("ready", async () => {
 		descriptionContent += `\n\n[📊 View full recap](https://github.com/paradoxum-wikis/automation/blob/main/data/recap/${PROJECT_DIR}/${year}/${weekDate}.json)`;
 
 		const embed = {
-			title: "This Week's Top Contributors Recap",
+			title: "This Week's Top Contributors",
 			description: descriptionContent,
 			footer: {
 				text: `Top 5 contributors from ${formatDate(lastMonday)} to ${formatDate(endDate)}`,
