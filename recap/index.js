@@ -134,7 +134,7 @@ client.once("ready", async () => {
 				descriptionContent;
 		}
 
-		descriptionContent += `\n\n[📊 View full recap](https://github.com/paradoxum-wikis/automation/blob/main/data/recap/${PROJECT_DIR}/${year}/${weekDate}.json)`;
+		descriptionContent += `\n\n[📊 View full recap](https://companio.alterego.wiki/recap?date=${weekDate}&wiki=${PROJECT_DIR})`;
 
 		const embed = {
 			title: "This Week's Top Contributors",
