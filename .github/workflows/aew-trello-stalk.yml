@@ -27,4 +27,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add ../data/trello-tracker/aew/board_state.json
-          git diff --cached --quiet || (git commit -m "chore: update board state" && git push)
+          git diff --cached --quiet || (git commit -m "chore: update board state" && (git push || (git pull --rebase && git push)))
