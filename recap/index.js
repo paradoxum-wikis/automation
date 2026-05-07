@@ -59,11 +59,12 @@ client.once("ready", async () => {
     console.log(`Fetched ${messages.length} messages`);
 
     const counts = {};
-    let irrelevantMessages = 0;
+    let globalIrrelevant = 0;
     messages.forEach((msg) => {
       if (!msg.embeds || msg.embeds.length === 0) return;
       const embed = msg.embeds[0];
 
+      let isIrrelevant = false;
       if (embed.title) {
         const titleLower = embed.title.toLowerCase();
         if (
@@ -71,7 +72,8 @@ client.once("ready", async () => {
           titleLower.startsWith("user:") ||
           /^[^:]*talk:/i.test(embed.title)
         ) {
-          irrelevantMessages++;
+          isIrrelevant = true;
+          globalIrrelevant++;
         }
       }
 
@@ -87,17 +89,38 @@ client.once("ready", async () => {
         }
       }
       if (name) {
-        counts[name] = (counts[name] || 0) + 1;
+        if (!counts[name]) counts[name] = { total: 0, irrelevant: 0 };
+        counts[name].total++;
+        if (isIrrelevant) counts[name].irrelevant++;
       }
     });
 
-    const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+    const sorted = Object.entries(counts).sort(
+      (a, b) => b[1].total - b[1].irrelevant - (a[1].total - a[1].irrelevant),
+    );
+
+    // Map back to just numbers for the legacy `counts` object
+    const legacyCounts = Object.fromEntries(
+      sorted.map(([name, stats]) => [name, stats.total]),
+    );
+
+    const irrelevantCounts = Object.fromEntries(
+      sorted.map(([name, stats]) => [
+        name,
+        {
+          relevant: stats.total - stats.irrelevant,
+          change: stats.irrelevant,
+        },
+      ]),
+    );
+
     const top5 = sorted.slice(0, 5);
     const recap = {
       week: weekDate,
       totalMessages: messages.length,
-      irrelevantMessages,
-      counts: Object.fromEntries(sorted),
+      irrelevantMessages: globalIrrelevant,
+      counts: legacyCounts,
+      irrelevantCounts,
     };
 
     const dataDir = `../data/recap/${PROJECT_DIR}/${year}`;
@@ -136,10 +159,10 @@ client.once("ready", async () => {
     const endDate = new Date(now.getTime() - 86400000);
 
     let descriptionContent = top5
-      .map(
-        ([name, count], i) =>
-          `${i + 1}. [${name}](https://${FANDOM_SUBDOMAIN}.fandom.com/User:${name.replace(/ /g, "_")}) - ${count} edit${count === 1 ? "" : "s"}`,
-      )
+      .map(([name, stats], i) => {
+        const valid = stats.total - stats.irrelevant;
+        return `${i + 1}. [${name}](https://${FANDOM_SUBDOMAIN}.fandom.com/User:${name.replace(/ /g, "_")}) - ${valid} (${stats.total}) edit${stats.total === 1 ? "" : "s"}`;
+      })
       .join("\n");
 
     if (PROJECT_DIR === "aew") {
