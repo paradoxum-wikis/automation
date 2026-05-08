@@ -354,7 +354,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 3
+          "uses": 4
         },
         {
           "id": "68ffb0f747088dd37de7a68c",
@@ -390,7 +390,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1176,7 +1176,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 3
+          "uses": 4
         }
       ],
       "idAttachmentCover": null,
@@ -1196,32 +1196,12 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 3
+          "uses": 4
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/HrjDNPDm/30-private-server-support",
-      "closed": false
-    },
-    "6900df74a346c37c082c2f97": {
-      "name": "Tooltips",
-      "desc": "Adding in helpful tool tips throughout the game to guide new and experienced players. Notably: hovering over passive abilities in the game will offer explanations on what they do, making learning the game easier and more intuitive.",
-      "idList": "68ffca9a28f29fdf39559bb1",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 17
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/jzA1cBaC/17-tooltips",
       "closed": false
     },
     "68ffc8a4d110a79f487409f6": {
@@ -1230,13 +1210,13 @@
       "idList": "68ffca9a28f29fdf39559bb1",
       "labels": [
         {
-          "id": "6900e44b846214f33db124db",
+          "id": "68ffb0f747088dd37de7a68a",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 17
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 4
         }
       ],
       "idAttachmentCover": "69025c50b7da04567773d0ad",
@@ -1325,6 +1305,26 @@
       "url": "https://trello.com/c/qSxNPzcV/2-ego-the-maw",
       "closed": false
     },
+    "6900df74a346c37c082c2f97": {
+      "name": "Tooltips",
+      "desc": "Adding in helpful tool tips throughout the game to guide new and experienced players. Notably: hovering over passive abilities in the game will offer explanations on what they do, making learning the game easier and more intuitive.",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 16
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/jzA1cBaC/17-tooltips",
+      "closed": false
+    },
     "68ffc8aa60c932bb272919eb": {
       "name": "Ego: Conquest",
       "desc": "Information coming soon…",
@@ -1337,7 +1337,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": "690f9aecc444702075327dd6",
@@ -1429,7 +1429,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": "690e64ed33ce407e0d7b5760",
@@ -1530,7 +1530,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1550,7 +1550,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1570,7 +1570,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1590,7 +1590,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1610,7 +1610,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1630,7 +1630,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1650,7 +1650,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1670,7 +1670,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1690,7 +1690,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1710,7 +1710,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1730,7 +1730,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -1750,7 +1750,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 17
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -2106,5 +2106,5 @@
     "name": "Alter Ego Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-04-27T16:57:13.762Z"
+  "lastCheck": "2026-05-08T01:52:15.823Z"
 }
