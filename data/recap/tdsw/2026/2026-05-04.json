@@ -1,0 +1,234 @@
+{
+  "week": "2026-05-04",
+  "totalMessages": 1389,
+  "irrelevantMessages": 47,
+  "counts": {
+    "Mentin123": 641,
+    "Raspbelle": 211,
+    "Predictacolors": 100,
+    "Breathix": 84,
+    "WikiaColors": 70,
+    "Frost Catgang": 51,
+    "Jan168158": 37,
+    "Gabonnie": 29,
+    "ChaoticNature": 18,
+    "VisibleKnot": 15,
+    "Sures91152043": 14,
+    "Nemesis2005": 10,
+    "Sofiasean560": 8,
+    "Moty28": 9,
+    "Bkind000 Games": 6,
+    "Vessel Of Infinite Destruction": 12,
+    "TDSLover1999": 5,
+    "BloxxerFilip": 14,
+    "TinyGhostGamer87": 4,
+    "KEINEAHUNUNGBROWILLMIRJETZT": 4,
+    "Feuhufe": 4,
+    "Supra-bamb": 4,
+    "VultureSniper": 3,
+    "Yanboblox22": 3,
+    "Marcpare1111": 3,
+    "ShaneHelms1": 3,
+    "Lol7778828": 2,
+    "SpecialSince": 2,
+    "MrMosquito": 1,
+    "Minordance2022": 1,
+    "Chaosjevil06": 1,
+    "The.one.you.should.not.know": 1,
+    "MayB-RBLX": 1,
+    "Spacingharbor": 1,
+    "JayJumper96": 1,
+    "HipLace": 1,
+    "KelanTDS12345": 1,
+    "Nosurvivalmode": 1,
+    "Abuse filter": 1,
+    "Averagetduckmeme": 1,
+    "Farsy1": 1,
+    "Bacon noob gaming": 1,
+    "Rochukura": 6,
+    "NoNameIGuessSadge": 2,
+    "WinterDemonClash": 1
+  },
+  "irrelevantCounts": {
+    "Mentin123": {
+      "relevant": 626,
+      "change": 15
+    },
+    "Raspbelle": {
+      "relevant": 210,
+      "change": 1
+    },
+    "Predictacolors": {
+      "relevant": 100,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 84,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 70,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 51,
+      "change": 0
+    },
+    "Jan168158": {
+      "relevant": 37,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 29,
+      "change": 0
+    },
+    "ChaoticNature": {
+      "relevant": 18,
+      "change": 0
+    },
+    "VisibleKnot": {
+      "relevant": 15,
+      "change": 0
+    },
+    "Sures91152043": {
+      "relevant": 14,
+      "change": 0
+    },
+    "Nemesis2005": {
+      "relevant": 10,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Moty28": {
+      "relevant": 6,
+      "change": 3
+    },
+    "Bkind000 Games": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 5,
+      "change": 7
+    },
+    "TDSLover1999": {
+      "relevant": 5,
+      "change": 0
+    },
+    "BloxxerFilip": {
+      "relevant": 5,
+      "change": 9
+    },
+    "TinyGhostGamer87": {
+      "relevant": 4,
+      "change": 0
+    },
+    "KEINEAHUNUNGBROWILLMIRJETZT": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Feuhufe": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Supra-bamb": {
+      "relevant": 4,
+      "change": 0
+    },
+    "VultureSniper": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Marcpare1111": {
+      "relevant": 3,
+      "change": 0
+    },
+    "ShaneHelms1": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Lol7778828": {
+      "relevant": 2,
+      "change": 0
+    },
+    "SpecialSince": {
+      "relevant": 2,
+      "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Minordance2022": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Chaosjevil06": {
+      "relevant": 1,
+      "change": 0
+    },
+    "The.one.you.should.not.know": {
+      "relevant": 1,
+      "change": 0
+    },
+    "MayB-RBLX": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Spacingharbor": {
+      "relevant": 1,
+      "change": 0
+    },
+    "JayJumper96": {
+      "relevant": 1,
+      "change": 0
+    },
+    "HipLace": {
+      "relevant": 1,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Nosurvivalmode": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Abuse filter": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Averagetduckmeme": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Farsy1": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Bacon noob gaming": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Rochukura": {
+      "relevant": 0,
+      "change": 6
+    },
+    "NoNameIGuessSadge": {
+      "relevant": 0,
+      "change": 2
+    },
+    "WinterDemonClash": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
