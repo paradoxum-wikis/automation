@@ -1,0 +1,64 @@
+{
+  "week": "2026-05-04",
+  "totalMessages": 704,
+  "irrelevantMessages": 5,
+  "counts": {
+    "Frogt007": 227,
+    "Gabonnie": 180,
+    "ChaosX7": 122,
+    "RustyChroma": 108,
+    "Raspbelle": 33,
+    "INLOC": 19,
+    "SupremeVux": 6,
+    "YellowDoDo11": 4,
+    "Vwwwiou": 3,
+    "DarkGabonnie": 1,
+    "VibEyedValk": 1
+  },
+  "irrelevantCounts": {
+    "Frogt007": {
+      "relevant": 227,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 180,
+      "change": 0
+    },
+    "ChaosX7": {
+      "relevant": 120,
+      "change": 2
+    },
+    "RustyChroma": {
+      "relevant": 108,
+      "change": 0
+    },
+    "Raspbelle": {
+      "relevant": 32,
+      "change": 1
+    },
+    "INLOC": {
+      "relevant": 18,
+      "change": 1
+    },
+    "SupremeVux": {
+      "relevant": 5,
+      "change": 1
+    },
+    "YellowDoDo11": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Vwwwiou": {
+      "relevant": 3,
+      "change": 0
+    },
+    "DarkGabonnie": {
+      "relevant": 1,
+      "change": 0
+    },
+    "VibEyedValk": {
+      "relevant": 1,
+      "change": 0
+    }
+  }
+}
