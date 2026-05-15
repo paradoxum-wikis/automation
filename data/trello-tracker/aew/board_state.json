@@ -1219,7 +1219,7 @@
           "uses": 4
         }
       ],
-      "idAttachmentCover": "69025c50b7da04567773d0ad",
+      "idAttachmentCover": "6a077c837b0e053dc528b676",
       "attachments": [
         {
           "id": "69025c50b7da04567773d0ad",
@@ -1300,6 +1300,86 @@
           "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/69025c50b7da04567773d0ad/download/TheMawConcept.png",
           "pos": 140737488355328,
           "fileName": "TheMawConcept.png"
+        },
+        {
+          "id": "6a077c837b0e053dc528b676",
+          "bytes": 171886,
+          "date": "2026-05-15T20:05:23.718Z",
+          "edgeColor": "#6c6c6c",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/jpeg",
+          "name": "newmaw.jpg",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/6a077c837b0e053dc528b676/previews/6a077c847b0e053dc528b692/download/newmaw.webp",
+              "_id": "6a077c847b0e053dc528b692",
+              "id": "6a077c847b0e053dc528b692",
+              "scaled": false,
+              "bytes": 1132,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/6a077c837b0e053dc528b676/previews/6a077c847b0e053dc528b693/download/newmaw.webp",
+              "_id": "6a077c847b0e053dc528b693",
+              "id": "6a077c847b0e053dc528b693",
+              "scaled": false,
+              "bytes": 7722,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/6a077c837b0e053dc528b676/previews/6a077c847b0e053dc528b694/download/newmaw.webp",
+              "_id": "6a077c847b0e053dc528b694",
+              "id": "6a077c847b0e053dc528b694",
+              "scaled": true,
+              "bytes": 3428,
+              "height": 92,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/6a077c837b0e053dc528b676/previews/6a077c847b0e053dc528b695/download/newmaw.webp",
+              "_id": "6a077c847b0e053dc528b695",
+              "id": "6a077c847b0e053dc528b695",
+              "scaled": true,
+              "bytes": 10230,
+              "height": 184,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/6a077c837b0e053dc528b676/previews/6a077c847b0e053dc528b696/download/newmaw.webp",
+              "_id": "6a077c847b0e053dc528b696",
+              "id": "6a077c847b0e053dc528b696",
+              "scaled": true,
+              "bytes": 28310,
+              "height": 368,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/6a077c837b0e053dc528b676/previews/6a077c847b0e053dc528b697/download/newmaw.webp",
+              "_id": "6a077c847b0e053dc528b697",
+              "id": "6a077c847b0e053dc528b697",
+              "scaled": true,
+              "bytes": 73954,
+              "height": 737,
+              "width": 1200
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/6a077c837b0e053dc528b676/previews/6a077c847b0e053dc528b698/download/newmaw.webp",
+              "_id": "6a077c847b0e053dc528b698",
+              "id": "6a077c847b0e053dc528b698",
+              "scaled": true,
+              "bytes": 110202,
+              "height": 964,
+              "width": 1570
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/68ffc8a4d110a79f487409f6/attachments/6a077c837b0e053dc528b676/download/newmaw.jpg",
+          "pos": 140737488371712,
+          "fileName": "newmaw.jpg"
         }
       ],
       "url": "https://trello.com/c/qSxNPzcV/2-ego-the-maw",
@@ -2106,5 +2186,5 @@
     "name": "Alter Ego Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-05-08T01:52:15.823Z"
+  "lastCheck": "2026-05-15T20:50:17.890Z"
 }
