@@ -1,0 +1,39 @@
+{
+  "week": "2026-05-11",
+  "totalMessages": 158,
+  "irrelevantMessages": 5,
+  "counts": {
+    "Gabonnie": 99,
+    "Frogt007": 43,
+    "ChaosX7": 8,
+    "Vwwwiou": 5,
+    "WereLate": 2,
+    "DarkGabonnie": 1
+  },
+  "irrelevantCounts": {
+    "Gabonnie": {
+      "relevant": 94,
+      "change": 5
+    },
+    "Frogt007": {
+      "relevant": 43,
+      "change": 0
+    },
+    "ChaosX7": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Vwwwiou": {
+      "relevant": 5,
+      "change": 0
+    },
+    "WereLate": {
+      "relevant": 2,
+      "change": 0
+    },
+    "DarkGabonnie": {
+      "relevant": 1,
+      "change": 0
+    }
+  }
+}
