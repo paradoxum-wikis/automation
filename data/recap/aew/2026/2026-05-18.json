@@ -1,0 +1,49 @@
+{
+  "week": "2026-05-18",
+  "totalMessages": 44,
+  "irrelevantMessages": 6,
+  "counts": {
+    "Gabonnie": 26,
+    "Frogt007": 8,
+    "Vwwwiou": 4,
+    "DarkGabonnie": 2,
+    "Vwwwiou1": 1,
+    "INLOC": 1,
+    "BloxxerFilip": 1,
+    "Nosurvivalmode": 1
+  },
+  "irrelevantCounts": {
+    "Gabonnie": {
+      "relevant": 23,
+      "change": 3
+    },
+    "Frogt007": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Vwwwiou": {
+      "relevant": 4,
+      "change": 0
+    },
+    "DarkGabonnie": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Vwwwiou1": {
+      "relevant": 1,
+      "change": 0
+    },
+    "INLOC": {
+      "relevant": 0,
+      "change": 1
+    },
+    "BloxxerFilip": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Nosurvivalmode": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
