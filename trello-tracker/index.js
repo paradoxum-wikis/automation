@@ -134,6 +134,10 @@ function createEmbed(changeType, data) {
 		}
 	}
 
+	if (changeType === "card_deleted") {
+		embed.description = `**${data.name}** was deleted or archived`;
+	}
+
 	if (changeType === "card_moved") {
 		embed.description = `**${data.name}**`;
 		embed.url = data.url;
@@ -149,8 +153,10 @@ function createEmbed(changeType, data) {
 	if (changeType === "label_changed") {
 		embed.description = `**${data.name}**`;
 		embed.url = data.url;
-		const oldLabels = data.oldLabels.map((l) => l.name).join(", ") || "None";
-		const newLabels = data.newLabels.map((l) => l.name).join(", ") || "None";
+		const oldLabels =
+			data.oldLabels.map((l) => l.name).join(", ") || "None";
+		const newLabels =
+			data.newLabels.map((l) => l.name).join(", ") || "None";
 		embed.fields.push({
 			name: "Labels Changed",
 			value: `${oldLabels} → ${newLabels}`,
@@ -255,7 +261,10 @@ async function detectChanges(oldState, newBoard) {
 			data: {
 				name: newBoard.name,
 				changes: {
-					description: { old: oldState.board.desc, new: newBoard.desc },
+					description: {
+						old: oldState.board.desc,
+						new: newBoard.desc,
+					},
 				},
 			},
 		});
@@ -313,7 +322,8 @@ async function detectChanges(oldState, newBoard) {
 
 		if (!oldState.cards[card.id]) {
 			const coverImage = card.idAttachmentCover
-				? card.attachments?.find((a) => a.id === card.idAttachmentCover)?.url
+				? card.attachments?.find((a) => a.id === card.idAttachmentCover)
+						?.url
 				: null;
 
 			changes.push({
@@ -339,12 +349,24 @@ async function detectChanges(oldState, newBoard) {
 				cardChanges.desc = { old: oldCard.desc, new: card.desc };
 			}
 
+			if (!oldCard.closed && card.closed) {
+				changes.push({
+					type: "card_deleted",
+					data: {
+						name: card.name,
+					},
+				});
+				continue;
+			}
+
 			if (oldCard.idList !== card.idList) {
 				const oldListName =
 					newBoard.lists.find((l) => l.id === oldCard.idList)?.name ||
 					"Unknown";
 				const coverImage = card.idAttachmentCover
-					? card.attachments?.find((a) => a.id === card.idAttachmentCover)?.url
+					? card.attachments?.find(
+							(a) => a.id === card.idAttachmentCover,
+						)?.url
 					: null;
 
 				changes.push({
@@ -364,7 +386,9 @@ async function detectChanges(oldState, newBoard) {
 			const newLabelIds = (card.labels || []).map((l) => l.id).sort();
 			if (JSON.stringify(oldLabelIds) !== JSON.stringify(newLabelIds)) {
 				const coverImage = card.idAttachmentCover
-					? card.attachments?.find((a) => a.id === card.idAttachmentCover)?.url
+					? card.attachments?.find(
+							(a) => a.id === card.idAttachmentCover,
+						)?.url
 					: null;
 				changes.push({
 					type: "label_changed",
@@ -381,11 +405,14 @@ async function detectChanges(oldState, newBoard) {
 			// cover img changes
 			if (oldCard.idAttachmentCover !== card.idAttachmentCover) {
 				const oldCover = oldCard.idAttachmentCover
-					? oldCard.attachments?.find((a) => a.id === oldCard.idAttachmentCover)
-							?.url
+					? oldCard.attachments?.find(
+							(a) => a.id === oldCard.idAttachmentCover,
+						)?.url
 					: null;
 				const newCover = card.idAttachmentCover
-					? card.attachments?.find((a) => a.id === card.idAttachmentCover)?.url
+					? card.attachments?.find(
+							(a) => a.id === card.idAttachmentCover,
+						)?.url
 					: null;
 
 				if (oldCover !== newCover) {
@@ -408,7 +435,8 @@ async function detectChanges(oldState, newBoard) {
 						data: {
 							cardName: card.name,
 							cardUrl: card.url,
-							attachmentName: attachment.name || attachment.fileName,
+							attachmentName:
+								attachment.name || attachment.fileName,
 							attachmentUrl: attachment.url,
 							mimeType: attachment.mimeType,
 						},
@@ -418,7 +446,10 @@ async function detectChanges(oldState, newBoard) {
 
 			for (const [id, oldAttachment] of oldAttachmentsMap.entries()) {
 				const newAttachment = newAttachmentsMap.get(id);
-				if (newAttachment && oldAttachment.name !== newAttachment.name) {
+				if (
+					newAttachment &&
+					oldAttachment.name !== newAttachment.name
+				) {
 					changes.push({
 						type: "attachment_changed",
 						data: {
