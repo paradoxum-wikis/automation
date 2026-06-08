@@ -1,0 +1,44 @@
+{
+  "week": "2026-06-01",
+  "totalMessages": 115,
+  "irrelevantMessages": 1,
+  "counts": {
+    "Frogt007": 50,
+    "Gabonnie": 45,
+    "RustyChroma": 9,
+    "MisterGuyDudeLol": 7,
+    "Vwwwiou": 2,
+    "Vwwwiou1": 1,
+    "JustNumberFive": 1
+  },
+  "irrelevantCounts": {
+    "Frogt007": {
+      "relevant": 50,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 45,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 9,
+      "change": 0
+    },
+    "MisterGuyDudeLol": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Vwwwiou": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Vwwwiou1": {
+      "relevant": 1,
+      "change": 0
+    },
+    "JustNumberFive": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
