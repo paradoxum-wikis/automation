@@ -6,7 +6,7 @@ const CONFIG = {
 	discord_webhook: process.env.DISCORD_WEBHOOK_URL,
 	state_file: path.join(
 		__dirname,
-		"../data/trello-tracker/aew/board_state.json",
+		`../data/trello-tracker/${process.env.BOARD_NAME || "aew"}/board_state.json`,
 	),
 };
 
