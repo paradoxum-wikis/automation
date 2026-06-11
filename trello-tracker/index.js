@@ -1,20 +1,14 @@
-import fs from "fs";
-import path from "path";
-
 const CONFIG = {
 	trello_url: process.env.TRELLO_JSON_URL,
 	discord_webhook: process.env.DISCORD_WEBHOOK_URL,
-	state_file: path.join(
-		__dirname,
-		`../data/trello-tracker/${process.env.BOARD_NAME || "aew"}/board_state.json`,
-	),
+	state_file: `${import.meta.dir}/../data/trello-tracker/${process.env.BOARD_NAME || "aew"}/${process.env.STATE_FILENAME || "board_state.json"}`,
 };
 
-function loadState() {
+async function loadState() {
 	try {
-		if (fs.existsSync(CONFIG.state_file)) {
-			const data = fs.readFileSync(CONFIG.state_file, "utf8");
-			return JSON.parse(data);
+		const file = Bun.file(CONFIG.state_file);
+		if (await file.exists()) {
+			return await file.json();
 		}
 	} catch (error) {
 		console.error("Error loading state:", error);
@@ -27,13 +21,9 @@ function loadState() {
 	};
 }
 
-function saveState(state) {
+async function saveState(state) {
 	try {
-		const dir = path.dirname(CONFIG.state_file);
-		if (!fs.existsSync(dir)) {
-			fs.mkdirSync(dir, { recursive: true });
-		}
-		fs.writeFileSync(CONFIG.state_file, JSON.stringify(state, null, 2));
+		await Bun.write(CONFIG.state_file, JSON.stringify(state, null, 2));
 	} catch (error) {
 		console.error("Error saving state:", error);
 	}
@@ -519,7 +509,7 @@ async function run() {
 		const board = await fetchBoardData();
 
 		console.log("Loading previous state...");
-		const oldState = loadState();
+		const oldState = await loadState();
 
 		console.log("Detecting changes...");
 		const { newCards, newLists, changes } = await detectChanges(
@@ -532,17 +522,14 @@ async function run() {
 			const newState = {
 				cards: newCards,
 				lists: newLists,
-				board: {
-					name: board.name,
-					desc: board.desc,
-				},
+				board: { name: board.name, desc: board.desc },
 				lastCheck: new Date().toISOString(),
 			};
-
-			saveState(newState);
+			await saveState(newState);
 		} else {
 			console.log("No changes detected, skipping save.");
 		}
+
 		console.log("Done!");
 	} catch (error) {
 		console.error("Error in main run:", error);
