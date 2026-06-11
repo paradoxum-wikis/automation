@@ -1,0 +1,33 @@
+name: TDSW Trello Monitor
+
+on:
+    schedule:
+        - cron: "*/5 * * * *"
+    workflow_dispatch:
+jobs:
+    monitor:
+        runs-on: self-hosted
+        permissions:
+            contents: write
+        defaults:
+            run:
+                working-directory: ./trello-tracker
+
+        steps:
+            - uses: actions/checkout@v6
+            - run: bun run index.js
+              env:
+                  DISCORD_WEBHOOK_URL: ${{ secrets.TRELLO2_WEBHOOK_URL }}
+                  TRELLO_JSON_URL: ${{ secrets.TRELLO3_JSON_URL }}
+                  BOARD_NAME: tdsw
+            - run: bun run index.js
+              env:
+                  DISCORD_WEBHOOK_URL: ${{ secrets.TRELLO2_WEBHOOK_URL }}
+                  TRELLO_JSON_URL: ${{ secrets.TRELLO2_JSON_URL }}
+                  BOARD_NAME: tdsw
+                  STATE_FILENAME: boardworkshop_state.json
+            - run: |
+                  git config --local user.name "GitHub Action"
+                  git config --local user.email "action@github.com"
+                  git add ../data/trello-tracker/tdsw/
+                  git diff --cached --quiet || (git commit -m "chore: update board state" && (git push || (git pull --rebase && git push)))
