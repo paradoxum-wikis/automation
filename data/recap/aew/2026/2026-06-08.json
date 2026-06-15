@@ -1,0 +1,34 @@
+{
+  "week": "2026-06-08",
+  "totalMessages": 182,
+  "irrelevantMessages": 0,
+  "counts": {
+    "Frogt007": 160,
+    "Gabonnie": 12,
+    "Vwwwiou": 6,
+    "RustyChroma": 3,
+    "DarkGabonnie": 1
+  },
+  "irrelevantCounts": {
+    "Frogt007": {
+      "relevant": 160,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 12,
+      "change": 0
+    },
+    "Vwwwiou": {
+      "relevant": 6,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 3,
+      "change": 0
+    },
+    "DarkGabonnie": {
+      "relevant": 1,
+      "change": 0
+    }
+  }
+}
