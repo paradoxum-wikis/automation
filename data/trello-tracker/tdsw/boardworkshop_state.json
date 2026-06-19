@@ -185,7 +185,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 3
+          "uses": 2
         },
         {
           "id": "691601a77fde3bc637f6e69e",
@@ -194,7 +194,7 @@
           "name": "Running Behind",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69e",
           "color": "orange",
-          "uses": 2
+          "uses": 3
         },
         {
           "id": "691601a77fde3bc637f6e69f",
@@ -212,7 +212,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -221,7 +221,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": null,
@@ -241,7 +241,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": "691609e08622ebe2449cd2c4",
@@ -342,7 +342,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": null,
@@ -362,7 +362,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": "69332c9ffc9ac5c5944e7792",
@@ -463,7 +463,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": null,
@@ -483,7 +483,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": "69161910305f139437f54fa5",
@@ -604,7 +604,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": null,
@@ -624,7 +624,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": "691b37d0fa7dff418b9ceb29",
@@ -725,7 +725,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": null,
@@ -745,7 +745,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": "69e949e98184740fa4a47a4c",
@@ -828,7 +828,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": "69fa53664a1aa32efe73ccb8",
@@ -920,7 +920,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": null,
@@ -940,52 +940,12 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 13
+          "uses": 14
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/WjkFxPNC/26-tower-juggernaut",
-      "closed": false
-    },
-    "6916061d8edd60a174abfdfe": {
-      "name": "New Shop UI",
-      "desc": "Information coming soon…",
-      "idList": "691601cc10d7fedc91f45480",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69c",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 3
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/qhodlIWP/14-new-shop-ui",
-      "closed": false
-    },
-    "691606a55d3f42597da4be4e": {
-      "name": "Story mode",
-      "desc": "Information coming soon…",
-      "idList": "691601cc10d7fedc91f45480",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69e",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Running Behind",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69e",
-          "color": "orange",
-          "uses": 2
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/1Sp1FDOj/18-story-mode",
       "closed": false
     },
     "69e930177d99e9ace2c816f4": {
@@ -994,13 +954,13 @@
       "idList": "691601cc10d7fedc91f45480",
       "labels": [
         {
-          "id": "691601a77fde3bc637f6e69c",
+          "id": "691601a77fde3bc637f6e6a1",
           "idBoard": "691601a77fde3bc637f6e61f",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 3
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
+          "color": "blue",
+          "uses": 14
         }
       ],
       "idAttachmentCover": "6a19c35398eceb4313cee8ba",
@@ -1071,6 +1031,129 @@
       "url": "https://trello.com/c/cI4hPvuh/25-tower-operator",
       "closed": false
     },
+    "6916061d8edd60a174abfdfe": {
+      "name": "New Shop UI",
+      "desc": "Information coming soon…",
+      "idList": "691601cc10d7fedc91f45480",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69e",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Running Behind",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69e",
+          "color": "orange",
+          "uses": 3
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/qhodlIWP/14-new-shop-ui",
+      "closed": false
+    },
+    "691606a55d3f42597da4be4e": {
+      "name": "Story mode",
+      "desc": "Information coming soon…",
+      "idList": "691601cc10d7fedc91f45480",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69e",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Running Behind",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69e",
+          "color": "orange",
+          "uses": 3
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/1Sp1FDOj/18-story-mode",
+      "closed": false
+    },
+    "6a18c3826b640b906fe7035d": {
+      "name": "Tower: Kingpin",
+      "desc": "Evolved from Crook Boss. A powerful crime boss that builds an empire through cash, contracts, and hired muscle.",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 2
+        }
+      ],
+      "idAttachmentCover": "6a19c369d913aa6096d27e8c",
+      "attachments": [
+        {
+          "id": "6a19c369d913aa6096d27e8c",
+          "bytes": 136115,
+          "date": "2026-05-29T16:48:41.270Z",
+          "edgeColor": "#818080",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "Kingpin.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e98/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e98",
+              "id": "6a19c369d913aa6096d27e98",
+              "scaled": false,
+              "bytes": 1046,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e99/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e99",
+              "id": "6a19c369d913aa6096d27e99",
+              "scaled": false,
+              "bytes": 5386,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9a/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e9a",
+              "id": "6a19c369d913aa6096d27e9a",
+              "scaled": true,
+              "bytes": 6646,
+              "height": 173,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9b/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e9b",
+              "id": "6a19c369d913aa6096d27e9b",
+              "scaled": true,
+              "bytes": 16680,
+              "height": 346,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9c/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e9c",
+              "id": "6a19c369d913aa6096d27e9c",
+              "scaled": true,
+              "bytes": 17626,
+              "height": 360,
+              "width": 312
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/download/Kingpin.png",
+          "pos": 140737488355328,
+          "fileName": "Kingpin.png"
+        }
+      ],
+      "url": "https://trello.com/c/mo5pW46T/29-tower-kingpin",
+      "closed": false
+    },
     "691605c839f007459109e705": {
       "name": "Community Gamemodes",
       "desc": "Information coming soon…",
@@ -1083,7 +1166,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1103,7 +1186,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         }
       ],
       "idAttachmentCover": "6a1f08120316cf72dd271817",
@@ -1186,7 +1269,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1206,7 +1289,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1226,7 +1309,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         }
       ],
       "idAttachmentCover": "6a19c35f476f9669aecdd092",
@@ -1297,89 +1380,6 @@
       "url": "https://trello.com/c/KznYN3Zj/28-tower-enforcer",
       "closed": false
     },
-    "6a18c3826b640b906fe7035d": {
-      "name": "Tower: Kingpin",
-      "desc": "Evolved from Crook Boss. A powerful crime boss that builds an empire through cash, contracts, and hired muscle.",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 10
-        }
-      ],
-      "idAttachmentCover": "6a19c369d913aa6096d27e8c",
-      "attachments": [
-        {
-          "id": "6a19c369d913aa6096d27e8c",
-          "bytes": 136115,
-          "date": "2026-05-29T16:48:41.270Z",
-          "edgeColor": "#818080",
-          "idMember": "68769bffc3c94a99e1fefc40",
-          "isMalicious": false,
-          "isUpload": true,
-          "mimeType": "image/png",
-          "name": "Kingpin.png",
-          "previews": [
-            {
-              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e98/download/Kingpin.webp",
-              "_id": "6a19c369d913aa6096d27e98",
-              "id": "6a19c369d913aa6096d27e98",
-              "scaled": false,
-              "bytes": 1046,
-              "height": 50,
-              "width": 70
-            },
-            {
-              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e99/download/Kingpin.webp",
-              "_id": "6a19c369d913aa6096d27e99",
-              "id": "6a19c369d913aa6096d27e99",
-              "scaled": false,
-              "bytes": 5386,
-              "height": 150,
-              "width": 250
-            },
-            {
-              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9a/download/Kingpin.webp",
-              "_id": "6a19c369d913aa6096d27e9a",
-              "id": "6a19c369d913aa6096d27e9a",
-              "scaled": true,
-              "bytes": 6646,
-              "height": 173,
-              "width": 150
-            },
-            {
-              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9b/download/Kingpin.webp",
-              "_id": "6a19c369d913aa6096d27e9b",
-              "id": "6a19c369d913aa6096d27e9b",
-              "scaled": true,
-              "bytes": 16680,
-              "height": 346,
-              "width": 300
-            },
-            {
-              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9c/download/Kingpin.webp",
-              "_id": "6a19c369d913aa6096d27e9c",
-              "id": "6a19c369d913aa6096d27e9c",
-              "scaled": true,
-              "bytes": 17626,
-              "height": 360,
-              "width": 312
-            }
-          ],
-          "sourceView": {},
-          "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/download/Kingpin.png",
-          "pos": 140737488355328,
-          "fileName": "Kingpin.png"
-        }
-      ],
-      "url": "https://trello.com/c/mo5pW46T/29-tower-kingpin",
-      "closed": false
-    },
     "691605c37fd252daaf6d055a": {
       "name": "Gamemode: Golden mode",
       "desc": "Information coming soon…",
@@ -1412,7 +1412,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1432,7 +1432,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1452,7 +1452,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 10
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1684,5 +1684,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-06-11T17:29:47.268Z"
+  "lastCheck": "2026-06-19T17:01:20.796Z"
 }
