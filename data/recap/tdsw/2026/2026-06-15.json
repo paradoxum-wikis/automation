@@ -1,0 +1,524 @@
+{
+  "week": "2026-06-15",
+  "totalMessages": 1334,
+  "irrelevantMessages": 29,
+  "counts": {
+    "Mentin123": 699,
+    "Taserball": 80,
+    "SlingingDart612": 61,
+    "PowerHavenOfficial": 45,
+    "Gabonnie": 33,
+    "Sofiasean560": 31,
+    "Goderator": 29,
+    "VisibleKnot": 23,
+    "Predictacolors": 21,
+    "MrMosquito": 27,
+    "3nt4rna1Wastaken": 19,
+    "Nemesis2005": 17,
+    "BrillanceDisplayed": 16,
+    "Bkind000 Games": 15,
+    "Lawfan12": 14,
+    "Breathix": 11,
+    "Byemax": 9,
+    "Vessel Of Infinite Destruction": 7,
+    "Redjacko6": 6,
+    "TheManForeigned1234": 6,
+    "ChaosX7": 6,
+    "Johnpaul10002": 5,
+    "TinyGhostGamer87": 5,
+    "Vortex2175": 5,
+    "Petergdjdfgj": 5,
+    "Thomastrain205": 4,
+    "WikiaColors": 4,
+    "SnappyDucky": 4,
+    "ProTpPvp": 4,
+    "MysticMushroomv4": 4,
+    "IPYTGEOMETRICAL": 4,
+    "CorruptedGovernment": 4,
+    "Yanboblox22": 3,
+    "VultureSniper": 3,
+    "IFeelSoSubjective!": 3,
+    "YARIK47890": 3,
+    "Batatakakafriend": 3,
+    "Jjjgyg": 3,
+    "Spacingharbor": 3,
+    "Bidsgarza": 4,
+    "Userreal71": 3,
+    "ItsaQuincidence": 3,
+    "Thegoldenvalkguy": 3,
+    "FrostiFyre": 2,
+    "44uryik": 2,
+    "OnePartyThisTime": 2,
+    "Mortix Mouse": 2,
+    "DJedi81": 2,
+    "JustNumberFive": 2,
+    "Mel00noob": 2,
+    "ToastyWaffles1027": 2,
+    "Abuse filter": 2,
+    "Zek22344": 2,
+    "Antos21st": 2,
+    "Souchet123": 2,
+    "FurnitureEnthusiastAstral": 2,
+    "Asgourd": 2,
+    "Kolbert222": 2,
+    "Supra-bamb": 2,
+    "Bobodance": 2,
+    "Watdahecc": 1,
+    "EpiklyKool": 1,
+    "Affordable.usernames.ples": 1,
+    "MasterDjustin": 1,
+    "Ppzinho11": 1,
+    "Marcpare1111": 1,
+    "Bizell112": 1,
+    "Moty28": 1,
+    "Enexed": 1,
+    "Yxngcxhrs": 1,
+    "Dekuknight": 1,
+    "Suko.dude": 1,
+    "ButteredIce": 1,
+    "Kaiserin913": 1,
+    ",99dd": 1,
+    "CamCode": 1,
+    "Pure Champion gaming.exe": 1,
+    "Wingfieldthomas72012": 1,
+    "FebriTheNoobie": 1,
+    "The MCC Viewer": 1,
+    "BloxxerFilip": 1,
+    "Kinwith14letters": 1,
+    "Piapht": 1,
+    "I Need A Gun Pls": 1,
+    "RNGSpareMePls": 1,
+    "Sinikyu": 1,
+    "NuclearFallenKingisOP": 1,
+    "MrUnfunnyman123": 1,
+    "Raeiper": 1,
+    "Xolaroan": 1,
+    "Hpg1672176": 1,
+    "Soufre": 1,
+    "Iliketouhou": 1,
+    "ArmlessDetectiveNumeroUno": 1,
+    "Oldscouterz02": 1,
+    "Noverbarfols": 1,
+    "Nico1415615": 1,
+    "Sharkepicgamer07": 1,
+    "WinterDemonClash": 1,
+    "Bosriman": 1,
+    "Terror teapot": 1,
+    "Toan246t": 1,
+    "Randomdude696987": 1
+  },
+  "irrelevantCounts": {
+    "Mentin123": {
+      "relevant": 699,
+      "change": 0
+    },
+    "Taserball": {
+      "relevant": 80,
+      "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 46,
+      "change": 15
+    },
+    "PowerHavenOfficial": {
+      "relevant": 45,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 33,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 31,
+      "change": 0
+    },
+    "Goderator": {
+      "relevant": 28,
+      "change": 1
+    },
+    "VisibleKnot": {
+      "relevant": 23,
+      "change": 0
+    },
+    "Predictacolors": {
+      "relevant": 21,
+      "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 21,
+      "change": 6
+    },
+    "3nt4rna1Wastaken": {
+      "relevant": 19,
+      "change": 0
+    },
+    "Nemesis2005": {
+      "relevant": 17,
+      "change": 0
+    },
+    "BrillanceDisplayed": {
+      "relevant": 16,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 15,
+      "change": 0
+    },
+    "Lawfan12": {
+      "relevant": 14,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 11,
+      "change": 0
+    },
+    "Byemax": {
+      "relevant": 8,
+      "change": 1
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Redjacko6": {
+      "relevant": 6,
+      "change": 0
+    },
+    "TheManForeigned1234": {
+      "relevant": 6,
+      "change": 0
+    },
+    "ChaosX7": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Johnpaul10002": {
+      "relevant": 5,
+      "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 5,
+      "change": 0
+    },
+    "Vortex2175": {
+      "relevant": 5,
+      "change": 0
+    },
+    "Petergdjdfgj": {
+      "relevant": 5,
+      "change": 0
+    },
+    "Thomastrain205": {
+      "relevant": 4,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 4,
+      "change": 0
+    },
+    "SnappyDucky": {
+      "relevant": 4,
+      "change": 0
+    },
+    "ProTpPvp": {
+      "relevant": 4,
+      "change": 0
+    },
+    "MysticMushroomv4": {
+      "relevant": 4,
+      "change": 0
+    },
+    "IPYTGEOMETRICAL": {
+      "relevant": 4,
+      "change": 0
+    },
+    "CorruptedGovernment": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 3,
+      "change": 0
+    },
+    "VultureSniper": {
+      "relevant": 3,
+      "change": 0
+    },
+    "IFeelSoSubjective!": {
+      "relevant": 3,
+      "change": 0
+    },
+    "YARIK47890": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Batatakakafriend": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Jjjgyg": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Spacingharbor": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Bidsgarza": {
+      "relevant": 3,
+      "change": 1
+    },
+    "Userreal71": {
+      "relevant": 3,
+      "change": 0
+    },
+    "ItsaQuincidence": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Thegoldenvalkguy": {
+      "relevant": 3,
+      "change": 0
+    },
+    "FrostiFyre": {
+      "relevant": 2,
+      "change": 0
+    },
+    "44uryik": {
+      "relevant": 2,
+      "change": 0
+    },
+    "OnePartyThisTime": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Mortix Mouse": {
+      "relevant": 2,
+      "change": 0
+    },
+    "DJedi81": {
+      "relevant": 2,
+      "change": 0
+    },
+    "JustNumberFive": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Mel00noob": {
+      "relevant": 2,
+      "change": 0
+    },
+    "ToastyWaffles1027": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Abuse filter": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Zek22344": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Antos21st": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Souchet123": {
+      "relevant": 2,
+      "change": 0
+    },
+    "FurnitureEnthusiastAstral": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Asgourd": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Kolbert222": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Supra-bamb": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Bobodance": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Watdahecc": {
+      "relevant": 1,
+      "change": 0
+    },
+    "EpiklyKool": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Affordable.usernames.ples": {
+      "relevant": 1,
+      "change": 0
+    },
+    "MasterDjustin": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Ppzinho11": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Marcpare1111": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Bizell112": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Moty28": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Enexed": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Yxngcxhrs": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Dekuknight": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Suko.dude": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ButteredIce": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Kaiserin913": {
+      "relevant": 1,
+      "change": 0
+    },
+    ",99dd": {
+      "relevant": 1,
+      "change": 0
+    },
+    "CamCode": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Pure Champion gaming.exe": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Wingfieldthomas72012": {
+      "relevant": 1,
+      "change": 0
+    },
+    "FebriTheNoobie": {
+      "relevant": 1,
+      "change": 0
+    },
+    "The MCC Viewer": {
+      "relevant": 1,
+      "change": 0
+    },
+    "BloxxerFilip": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Kinwith14letters": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Piapht": {
+      "relevant": 1,
+      "change": 0
+    },
+    "I Need A Gun Pls": {
+      "relevant": 1,
+      "change": 0
+    },
+    "RNGSpareMePls": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Sinikyu": {
+      "relevant": 1,
+      "change": 0
+    },
+    "NuclearFallenKingisOP": {
+      "relevant": 1,
+      "change": 0
+    },
+    "MrUnfunnyman123": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Raeiper": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Xolaroan": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Hpg1672176": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Soufre": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Iliketouhou": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ArmlessDetectiveNumeroUno": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Oldscouterz02": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Noverbarfols": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Nico1415615": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Sharkepicgamer07": {
+      "relevant": 1,
+      "change": 0
+    },
+    "WinterDemonClash": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Bosriman": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Terror teapot": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Toan246t": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Randomdude696987": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
