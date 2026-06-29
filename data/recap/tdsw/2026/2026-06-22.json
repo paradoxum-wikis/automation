@@ -1,0 +1,364 @@
+{
+  "week": "2026-06-22",
+  "totalMessages": 1507,
+  "irrelevantMessages": 24,
+  "counts": {
+    "Mentin123": 431,
+    "3nt4rna1Wastaken": 311,
+    "Goderator": 139,
+    "MasterDjustin": 99,
+    "Breathix": 94,
+    "Frost Catgang": 69,
+    "SlingingDart612": 70,
+    "Yanboblox22": 55,
+    "Taserball": 22,
+    "Rochukura": 22,
+    "Zac-bb8": 19,
+    "MrMosquito": 16,
+    "Doooooahhhhhhh": 14,
+    "PowerHavenOfficial": 12,
+    "Vessel Of Infinite Destruction": 11,
+    "Predictacolors": 10,
+    "Sofiasean560": 7,
+    "Gabonnie": 7,
+    "Lawfan12": 7,
+    "BrillanceDisplayed": 6,
+    "CorruptedGovernment": 6,
+    "Bkind000 Games": 5,
+    "Leadfoot2121": 4,
+    "WikiaColors": 4,
+    "Fhzfgjalt1": 4,
+    "Vortex2175": 3,
+    "Watdahecc": 4,
+    "Supra-bamb": 3,
+    "Yipcheok": 3,
+    "VisibleKnot": 2,
+    "ULTIMATEFIGHTEER": 2,
+    "Abuse filter": 2,
+    "Jjjgyg": 2,
+    "SnappyDucky": 2,
+    "Hotsaladeater": 2,
+    "TheMostBoringGuy": 2,
+    "Bartu165": 1,
+    "Papon186880": 1,
+    "ToMacMa": 1,
+    "Basic Elf": 1,
+    "Yusuf123098": 1,
+    "Sures91152043": 1,
+    "WoodenBase": 1,
+    "Slimersonic": 1,
+    "AverageJoebloxian": 1,
+    "Godzilla777theworst": 1,
+    "TheVictorOp": 1,
+    "Bloxyboyy": 1,
+    "1Vanadium": 1,
+    "Mr. Madi": 1,
+    "Armancooldude3": 1,
+    "Megafurious.inc": 1,
+    "Xolaroan": 1,
+    "ChaoticNature": 1,
+    "44uryik": 1,
+    "Shining Spikes": 1,
+    "NoNameIGuessSadge": 1,
+    "Contromander": 2,
+    "Feuhufe": 1,
+    "Meandyouandme": 1,
+    "SteamStanley": 1,
+    "IFeelSoSubjective!": 1,
+    "Kinwith14letters": 1,
+    "HelloHiHolaSoyDora": 1,
+    "Moty28": 1,
+    "Redjacko6": 1,
+    "TDSEpikMan": 1,
+    "Zek22344": 1,
+    "Terror teapot": 1,
+    "Wowiezer": 1,
+    "LionelJovanRBLX": 1
+  },
+  "irrelevantCounts": {
+    "Mentin123": {
+      "relevant": 428,
+      "change": 3
+    },
+    "3nt4rna1Wastaken": {
+      "relevant": 311,
+      "change": 0
+    },
+    "Goderator": {
+      "relevant": 139,
+      "change": 0
+    },
+    "MasterDjustin": {
+      "relevant": 99,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 94,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 69,
+      "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 58,
+      "change": 12
+    },
+    "Yanboblox22": {
+      "relevant": 55,
+      "change": 0
+    },
+    "Taserball": {
+      "relevant": 22,
+      "change": 0
+    },
+    "Rochukura": {
+      "relevant": 21,
+      "change": 1
+    },
+    "Zac-bb8": {
+      "relevant": 19,
+      "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 15,
+      "change": 1
+    },
+    "Doooooahhhhhhh": {
+      "relevant": 14,
+      "change": 0
+    },
+    "PowerHavenOfficial": {
+      "relevant": 12,
+      "change": 0
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 11,
+      "change": 0
+    },
+    "Predictacolors": {
+      "relevant": 10,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Lawfan12": {
+      "relevant": 7,
+      "change": 0
+    },
+    "BrillanceDisplayed": {
+      "relevant": 6,
+      "change": 0
+    },
+    "CorruptedGovernment": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 5,
+      "change": 0
+    },
+    "Leadfoot2121": {
+      "relevant": 4,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Fhzfgjalt1": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Vortex2175": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Watdahecc": {
+      "relevant": 3,
+      "change": 1
+    },
+    "Supra-bamb": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Yipcheok": {
+      "relevant": 3,
+      "change": 0
+    },
+    "VisibleKnot": {
+      "relevant": 2,
+      "change": 0
+    },
+    "ULTIMATEFIGHTEER": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Abuse filter": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Jjjgyg": {
+      "relevant": 2,
+      "change": 0
+    },
+    "SnappyDucky": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Hotsaladeater": {
+      "relevant": 2,
+      "change": 0
+    },
+    "TheMostBoringGuy": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Bartu165": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Papon186880": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ToMacMa": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Basic Elf": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Yusuf123098": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Sures91152043": {
+      "relevant": 1,
+      "change": 0
+    },
+    "WoodenBase": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Slimersonic": {
+      "relevant": 1,
+      "change": 0
+    },
+    "AverageJoebloxian": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Godzilla777theworst": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TheVictorOp": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Bloxyboyy": {
+      "relevant": 1,
+      "change": 0
+    },
+    "1Vanadium": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Mr. Madi": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Armancooldude3": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Megafurious.inc": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Xolaroan": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ChaoticNature": {
+      "relevant": 1,
+      "change": 0
+    },
+    "44uryik": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Shining Spikes": {
+      "relevant": 1,
+      "change": 0
+    },
+    "NoNameIGuessSadge": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Contromander": {
+      "relevant": 1,
+      "change": 1
+    },
+    "Feuhufe": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Meandyouandme": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SteamStanley": {
+      "relevant": 1,
+      "change": 0
+    },
+    "IFeelSoSubjective!": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Kinwith14letters": {
+      "relevant": 1,
+      "change": 0
+    },
+    "HelloHiHolaSoyDora": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Moty28": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Redjacko6": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TDSEpikMan": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Zek22344": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Terror teapot": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Wowiezer": {
+      "relevant": 0,
+      "change": 1
+    },
+    "LionelJovanRBLX": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
