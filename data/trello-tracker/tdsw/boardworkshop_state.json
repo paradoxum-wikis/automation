@@ -185,7 +185,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 4
+          "uses": 7
         },
         {
           "id": "691601a77fde3bc637f6e69e",
@@ -212,7 +212,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 6
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -1043,7 +1043,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 4
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1063,7 +1063,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 4
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1083,7 +1083,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 4
+          "uses": 7
         }
       ],
       "idAttachmentCover": "6a19c369d913aa6096d27e8c",
@@ -1154,39 +1154,19 @@
       "url": "https://trello.com/c/mo5pW46T/29-tower-kingpin",
       "closed": false
     },
-    "691605c839f007459109e705": {
-      "name": "Community Gamemodes",
-      "desc": "Information coming soon…",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 9
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/ueZURvgv/12-community-gamemodes",
-      "closed": false
-    },
     "6916065d59d26067068bfecd": {
       "name": "Tower: Boomerang",
       "desc": "Information coming soon…",
       "idList": "691601ce8394932359241a9b",
       "labels": [
         {
-          "id": "691601a77fde3bc637f6e6a0",
+          "id": "691601a77fde3bc637f6e69c",
           "idBoard": "691601a77fde3bc637f6e61f",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 9
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 7
         }
       ],
       "idAttachmentCover": "6a1f08120316cf72dd271817",
@@ -1257,59 +1237,19 @@
       "url": "https://trello.com/c/dgRS26pk/17-tower-boomerang",
       "closed": false
     },
-    "69160586f25e1f4e5986a34d": {
-      "name": "Economy Update",
-      "desc": "**Chroma Currency**\nChroma is a new currency centered around cosmetic progression. It will be used for crafting skins, purchasing items in the daily shop, and interacting with future cosmetic features.\n\n**Skin Quantities & Crafting**\nSkins will now have quantity counts, letting players collect and stack duplicates. These duplicates can be used as materials in the crafting system to create new skins, giving every skin drop additional value and expanding long-term cosmetic progression.",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 9
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
-      "closed": false
-    },
-    "6a1727abbdf4900f87809c4c": {
-      "name": "Tower: Pulse Trooper",
-      "desc": "Information coming soon…",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 9
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/tHuIP1Ei/27-tower-pulse-trooper",
-      "closed": false
-    },
     "6a1727aedbd230f2536af9ca": {
       "name": "Tower: Enforcer",
       "desc": "Evolved from Shotgunner. A tactical shotgun tower that controls crowds and calls in backup when things get messy.",
       "idList": "691601ce8394932359241a9b",
       "labels": [
         {
-          "id": "691601a77fde3bc637f6e6a0",
+          "id": "691601a77fde3bc637f6e69c",
           "idBoard": "691601a77fde3bc637f6e61f",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 9
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 7
         }
       ],
       "idAttachmentCover": "6a19c35f476f9669aecdd092",
@@ -1380,6 +1320,66 @@
       "url": "https://trello.com/c/KznYN3Zj/28-tower-enforcer",
       "closed": false
     },
+    "6a1727abbdf4900f87809c4c": {
+      "name": "Tower: Pulse Trooper",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 7
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/tHuIP1Ei/27-tower-pulse-trooper",
+      "closed": false
+    },
+    "691605c839f007459109e705": {
+      "name": "Community Gamemodes",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 6
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/ueZURvgv/12-community-gamemodes",
+      "closed": false
+    },
+    "69160586f25e1f4e5986a34d": {
+      "name": "Economy Update",
+      "desc": "**Chroma Currency**\nChroma is a new currency centered around cosmetic progression. It will be used for crafting skins, purchasing items in the daily shop, and interacting with future cosmetic features.\n\n**Skin Quantities & Crafting**\nSkins will now have quantity counts, letting players collect and stack duplicates. These duplicates can be used as materials in the crafting system to create new skins, giving every skin drop additional value and expanding long-term cosmetic progression.",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 6
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
+      "closed": false
+    },
     "691605c37fd252daaf6d055a": {
       "name": "Gamemode: Golden mode",
       "desc": "Information coming soon…",
@@ -1412,7 +1412,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
@@ -1432,7 +1432,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
@@ -1452,7 +1452,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
@@ -1684,5 +1684,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-06-26T14:42:44.847Z"
+  "lastCheck": "2026-06-29T16:06:22.808Z"
 }
