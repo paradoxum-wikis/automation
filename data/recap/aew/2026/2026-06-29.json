@@ -1,0 +1,24 @@
+{
+  "week": "2026-06-29",
+  "totalMessages": 26,
+  "irrelevantMessages": 2,
+  "counts": {
+    "ChaosX7": 22,
+    "Gabonnie": 2,
+    "Vessel Of Infinite Destruction": 2
+  },
+  "irrelevantCounts": {
+    "ChaosX7": {
+      "relevant": 22,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 0,
+      "change": 2
+    }
+  }
+}
