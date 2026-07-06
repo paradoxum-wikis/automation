@@ -1,0 +1,354 @@
+{
+  "week": "2026-06-29",
+  "totalMessages": 986,
+  "irrelevantMessages": 21,
+  "counts": {
+    "Mentin123": 343,
+    "3nt4rna1Wastaken": 105,
+    "Random Robloxian42": 73,
+    "MasterDjustin": 53,
+    "Nemesis2005": 47,
+    "Goderator": 45,
+    "Predictacolors": 43,
+    "Gabonnie": 42,
+    "Lol7778828": 21,
+    "Sofiasean560": 16,
+    "VisibleKnot": 15,
+    "OddlyPankaes": 14,
+    "Raspbelle": 12,
+    "Breathix": 10,
+    "PowerHavenOfficial": 8,
+    "Redjacko6": 8,
+    "WikiaColors": 8,
+    "Yanboblox22": 8,
+    "IFeelSoSubjective!": 7,
+    "FurnitureEnthusiastAstral": 8,
+    "Vessel Of Infinite Destruction": 7,
+    "Bkind000 Games": 7,
+    "Taserball": 7,
+    "Rochukura": 6,
+    "Thermal1231231231": 4,
+    "TinyGhostGamer87": 3,
+    "Kaiserin913": 3,
+    "Leadfoot2121": 3,
+    "0prus": 2,
+    "Sinikyu": 2,
+    "KelanTDS12345": 2,
+    "RB HJY": 2,
+    "Robucket": 2,
+    "Boombox guy lol": 2,
+    "Adlib2": 2,
+    "INLOC": 2,
+    "MrMosquito": 2,
+    "Krimmer": 2,
+    "Vortex2175": 2,
+    "RustyChroma": 4,
+    "Thimgym": 2,
+    "KirbysTheName": 2,
+    "Tricktzy": 1,
+    "Marcpare1111": 1,
+    "Nico1415615": 1,
+    "LeTopHatZleezy": 1,
+    "JustARandomUser6767": 1,
+    "MJVpogerzz": 1,
+    "Moviedrone": 1,
+    "DaCotton": 1,
+    "Feuhufe": 1,
+    "HallowedFrog": 1,
+    "Michaelaftonstoes": 1,
+    "Wherewhathuhhowwhen": 1,
+    "Your nameless protagonist": 1,
+    "Randomdude696987": 1,
+    "ManongAnt2": 1,
+    "Supra-bamb": 1,
+    "Godzilla777theworst": 3,
+    "XxRandomXUserxX": 1,
+    "Papon186880": 1,
+    "Abuse filter": 1,
+    "Bartu165": 1,
+    "MrCup126": 1,
+    "NoNameIGuessSadge": 1,
+    "MilitaryNoobster": 1,
+    "Wowiezer": 1,
+    "TowerZGalore": 1,
+    "Cringeaccount123456789": 2
+  },
+  "irrelevantCounts": {
+    "Mentin123": {
+      "relevant": 343,
+      "change": 0
+    },
+    "3nt4rna1Wastaken": {
+      "relevant": 105,
+      "change": 0
+    },
+    "Random Robloxian42": {
+      "relevant": 63,
+      "change": 10
+    },
+    "MasterDjustin": {
+      "relevant": 53,
+      "change": 0
+    },
+    "Nemesis2005": {
+      "relevant": 47,
+      "change": 0
+    },
+    "Goderator": {
+      "relevant": 45,
+      "change": 0
+    },
+    "Predictacolors": {
+      "relevant": 43,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 42,
+      "change": 0
+    },
+    "Lol7778828": {
+      "relevant": 21,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 16,
+      "change": 0
+    },
+    "VisibleKnot": {
+      "relevant": 15,
+      "change": 0
+    },
+    "OddlyPankaes": {
+      "relevant": 14,
+      "change": 0
+    },
+    "Raspbelle": {
+      "relevant": 12,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 10,
+      "change": 0
+    },
+    "PowerHavenOfficial": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Redjacko6": {
+      "relevant": 8,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 8,
+      "change": 0
+    },
+    "IFeelSoSubjective!": {
+      "relevant": 7,
+      "change": 0
+    },
+    "FurnitureEnthusiastAstral": {
+      "relevant": 7,
+      "change": 1
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Taserball": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Rochukura": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Thermal1231231231": {
+      "relevant": 4,
+      "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Kaiserin913": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Leadfoot2121": {
+      "relevant": 3,
+      "change": 0
+    },
+    "0prus": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Sinikyu": {
+      "relevant": 2,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 2,
+      "change": 0
+    },
+    "RB HJY": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Robucket": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Boombox guy lol": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Adlib2": {
+      "relevant": 2,
+      "change": 0
+    },
+    "INLOC": {
+      "relevant": 2,
+      "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Krimmer": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Vortex2175": {
+      "relevant": 2,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 2,
+      "change": 2
+    },
+    "Thimgym": {
+      "relevant": 2,
+      "change": 0
+    },
+    "KirbysTheName": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Tricktzy": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Marcpare1111": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Nico1415615": {
+      "relevant": 1,
+      "change": 0
+    },
+    "LeTopHatZleezy": {
+      "relevant": 1,
+      "change": 0
+    },
+    "JustARandomUser6767": {
+      "relevant": 1,
+      "change": 0
+    },
+    "MJVpogerzz": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Moviedrone": {
+      "relevant": 1,
+      "change": 0
+    },
+    "DaCotton": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Feuhufe": {
+      "relevant": 1,
+      "change": 0
+    },
+    "HallowedFrog": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Michaelaftonstoes": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Wherewhathuhhowwhen": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Your nameless protagonist": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Randomdude696987": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ManongAnt2": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Supra-bamb": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Godzilla777theworst": {
+      "relevant": 1,
+      "change": 2
+    },
+    "XxRandomXUserxX": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Papon186880": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Abuse filter": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Bartu165": {
+      "relevant": 1,
+      "change": 0
+    },
+    "MrCup126": {
+      "relevant": 1,
+      "change": 0
+    },
+    "NoNameIGuessSadge": {
+      "relevant": 0,
+      "change": 1
+    },
+    "MilitaryNoobster": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Wowiezer": {
+      "relevant": 0,
+      "change": 1
+    },
+    "TowerZGalore": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Cringeaccount123456789": {
+      "relevant": 0,
+      "change": 2
+    }
+  }
+}
