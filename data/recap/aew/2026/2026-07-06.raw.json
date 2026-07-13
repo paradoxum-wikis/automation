@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1783700175170,
+    "embeds": [
+      {
+        "title": "MediaWiki:Pseudo3d.js ( +1065)",
+        "description": "\\[IPE-NEXT\\] Quick edit",
+        "author": {
+          "name": "Gabonnie",
+          "url": "https://alter-ego.fandom.com/wiki/Special:Contribs/Gabonnie"
+        },
+        "fields": [],
+        "color": 40960
+      }
+    ]
+  },
+  {
+    "timestamp": 1783677349931,
+    "embeds": [
+      {
+        "title": "Caducus (m +810)",
+        "description": "No description provided",
+        "author": {
+          "name": "Frogt007",
+          "url": "https://alter-ego.fandom.com/wiki/Special:Contribs/Frogt007"
+        },
+        "fields": [
+          {
+            "name": "Tags",
+            "value": "Source edit",
+            "inline": false
+          }
+        ],
+        "color": 39680
+      }
+    ]
+  }
+]
