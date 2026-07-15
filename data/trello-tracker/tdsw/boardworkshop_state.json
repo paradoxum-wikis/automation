@@ -212,7 +212,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -1352,7 +1352,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1372,7 +1372,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1412,7 +1412,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1432,7 +1432,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1452,12 +1452,32 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/8EGpJVaN/30-tower-mecha-base",
+      "closed": false
+    },
+    "6a57b26d499a372ad42696c6": {
+      "name": "Tower: Executioner Rework",
+      "desc": "Rework the Executioner to be up to modern standards and expand on its existing functionality to create a tower that stands out from Boomerang.",
+      "idList": "691601d194e0d9a27a3a94e5",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 7
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/56aDjXKj/31-tower-executioner-rework",
       "closed": false
     }
   },
@@ -1684,5 +1704,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-06-29T16:06:22.808Z"
+  "lastCheck": "2026-07-15T16:45:24.368Z"
 }
