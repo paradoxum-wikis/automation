@@ -185,7 +185,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 5
         },
         {
           "id": "691601a77fde3bc637f6e69e",
@@ -221,7 +221,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -241,7 +241,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": "691609e08622ebe2449cd2c4",
@@ -342,7 +342,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -362,7 +362,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": "69332c9ffc9ac5c5944e7792",
@@ -463,7 +463,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -483,7 +483,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": "69161910305f139437f54fa5",
@@ -604,7 +604,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -624,7 +624,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": "691b37d0fa7dff418b9ceb29",
@@ -725,7 +725,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -745,7 +745,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": "69e949e98184740fa4a47a4c",
@@ -828,7 +828,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": "69fa53664a1aa32efe73ccb8",
@@ -920,7 +920,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -940,7 +940,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": null,
@@ -960,7 +960,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 14
+          "uses": 16
         }
       ],
       "idAttachmentCover": "6a19c35398eceb4313cee8ba",
@@ -1031,59 +1031,19 @@
       "url": "https://trello.com/c/cI4hPvuh/25-tower-operator",
       "closed": false
     },
-    "6916061d8edd60a174abfdfe": {
-      "name": "New Shop UI",
-      "desc": "Information coming soon…",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69c",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 7
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/qhodlIWP/14-new-shop-ui",
-      "closed": false
-    },
-    "691606a55d3f42597da4be4e": {
-      "name": "Story mode",
-      "desc": "Information coming soon…",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69c",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 7
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/1Sp1FDOj/18-story-mode",
-      "closed": false
-    },
     "6a18c3826b640b906fe7035d": {
       "name": "Tower: Kingpin",
       "desc": "Evolved from Crook Boss. A powerful crime boss that builds an empire through cash, contracts, and hired muscle.",
       "idList": "691601ce8394932359241a9b",
       "labels": [
         {
-          "id": "691601a77fde3bc637f6e69c",
+          "id": "691601a77fde3bc637f6e6a1",
           "idBoard": "691601a77fde3bc637f6e61f",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 7
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
+          "color": "blue",
+          "uses": 16
         }
       ],
       "idAttachmentCover": "6a19c369d913aa6096d27e8c",
@@ -1160,13 +1120,13 @@
       "idList": "691601ce8394932359241a9b",
       "labels": [
         {
-          "id": "691601a77fde3bc637f6e69c",
+          "id": "691601a77fde3bc637f6e6a1",
           "idBoard": "691601a77fde3bc637f6e61f",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 7
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
+          "color": "blue",
+          "uses": 16
         }
       ],
       "idAttachmentCover": "6a1f08120316cf72dd271817",
@@ -1237,6 +1197,46 @@
       "url": "https://trello.com/c/dgRS26pk/17-tower-boomerang",
       "closed": false
     },
+    "6916061d8edd60a174abfdfe": {
+      "name": "New Shop UI",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/qhodlIWP/14-new-shop-ui",
+      "closed": false
+    },
+    "691606a55d3f42597da4be4e": {
+      "name": "Story mode",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/1Sp1FDOj/18-story-mode",
+      "closed": false
+    },
     "6a1727aedbd230f2536af9ca": {
       "name": "Tower: Enforcer",
       "desc": "Evolved from Shotgunner. A tactical shotgun tower that controls crowds and calls in backup when things get messy.",
@@ -1249,7 +1249,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 5
         }
       ],
       "idAttachmentCover": "6a19c35f476f9669aecdd092",
@@ -1332,7 +1332,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 5
         }
       ],
       "idAttachmentCover": null,
@@ -1704,5 +1704,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-07-15T16:45:24.368Z"
+  "lastCheck": "2026-07-17T20:29:42.300Z"
 }
