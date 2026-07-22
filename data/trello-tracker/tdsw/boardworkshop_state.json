@@ -185,7 +185,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 6
+          "uses": 7
         },
         {
           "id": "691601a77fde3bc637f6e69e",
@@ -212,7 +212,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -1209,7 +1209,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1229,7 +1229,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1249,7 +1249,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": "6a19c35f476f9669aecdd092",
@@ -1332,7 +1332,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1352,12 +1352,32 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
+      "closed": false
+    },
+    "6a608394ca7b7be92958032b": {
+      "name": "Tower: Gladiator Rework",
+      "desc": "Update Gladiator to make him stand out more in our suite of melee towers and provide him with extra functionality to support the team.",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 7
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/SgrdKKa1/32-tower-gladiator-rework",
       "closed": false
     },
     "691605c839f007459109e705": {
@@ -1372,7 +1392,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1412,7 +1432,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1432,7 +1452,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1452,12 +1472,32 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/8EGpJVaN/30-tower-mecha-base",
+      "closed": false
+    },
+    "6a6083bf557ea1a71723114a": {
+      "name": "Tower: ???",
+      "desc": "Information coming soon…",
+      "idList": "691601d194e0d9a27a3a94e5",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 7
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/q5GHDYFx/33-tower",
       "closed": false
     },
     "6a57b26d499a372ad42696c6": {
@@ -1472,7 +1512,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1704,5 +1744,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-07-21T16:10:08.400Z"
+  "lastCheck": "2026-07-22T09:37:09.580Z"
 }
