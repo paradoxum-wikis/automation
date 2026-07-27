@@ -1,0 +1,24 @@
+{
+  "week": "2026-07-20",
+  "totalMessages": 24,
+  "irrelevantMessages": 0,
+  "counts": {
+    "Frogt007": 19,
+    "Gabonnie": 4,
+    "Szymonkruk11": 1
+  },
+  "irrelevantCounts": {
+    "Frogt007": {
+      "relevant": 19,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Szymonkruk11": {
+      "relevant": 1,
+      "change": 0
+    }
+  }
+}
