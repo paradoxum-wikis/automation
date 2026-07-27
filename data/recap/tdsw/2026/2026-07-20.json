@@ -1,0 +1,554 @@
+{
+  "week": "2026-07-20",
+  "totalMessages": 871,
+  "irrelevantMessages": 50,
+  "counts": {
+    "Mentin123": 289,
+    "3nt4rna1Wastaken": 134,
+    "Breathix": 72,
+    "Yanboblox22": 49,
+    "Nemesis2005": 26,
+    "Gabonnie": 24,
+    "VisibleKnot": 22,
+    "Sofiasean560": 22,
+    "Raspbelle": 16,
+    "WikiaColors": 11,
+    "Bkind000 Games": 10,
+    "KelanTDS12345": 8,
+    "Vessel Of Infinite Destruction": 8,
+    "Vortex2175": 7,
+    "BasicBritishBoy": 7,
+    "Frost Catgang": 7,
+    "FurnitureEnthusiastAstral": 6,
+    "AbbieFPED": 7,
+    "IFeelSoSubjective!": 8,
+    "Goderator": 5,
+    "FireRambo1234": 5,
+    "Younoob52": 4,
+    "Vihaanbansal12": 4,
+    "Godzilla777theworst": 4,
+    "TinyGhostGamer87": 4,
+    "Moty28": 4,
+    "Bman Shadow": 5,
+    "Your nameless protagonist": 2,
+    "SamuelTheConquerer": 2,
+    "Velociraptortophat": 2,
+    "Jjjgyg": 2,
+    "Skibidisigmaohio513": 2,
+    "Trisratri": 2,
+    "Maksim79014": 2,
+    "Redjacko6": 2,
+    "OddlyPankaes": 2,
+    "Кошара 3.202": 2,
+    "1Vanadium": 2,
+    "TDS Fanat": 1,
+    "Rochukura": 1,
+    "Jesse Pinkman4520": 1,
+    "44uryik": 1,
+    "BrillanceDisplayed": 1,
+    "MC WIKI is better": 1,
+    "Krusnov": 1,
+    "ThirteenM": 1,
+    "Thister": 1,
+    "Sures91152043": 1,
+    "ULTIMATEFIGHTEER": 1,
+    "SlingingDart612": 1,
+    "Hellscream2008": 2,
+    "MasterDjustin": 1,
+    "Michaelaftonstoes": 2,
+    "Akursium": 1,
+    "JustARandomUser6767": 1,
+    "ChaoticNature": 1,
+    "Bizell112": 1,
+    "Searcher101": 1,
+    "123abcxool": 1,
+    "Winter the Melon 2 Reboot Boogaloo": 1,
+    "SteliosBI09": 1,
+    "GooberDawg": 1,
+    "Cavo217": 1,
+    "Maks25082010": 1,
+    "SoulnessNoob": 1,
+    "SharksAreMe": 1,
+    "BoogerMaster10": 1,
+    "Hayyaan93": 1,
+    "TheFullLegend7016456": 1,
+    "SuspiciousSomeoneAlt": 1,
+    "ILoveChickenNugget109": 1,
+    "Gabriel2312313": 1,
+    "Alarstar.": 1,
+    "VibEyedValk": 1,
+    "TOmM00tds": 1,
+    "Thermal1231231231": 1,
+    "Domino132": 1,
+    "4riverr": 1,
+    "Zionblee": 1,
+    "TheMostBoringGuy": 1,
+    "Bruhejder": 1,
+    "Sharkepicgamer07": 1,
+    "Yuzislayer": 1,
+    "Piyachan": 1,
+    "MrTVbro": 2,
+    "Ice IXth": 3,
+    "GoofyMario": 2,
+    "DudeAccTestin": 1,
+    "MrMosquito": 3,
+    "64Umbreon": 1,
+    "Tohruiscool": 2,
+    "RonnoC2": 1,
+    "Offical Kyle-Hiroki": 1,
+    "Zac-bb8": 1,
+    "MayB-RBLX": 1,
+    "Abtsstyt": 1,
+    "Retriex": 1,
+    "Devilbowser253": 1,
+    "That1Sonic.exefan": 1,
+    "BrickBloxxer0": 1,
+    "The2050th": 1,
+    "Sillyfunthehappyguy": 1,
+    "Idkhowyoudoin": 1,
+    "Mazda Lovr": 1,
+    "Justrandomperson1234": 1,
+    "Sillyfun-111": 2,
+    "Stoveface12": 1,
+    "BloxxerFilip": 1,
+    "BananaPeelSandwich": 1
+  },
+  "irrelevantCounts": {
+    "Mentin123": {
+      "relevant": 288,
+      "change": 1
+    },
+    "3nt4rna1Wastaken": {
+      "relevant": 134,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 72,
+      "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 48,
+      "change": 1
+    },
+    "Nemesis2005": {
+      "relevant": 26,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 23,
+      "change": 1
+    },
+    "VisibleKnot": {
+      "relevant": 22,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 22,
+      "change": 0
+    },
+    "Raspbelle": {
+      "relevant": 16,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 11,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 10,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Vortex2175": {
+      "relevant": 7,
+      "change": 0
+    },
+    "BasicBritishBoy": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 7,
+      "change": 0
+    },
+    "FurnitureEnthusiastAstral": {
+      "relevant": 6,
+      "change": 0
+    },
+    "AbbieFPED": {
+      "relevant": 6,
+      "change": 1
+    },
+    "IFeelSoSubjective!": {
+      "relevant": 6,
+      "change": 2
+    },
+    "Goderator": {
+      "relevant": 5,
+      "change": 0
+    },
+    "FireRambo1234": {
+      "relevant": 5,
+      "change": 0
+    },
+    "Younoob52": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Vihaanbansal12": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Godzilla777theworst": {
+      "relevant": 3,
+      "change": 1
+    },
+    "TinyGhostGamer87": {
+      "relevant": 3,
+      "change": 1
+    },
+    "Moty28": {
+      "relevant": 3,
+      "change": 1
+    },
+    "Bman Shadow": {
+      "relevant": 3,
+      "change": 2
+    },
+    "Your nameless protagonist": {
+      "relevant": 2,
+      "change": 0
+    },
+    "SamuelTheConquerer": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Velociraptortophat": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Jjjgyg": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Skibidisigmaohio513": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Trisratri": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Maksim79014": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Redjacko6": {
+      "relevant": 2,
+      "change": 0
+    },
+    "OddlyPankaes": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Кошара 3.202": {
+      "relevant": 2,
+      "change": 0
+    },
+    "1Vanadium": {
+      "relevant": 2,
+      "change": 0
+    },
+    "TDS Fanat": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Rochukura": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Jesse Pinkman4520": {
+      "relevant": 1,
+      "change": 0
+    },
+    "44uryik": {
+      "relevant": 1,
+      "change": 0
+    },
+    "BrillanceDisplayed": {
+      "relevant": 1,
+      "change": 0
+    },
+    "MC WIKI is better": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Krusnov": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ThirteenM": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Thister": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Sures91152043": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ULTIMATEFIGHTEER": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Hellscream2008": {
+      "relevant": 1,
+      "change": 1
+    },
+    "MasterDjustin": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Michaelaftonstoes": {
+      "relevant": 1,
+      "change": 1
+    },
+    "Akursium": {
+      "relevant": 1,
+      "change": 0
+    },
+    "JustARandomUser6767": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ChaoticNature": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Bizell112": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Searcher101": {
+      "relevant": 1,
+      "change": 0
+    },
+    "123abcxool": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Winter the Melon 2 Reboot Boogaloo": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SteliosBI09": {
+      "relevant": 1,
+      "change": 0
+    },
+    "GooberDawg": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Cavo217": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Maks25082010": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SoulnessNoob": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SharksAreMe": {
+      "relevant": 1,
+      "change": 0
+    },
+    "BoogerMaster10": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Hayyaan93": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TheFullLegend7016456": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SuspiciousSomeoneAlt": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ILoveChickenNugget109": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Gabriel2312313": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Alarstar.": {
+      "relevant": 1,
+      "change": 0
+    },
+    "VibEyedValk": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TOmM00tds": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Thermal1231231231": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Domino132": {
+      "relevant": 1,
+      "change": 0
+    },
+    "4riverr": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Zionblee": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TheMostBoringGuy": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Bruhejder": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Sharkepicgamer07": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Yuzislayer": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Piyachan": {
+      "relevant": 0,
+      "change": 1
+    },
+    "MrTVbro": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Ice IXth": {
+      "relevant": 0,
+      "change": 3
+    },
+    "GoofyMario": {
+      "relevant": 0,
+      "change": 2
+    },
+    "DudeAccTestin": {
+      "relevant": 0,
+      "change": 1
+    },
+    "MrMosquito": {
+      "relevant": 0,
+      "change": 3
+    },
+    "64Umbreon": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Tohruiscool": {
+      "relevant": 0,
+      "change": 2
+    },
+    "RonnoC2": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Offical Kyle-Hiroki": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Zac-bb8": {
+      "relevant": 0,
+      "change": 1
+    },
+    "MayB-RBLX": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Abtsstyt": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Retriex": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Devilbowser253": {
+      "relevant": 0,
+      "change": 1
+    },
+    "That1Sonic.exefan": {
+      "relevant": 0,
+      "change": 1
+    },
+    "BrickBloxxer0": {
+      "relevant": 0,
+      "change": 1
+    },
+    "The2050th": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Sillyfunthehappyguy": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Idkhowyoudoin": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Mazda Lovr": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Justrandomperson1234": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Sillyfun-111": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Stoveface12": {
+      "relevant": 0,
+      "change": 1
+    },
+    "BloxxerFilip": {
+      "relevant": 0,
+      "change": 1
+    },
+    "BananaPeelSandwich": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
