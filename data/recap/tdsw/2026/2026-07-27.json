@@ -1,0 +1,444 @@
+{
+  "week": "2026-07-27",
+  "totalMessages": 1275,
+  "irrelevantMessages": 70,
+  "counts": {
+    "Mentin123": 486,
+    "Nemesis2005": 157,
+    "Breathix": 91,
+    "3nt4rna1Wastaken": 80,
+    "VisibleKnot": 73,
+    "MasterDjustin": 48,
+    "Gabonnie": 41,
+    "Yanboblox22": 30,
+    "Sofiasean560": 21,
+    "Frost Catgang": 12,
+    "WikiaColors": 11,
+    "Bkind000 Games": 10,
+    "Vessel Of Infinite Destruction": 7,
+    "MrMosquito": 10,
+    "Godzilla777theworst": 7,
+    "OvergrownTadpole123": 20,
+    "Bobodance": 6,
+    "Vortex2175": 6,
+    "Meta the g": 6,
+    "JurassicParker32": 6,
+    "Bman Shadow": 6,
+    "IFeelSoSubjective!": 6,
+    "8k120": 18,
+    "TinyGhostGamer87": 7,
+    "FebriTheNoobie": 4,
+    "BasicBritishBoy": 4,
+    "Iloveshiroko": 4,
+    "That1Sonic.exefan": 4,
+    "FurnitureEnthusiastAstral": 3,
+    "Yamato1928": 3,
+    "Domino132": 3,
+    "TheBlueNightyes": 3,
+    "RustyChroma2": 3,
+    "SnappyDucky": 2,
+    "Xxltss1111xXl2": 2,
+    "Cokecreator502": 2,
+    "TheRealMiho": 2,
+    "HappyBrownie3362": 2,
+    "MrSmileyz75": 2,
+    "44uryik": 2,
+    "VultureSniper": 2,
+    "Zac-bb8": 3,
+    "Soufre": 2,
+    "Papon186880": 2,
+    "Absorbedtf2": 1,
+    "Dogeiguessidk": 1,
+    "Generalistic": 1,
+    "XC3fan": 1,
+    "ImAllOutOfNames": 1,
+    "LionEclipse": 1,
+    "ILoveChickenNugget109": 1,
+    "Velociraptortophat": 1,
+    "Giubello": 1,
+    "TDSpecialist": 1,
+    "TheUndeadRising4": 1,
+    "Meowimacactus": 1,
+    "Watdahecc": 2,
+    "Predictacolors": 1,
+    "1Vanadium": 1,
+    "PeaceableJellyfish584": 1,
+    "YourUsualTDSEnjoyer": 1,
+    "Fiprandom": 1,
+    "Raspbelle": 1,
+    "KelanTDS12345": 1,
+    "Eternity1407": 1,
+    "The.one.you.should.not.know": 1,
+    "AbbieFPED": 1,
+    "Eyad223": 1,
+    "Evalieunderscore": 1,
+    "JamCubeYT": 1,
+    "TDS Fanat": 1,
+    "Sharkepicgamer07": 1,
+    "OvergrownTadpole": 1,
+    "UltrakillingTime": 2,
+    "Rochukura": 4,
+    "Cordyceps109": 2,
+    "TheMimicDev": 2,
+    "TheJfromunderswapUJD": 1,
+    "PicklesworfPerson1234": 1,
+    "TacoGatoC": 1,
+    "Light Ghazt": 1,
+    "Sillyfunthehappyguy": 1,
+    "Ice IXth": 3,
+    "Adamisalive": 5,
+    "BrokenEmp": 1,
+    "G01DENBL4NK": 1,
+    "BloxxerFilip": 1
+  },
+  "irrelevantCounts": {
+    "Mentin123": {
+      "relevant": 484,
+      "change": 2
+    },
+    "Nemesis2005": {
+      "relevant": 157,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 91,
+      "change": 0
+    },
+    "3nt4rna1Wastaken": {
+      "relevant": 80,
+      "change": 0
+    },
+    "VisibleKnot": {
+      "relevant": 73,
+      "change": 0
+    },
+    "MasterDjustin": {
+      "relevant": 48,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 39,
+      "change": 2
+    },
+    "Yanboblox22": {
+      "relevant": 30,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 21,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 12,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 11,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 10,
+      "change": 0
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 7,
+      "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 7,
+      "change": 3
+    },
+    "Godzilla777theworst": {
+      "relevant": 6,
+      "change": 1
+    },
+    "OvergrownTadpole123": {
+      "relevant": 6,
+      "change": 14
+    },
+    "Bobodance": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Vortex2175": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Meta the g": {
+      "relevant": 6,
+      "change": 0
+    },
+    "JurassicParker32": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Bman Shadow": {
+      "relevant": 6,
+      "change": 0
+    },
+    "IFeelSoSubjective!": {
+      "relevant": 5,
+      "change": 1
+    },
+    "8k120": {
+      "relevant": 5,
+      "change": 13
+    },
+    "TinyGhostGamer87": {
+      "relevant": 4,
+      "change": 3
+    },
+    "FebriTheNoobie": {
+      "relevant": 4,
+      "change": 0
+    },
+    "BasicBritishBoy": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Iloveshiroko": {
+      "relevant": 4,
+      "change": 0
+    },
+    "That1Sonic.exefan": {
+      "relevant": 4,
+      "change": 0
+    },
+    "FurnitureEnthusiastAstral": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Yamato1928": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Domino132": {
+      "relevant": 3,
+      "change": 0
+    },
+    "TheBlueNightyes": {
+      "relevant": 3,
+      "change": 0
+    },
+    "RustyChroma2": {
+      "relevant": 2,
+      "change": 1
+    },
+    "SnappyDucky": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Xxltss1111xXl2": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Cokecreator502": {
+      "relevant": 2,
+      "change": 0
+    },
+    "TheRealMiho": {
+      "relevant": 2,
+      "change": 0
+    },
+    "HappyBrownie3362": {
+      "relevant": 2,
+      "change": 0
+    },
+    "MrSmileyz75": {
+      "relevant": 2,
+      "change": 0
+    },
+    "44uryik": {
+      "relevant": 2,
+      "change": 0
+    },
+    "VultureSniper": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Zac-bb8": {
+      "relevant": 2,
+      "change": 1
+    },
+    "Soufre": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Papon186880": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Absorbedtf2": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Dogeiguessidk": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Generalistic": {
+      "relevant": 1,
+      "change": 0
+    },
+    "XC3fan": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ImAllOutOfNames": {
+      "relevant": 1,
+      "change": 0
+    },
+    "LionEclipse": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ILoveChickenNugget109": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Velociraptortophat": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Giubello": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TDSpecialist": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TheUndeadRising4": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Meowimacactus": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Watdahecc": {
+      "relevant": 1,
+      "change": 1
+    },
+    "Predictacolors": {
+      "relevant": 1,
+      "change": 0
+    },
+    "1Vanadium": {
+      "relevant": 1,
+      "change": 0
+    },
+    "PeaceableJellyfish584": {
+      "relevant": 1,
+      "change": 0
+    },
+    "YourUsualTDSEnjoyer": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Fiprandom": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Raspbelle": {
+      "relevant": 1,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Eternity1407": {
+      "relevant": 1,
+      "change": 0
+    },
+    "The.one.you.should.not.know": {
+      "relevant": 1,
+      "change": 0
+    },
+    "AbbieFPED": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Eyad223": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Evalieunderscore": {
+      "relevant": 1,
+      "change": 0
+    },
+    "JamCubeYT": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TDS Fanat": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Sharkepicgamer07": {
+      "relevant": 0,
+      "change": 1
+    },
+    "OvergrownTadpole": {
+      "relevant": 0,
+      "change": 1
+    },
+    "UltrakillingTime": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Rochukura": {
+      "relevant": 0,
+      "change": 4
+    },
+    "Cordyceps109": {
+      "relevant": 0,
+      "change": 2
+    },
+    "TheMimicDev": {
+      "relevant": 0,
+      "change": 2
+    },
+    "TheJfromunderswapUJD": {
+      "relevant": 0,
+      "change": 1
+    },
+    "PicklesworfPerson1234": {
+      "relevant": 0,
+      "change": 1
+    },
+    "TacoGatoC": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Light Ghazt": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Sillyfunthehappyguy": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Ice IXth": {
+      "relevant": 0,
+      "change": 3
+    },
+    "Adamisalive": {
+      "relevant": 0,
+      "change": 5
+    },
+    "BrokenEmp": {
+      "relevant": 0,
+      "change": 1
+    },
+    "G01DENBL4NK": {
+      "relevant": 0,
+      "change": 1
+    },
+    "BloxxerFilip": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
