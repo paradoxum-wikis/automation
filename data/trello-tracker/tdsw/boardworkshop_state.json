@@ -185,7 +185,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 6
         },
         {
           "id": "691601a77fde3bc637f6e69e",
@@ -203,7 +203,7 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
           "color": "red",
-          "uses": 3
+          "uses": 2
         },
         {
           "id": "691601a77fde3bc637f6e6a0",
@@ -212,7 +212,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 8
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -221,7 +221,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": null,
@@ -241,7 +241,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "691609e08622ebe2449cd2c4",
@@ -342,7 +342,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": null,
@@ -362,7 +362,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "69332c9ffc9ac5c5944e7792",
@@ -463,7 +463,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": null,
@@ -483,7 +483,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "69161910305f139437f54fa5",
@@ -584,13 +584,13 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
           "color": "red",
-          "uses": 3
+          "uses": 2
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/xrLjPgyv/22-pvp-season-1",
-      "closed": false
+      "closed": true
     },
     "69309e61e4abb1206032c146": {
       "name": "New Lobby",
@@ -604,7 +604,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": null,
@@ -624,7 +624,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "691b37d0fa7dff418b9ceb29",
@@ -725,7 +725,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": null,
@@ -745,7 +745,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "69e949e98184740fa4a47a4c",
@@ -828,7 +828,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "69fa53664a1aa32efe73ccb8",
@@ -920,7 +920,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": null,
@@ -940,7 +940,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": null,
@@ -960,7 +960,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "6a19c35398eceb4313cee8ba",
@@ -1043,7 +1043,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "6a19c369d913aa6096d27e8c",
@@ -1126,7 +1126,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 16
+          "uses": 17
         }
       ],
       "idAttachmentCover": "6a1f08120316cf72dd271817",
@@ -1197,6 +1197,26 @@
       "url": "https://trello.com/c/dgRS26pk/17-tower-boomerang",
       "closed": false
     },
+    "691606a55d3f42597da4be4e": {
+      "name": "Story mode",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a1",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
+          "color": "blue",
+          "uses": 17
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/1Sp1FDOj/18-story-mode",
+      "closed": false
+    },
     "6916061d8edd60a174abfdfe": {
       "name": "New Shop UI",
       "desc": "Information coming soon…",
@@ -1209,32 +1229,12 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/qhodlIWP/14-new-shop-ui",
-      "closed": false
-    },
-    "691606a55d3f42597da4be4e": {
-      "name": "Story mode",
-      "desc": "Information coming soon…",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69c",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 7
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/1Sp1FDOj/18-story-mode",
       "closed": false
     },
     "6a1727aedbd230f2536af9ca": {
@@ -1249,7 +1249,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 6
         }
       ],
       "idAttachmentCover": "6a19c35f476f9669aecdd092",
@@ -1332,7 +1332,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
@@ -1352,7 +1352,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
@@ -1372,52 +1372,12 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 7
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/SgrdKKa1/32-tower-gladiator-rework",
-      "closed": false
-    },
-    "691605c839f007459109e705": {
-      "name": "Community Gamemodes",
-      "desc": "Information coming soon…",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 7
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/ueZURvgv/12-community-gamemodes",
-      "closed": false
-    },
-    "691605c37fd252daaf6d055a": {
-      "name": "Gamemode: Golden mode",
-      "desc": "Information coming soon…",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69f",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Delayed",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
-          "color": "red",
-          "uses": 3
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/JdJTWw6V/11-gamemode-golden-mode",
       "closed": false
     },
     "6916059ecca8d6acf796f6b9": {
@@ -1432,7 +1392,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
@@ -1452,7 +1412,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
@@ -1472,7 +1432,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
@@ -1481,8 +1441,8 @@
       "closed": false
     },
     "6a6083bf557ea1a71723114a": {
-      "name": "Tower: ???",
-      "desc": "Information coming soon…",
+      "name": "Tower: Time Dilator",
+      "desc": "A tower that acts as a ranged AOE buff/debuff tower to adjust the speed of any object inside its field, whether its an enemy or a friendly tower.",
       "idList": "691601d194e0d9a27a3a94e5",
       "labels": [
         {
@@ -1492,12 +1452,12 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/q5GHDYFx/33-tower",
+      "url": "https://trello.com/c/q5GHDYFx/33-tower-time-dilator",
       "closed": false
     },
     "6a57b26d499a372ad42696c6": {
@@ -1512,12 +1472,115 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": "6a74d316b11146f0ee5bf638",
+      "attachments": [
+        {
+          "id": "6a74d316b11146f0ee5bf638",
+          "bytes": 73934,
+          "date": "2026-08-06T18:31:50.063Z",
+          "edgeColor": "#848484",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "Photos_AboOJ7SBtV.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6a57b26d499a372ad42696c6/attachments/6a74d316b11146f0ee5bf638/previews/6a74d317b11146f0ee5bf644/download/Photos_AboOJ7SBtV.webp",
+              "_id": "6a74d317b11146f0ee5bf644",
+              "id": "6a74d317b11146f0ee5bf644",
+              "scaled": false,
+              "bytes": 550,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6a57b26d499a372ad42696c6/attachments/6a74d316b11146f0ee5bf638/previews/6a74d317b11146f0ee5bf645/download/Photos_AboOJ7SBtV.webp",
+              "_id": "6a74d317b11146f0ee5bf645",
+              "id": "6a74d317b11146f0ee5bf645",
+              "scaled": false,
+              "bytes": 2376,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6a57b26d499a372ad42696c6/attachments/6a74d316b11146f0ee5bf638/previews/6a74d317b11146f0ee5bf646/download/Photos_AboOJ7SBtV.webp",
+              "_id": "6a74d317b11146f0ee5bf646",
+              "id": "6a74d317b11146f0ee5bf646",
+              "scaled": true,
+              "bytes": 2884,
+              "height": 167,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6a57b26d499a372ad42696c6/attachments/6a74d316b11146f0ee5bf638/previews/6a74d317b11146f0ee5bf647/download/Photos_AboOJ7SBtV.webp",
+              "_id": "6a74d317b11146f0ee5bf647",
+              "id": "6a74d317b11146f0ee5bf647",
+              "scaled": true,
+              "bytes": 7986,
+              "height": 334,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6a57b26d499a372ad42696c6/attachments/6a74d316b11146f0ee5bf638/previews/6a74d317b11146f0ee5bf648/download/Photos_AboOJ7SBtV.webp",
+              "_id": "6a74d317b11146f0ee5bf648",
+              "id": "6a74d317b11146f0ee5bf648",
+              "scaled": true,
+              "bytes": 9332,
+              "height": 387,
+              "width": 348
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6a57b26d499a372ad42696c6/attachments/6a74d316b11146f0ee5bf638/download/Photos_AboOJ7SBtV.png",
+          "pos": 140737488355328,
+          "fileName": "Photos_AboOJ7SBtV.png"
+        }
+      ],
+      "url": "https://trello.com/c/56aDjXKj/31-tower-executioner-rework",
+      "closed": false
+    },
+    "691605c37fd252daaf6d055a": {
+      "name": "Gamemode: Golden mode",
+      "desc": "Information coming soon…",
+      "idList": "6a74d250274d0c13284cbc1f",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/56aDjXKj/31-tower-executioner-rework",
+      "url": "https://trello.com/c/JdJTWw6V/11-gamemode-golden-mode",
+      "closed": false
+    },
+    "691605c839f007459109e705": {
+      "name": "Community Gamemodes",
+      "desc": "Information coming soon…",
+      "idList": "6a74d250274d0c13284cbc1f",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/ueZURvgv/12-community-gamemodes",
       "closed": false
     }
   },
@@ -1738,11 +1801,42 @@
         }
       },
       "nodeId": "ari:cloud:trello::list/workspace/5e5d3a4d7f295033c77bbff5/691601d194e0d9a27a3a94e5"
+    },
+    "6a74d250274d0c13284cbc1f": {
+      "id": "6a74d250274d0c13284cbc1f",
+      "name": "2027",
+      "closed": false,
+      "color": null,
+      "idBoard": "691601a77fde3bc637f6e61f",
+      "pos": 114688,
+      "subscribed": null,
+      "softLimit": null,
+      "type": null,
+      "datasource": {
+        "filter": false
+      },
+      "creationMethod": null,
+      "idOrganization": "5e5d3a4d7f295033c77bbff5",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/5e5d3a4d7f295033c77bbff5/6a74d250274d0c13284cbc1f"
     }
   },
   "board": {
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-07-22T09:37:09.580Z"
+  "lastCheck": "2026-08-06T18:45:04.904Z"
 }
