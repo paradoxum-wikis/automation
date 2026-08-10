@@ -1,0 +1,24 @@
+{
+  "week": "2026-08-03",
+  "totalMessages": 32,
+  "irrelevantMessages": 4,
+  "counts": {
+    "Gabonnie": 16,
+    "Frogt007": 12,
+    "DarkGabonnie": 4
+  },
+  "irrelevantCounts": {
+    "Gabonnie": {
+      "relevant": 16,
+      "change": 0
+    },
+    "Frogt007": {
+      "relevant": 8,
+      "change": 4
+    },
+    "DarkGabonnie": {
+      "relevant": 4,
+      "change": 0
+    }
+  }
+}
