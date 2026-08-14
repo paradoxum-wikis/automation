@@ -1435,8 +1435,71 @@
           "uses": 8
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "6a7f3604f9d1516b443bf9a9",
+      "attachments": [
+        {
+          "id": "6a7f3604f9d1516b443bf9a9",
+          "bytes": 124614,
+          "date": "2026-08-14T15:36:36.475Z",
+          "edgeColor": "#2c2f33",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "mechabase.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b5/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b5",
+              "id": "6a7f3604f9d1516b443bf9b5",
+              "scaled": false,
+              "bytes": 708,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b6/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b6",
+              "id": "6a7f3604f9d1516b443bf9b6",
+              "scaled": false,
+              "bytes": 3378,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b7/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b7",
+              "id": "6a7f3604f9d1516b443bf9b7",
+              "scaled": true,
+              "bytes": 4036,
+              "height": 170,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b8/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b8",
+              "id": "6a7f3604f9d1516b443bf9b8",
+              "scaled": true,
+              "bytes": 10134,
+              "height": 340,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b9/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b9",
+              "id": "6a7f3604f9d1516b443bf9b9",
+              "scaled": true,
+              "bytes": 11138,
+              "height": 364,
+              "width": 321
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/download/mechabase.png",
+          "pos": 140737488355328,
+          "fileName": "mechabase.png"
+        }
+      ],
       "url": "https://trello.com/c/8EGpJVaN/30-tower-mecha-base",
       "closed": false
     },
@@ -1838,5 +1901,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-08-06T18:45:04.904Z"
+  "lastCheck": "2026-08-14T16:24:58.922Z"
 }
