@@ -1,0 +1,14 @@
+{
+  "week": "2026-08-10",
+  "totalMessages": 7,
+  "irrelevantMessages": 0,
+  "counts": {
+    "Gabonnie": 7
+  },
+  "irrelevantCounts": {
+    "Gabonnie": {
+      "relevant": 7,
+      "change": 0
+    }
+  }
+}
