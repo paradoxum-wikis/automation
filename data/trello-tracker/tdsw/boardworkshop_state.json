@@ -212,7 +212,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -1432,7 +1432,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": "6a7f3604f9d1516b443bf9a9",
@@ -1515,7 +1515,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1535,7 +1535,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": "6a74d316b11146f0ee5bf638",
@@ -1618,7 +1618,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1638,12 +1638,32 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 6
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/ueZURvgv/12-community-gamemodes",
+      "closed": false
+    },
+    "6a88713bfbb168560595f9b2": {
+      "name": "PVP Mini-Rework",
+      "desc": "More information coming soon.",
+      "idList": "6a74d250274d0c13284cbc1f",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 7
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/WtWfnwpF/34-pvp-mini-rework",
       "closed": false
     }
   },
@@ -1901,5 +1921,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-08-14T23:49:23.907Z"
+  "lastCheck": "2026-08-21T15:53:23.136Z"
 }
