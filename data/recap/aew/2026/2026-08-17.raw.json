@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": 1787509762070,
+    "embeds": [
+      {
+        "title": "V0.8.10 ( +9)",
+        "description": "No description provided",
+        "author": {
+          "name": "MrMT1652",
+          "url": "https://alter-ego.fandom.com/wiki/Special:Contribs/MrMT1652"
+        },
+        "fields": [
+          {
+            "name": "Tags",
+            "value": "Visual edit",
+            "inline": false
+          }
+        ],
+        "color": 35840
+      }
+    ]
+  },
+  {
+    "timestamp": 1787012262982,
+    "embeds": [
+      {
+        "title": "Poe/Gallery (m +120)",
+        "description": "No description provided",
+        "author": {
+          "name": "Frogt007",
+          "url": "https://alter-ego.fandom.com/wiki/Special:Contribs/Frogt007"
+        },
+        "fields": [],
+        "color": 36352
+      }
+    ]
+  },
+  {
+    "timestamp": 1787012157203,
+    "embeds": [
+      {
+        "title": "Uploaded File:FirstAEIconBrightned.png",
+        "description": "No description provided",
+        "author": {
+          "name": "Frogt007",
+          "url": "https://alter-ego.fandom.com/wiki/Special:Contribs/Frogt007",
+          "iconURL": "https://i.imgur.com/egJpa81.png",
+          "proxyIconURL": "https://images-ext-1.discordapp.net/external/bcm6sjmxlURnXbAXypCIiySw7h11tU-KcCJ4KDgf8mE/https/i.imgur.com/egJpa81.png"
+        },
+        "fields": [
+          {
+            "name": "Options",
+            "value": "([preview](https://static.wikia.nocookie.net/alter-ego/images/e/e6/FirstAEIconBrightned.png/revision/latest?cb=20260818001546&rcgcdw=8935060771))",
+            "inline": false
+          }
+        ],
+        "color": 12390624
+      }
+    ]
+  }
+]
