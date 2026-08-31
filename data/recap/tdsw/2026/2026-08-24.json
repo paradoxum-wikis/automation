@@ -1,0 +1,414 @@
+{
+  "week": "2026-08-24",
+  "totalMessages": 1132,
+  "irrelevantMessages": 123,
+  "counts": {
+    "Mentin123": 385,
+    "Leadfoot2121": 241,
+    "GodzillaTDS777": 66,
+    "Goderator": 47,
+    "Gabonnie": 36,
+    "Vessel Of Infinite Destruction": 28,
+    "Froggerton8000": 24,
+    "3nt4rna1Wastaken": 20,
+    "Breathix": 18,
+    "Ornamen": 18,
+    "Bkind000 Games": 12,
+    "OvergrownTadpole123": 13,
+    "JurassicParker32": 11,
+    "VisibleKnot": 10,
+    "Yanboblox22": 9,
+    "RustyChroma2": 9,
+    "Frost Catgang": 7,
+    "Vortex2175": 7,
+    "WikiaColors": 5,
+    "WastelandSplitter": 4,
+    "Sofiasean560": 4,
+    "Hayyaan93": 4,
+    "LucasLiorLE": 4,
+    "Nemesis2005": 3,
+    "Bidsgarza": 3,
+    "TinyGhostGamer87": 5,
+    "Jjjgyg": 3,
+    "Robucket": 4,
+    "Dragonixe": 2,
+    "Offical Kyle-Hiroki": 2,
+    "Coreyhao3": 3,
+    "SnappyDucky": 2,
+    "Vihaanbansal12": 2,
+    "Light Ghazt": 2,
+    "FebriTheNoobie": 2,
+    "A Amazing Gamer": 2,
+    "OnceAndTwice1": 1,
+    "Bonnie0987": 1,
+    "ChaosX7": 1,
+    "Gamestore11": 1,
+    "MasterJadins": 1,
+    "JohnJOHNjohneeeeeeeeeeeeeeee": 1,
+    "Robloxidkwhattowrite11": 1,
+    "CheaperNightingale068": 3,
+    "ToMacMa": 1,
+    "Superhandsome4950": 1,
+    "Winter the Melon 2 Reboot Boogaloo": 1,
+    "Asg0reisthegoat": 1,
+    "Yamato1928": 1,
+    "Feuhufe": 1,
+    "Jayjay1221x2": 1,
+    "GoldCrow3227": 1,
+    "BeneficiaryFly536": 1,
+    "Supra-bamb": 1,
+    "Slimersonic": 1,
+    "That1Sonic.exefan": 1,
+    "KelanTDS12345": 1,
+    "JustARandomUser6767": 1,
+    "Memor22": 1,
+    "Iliketouhou": 1,
+    "SkilledWolf373": 1,
+    "INLOC": 2,
+    "Raden1509": 1,
+    "Cordyceps109": 1,
+    "RosyGrouse341": 1,
+    "Sillyfunthehappyguy": 8,
+    "0prus": 1,
+    "Hellscream2008": 2,
+    "Bman Shadow": 4,
+    "Colorblind doggy": 1,
+    "MasterDjustin": 2,
+    "TDSGaming2010": 1,
+    "DarkGabonnie": 54,
+    "Bac0n n00b 9amin9": 1,
+    "AdxmRex2": 1,
+    "Mysticwaterfall": 2,
+    "GoofyMario": 2,
+    "JoeyGYGY": 1,
+    "MrMosquito": 1,
+    "Dispatcher TDS": 1,
+    "TheSeal27": 1
+  },
+  "irrelevantCounts": {
+    "Mentin123": {
+      "relevant": 385,
+      "change": 0
+    },
+    "Leadfoot2121": {
+      "relevant": 241,
+      "change": 0
+    },
+    "GodzillaTDS777": {
+      "relevant": 48,
+      "change": 18
+    },
+    "Goderator": {
+      "relevant": 47,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 27,
+      "change": 9
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 27,
+      "change": 1
+    },
+    "Froggerton8000": {
+      "relevant": 24,
+      "change": 0
+    },
+    "3nt4rna1Wastaken": {
+      "relevant": 20,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 18,
+      "change": 0
+    },
+    "Ornamen": {
+      "relevant": 18,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 12,
+      "change": 0
+    },
+    "OvergrownTadpole123": {
+      "relevant": 11,
+      "change": 2
+    },
+    "JurassicParker32": {
+      "relevant": 11,
+      "change": 0
+    },
+    "VisibleKnot": {
+      "relevant": 10,
+      "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 9,
+      "change": 0
+    },
+    "RustyChroma2": {
+      "relevant": 9,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Vortex2175": {
+      "relevant": 7,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 5,
+      "change": 0
+    },
+    "WastelandSplitter": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Hayyaan93": {
+      "relevant": 4,
+      "change": 0
+    },
+    "LucasLiorLE": {
+      "relevant": 3,
+      "change": 1
+    },
+    "Nemesis2005": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Bidsgarza": {
+      "relevant": 3,
+      "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 3,
+      "change": 2
+    },
+    "Jjjgyg": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Robucket": {
+      "relevant": 3,
+      "change": 1
+    },
+    "Dragonixe": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Offical Kyle-Hiroki": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Coreyhao3": {
+      "relevant": 2,
+      "change": 1
+    },
+    "SnappyDucky": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Vihaanbansal12": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Light Ghazt": {
+      "relevant": 2,
+      "change": 0
+    },
+    "FebriTheNoobie": {
+      "relevant": 2,
+      "change": 0
+    },
+    "A Amazing Gamer": {
+      "relevant": 2,
+      "change": 0
+    },
+    "OnceAndTwice1": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Bonnie0987": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ChaosX7": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Gamestore11": {
+      "relevant": 1,
+      "change": 0
+    },
+    "MasterJadins": {
+      "relevant": 1,
+      "change": 0
+    },
+    "JohnJOHNjohneeeeeeeeeeeeeeee": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Robloxidkwhattowrite11": {
+      "relevant": 1,
+      "change": 0
+    },
+    "CheaperNightingale068": {
+      "relevant": 1,
+      "change": 2
+    },
+    "ToMacMa": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Superhandsome4950": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Winter the Melon 2 Reboot Boogaloo": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Asg0reisthegoat": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Yamato1928": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Feuhufe": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Jayjay1221x2": {
+      "relevant": 1,
+      "change": 0
+    },
+    "GoldCrow3227": {
+      "relevant": 1,
+      "change": 0
+    },
+    "BeneficiaryFly536": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Supra-bamb": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Slimersonic": {
+      "relevant": 1,
+      "change": 0
+    },
+    "That1Sonic.exefan": {
+      "relevant": 1,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 1,
+      "change": 0
+    },
+    "JustARandomUser6767": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Memor22": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Iliketouhou": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SkilledWolf373": {
+      "relevant": 1,
+      "change": 0
+    },
+    "INLOC": {
+      "relevant": 1,
+      "change": 1
+    },
+    "Raden1509": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Cordyceps109": {
+      "relevant": 0,
+      "change": 1
+    },
+    "RosyGrouse341": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Sillyfunthehappyguy": {
+      "relevant": 0,
+      "change": 8
+    },
+    "0prus": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Hellscream2008": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Bman Shadow": {
+      "relevant": 0,
+      "change": 4
+    },
+    "Colorblind doggy": {
+      "relevant": 0,
+      "change": 1
+    },
+    "MasterDjustin": {
+      "relevant": 0,
+      "change": 2
+    },
+    "TDSGaming2010": {
+      "relevant": 0,
+      "change": 1
+    },
+    "DarkGabonnie": {
+      "relevant": 0,
+      "change": 54
+    },
+    "Bac0n n00b 9amin9": {
+      "relevant": 0,
+      "change": 1
+    },
+    "AdxmRex2": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Mysticwaterfall": {
+      "relevant": 0,
+      "change": 2
+    },
+    "GoofyMario": {
+      "relevant": 0,
+      "change": 2
+    },
+    "JoeyGYGY": {
+      "relevant": 0,
+      "change": 1
+    },
+    "MrMosquito": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Dispatcher TDS": {
+      "relevant": 0,
+      "change": 1
+    },
+    "TheSeal27": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
