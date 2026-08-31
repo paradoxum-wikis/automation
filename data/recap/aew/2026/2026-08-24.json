@@ -1,0 +1,29 @@
+{
+  "week": "2026-08-24",
+  "totalMessages": 9,
+  "irrelevantMessages": 0,
+  "counts": {
+    "Frogt007": 6,
+    "Briks&Bloks": 1,
+    "Gabonnie": 1,
+    "MrMT1652": 1
+  },
+  "irrelevantCounts": {
+    "Frogt007": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Briks&Bloks": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 1,
+      "change": 0
+    },
+    "MrMT1652": {
+      "relevant": 1,
+      "change": 0
+    }
+  }
+}
