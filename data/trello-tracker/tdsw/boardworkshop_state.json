@@ -185,7 +185,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 5
+          "uses": 8
         },
         {
           "id": "691601a77fde3bc637f6e69e",
@@ -212,7 +212,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 4
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -1352,7 +1352,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 5
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
@@ -1372,7 +1372,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
           "color": "green",
-          "uses": 5
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
@@ -1380,162 +1380,19 @@
       "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
       "closed": false
     },
-    "6916059ecca8d6acf796f6b9": {
-      "name": "Event: Halloween 2026",
-      "desc": "Information coming soon…",
-      "idList": "691601d194e0d9a27a3a94e5",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69c",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 5
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/tpUPFaOx/10-event-halloween-2026",
-      "closed": false
-    },
-    "69160599332bae26697c51bf": {
-      "name": "Event: Winter 2026",
-      "desc": "Information coming soon…",
-      "idList": "691601d194e0d9a27a3a94e5",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69c",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 5
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/g8AVlQPF/9-event-winter-2026",
-      "closed": false
-    },
-    "6a1a07c3ad33e160d14c7908": {
-      "name": "Tower: Mecha Base",
-      "desc": "Evolved from Military Base. An advanced base that deploys mechs and brings high-impact battlefield abilities.",
-      "idList": "691601d194e0d9a27a3a94e5",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 7
-        }
-      ],
-      "idAttachmentCover": "6a7f3604f9d1516b443bf9a9",
-      "attachments": [
-        {
-          "id": "6a7f3604f9d1516b443bf9a9",
-          "bytes": 124614,
-          "date": "2026-08-14T15:36:36.475Z",
-          "edgeColor": "#2c2f33",
-          "idMember": "68769bffc3c94a99e1fefc40",
-          "isMalicious": false,
-          "isUpload": true,
-          "mimeType": "image/png",
-          "name": "mechabase.png",
-          "previews": [
-            {
-              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b5/download/mechabase.webp",
-              "_id": "6a7f3604f9d1516b443bf9b5",
-              "id": "6a7f3604f9d1516b443bf9b5",
-              "scaled": false,
-              "bytes": 708,
-              "height": 50,
-              "width": 70
-            },
-            {
-              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b6/download/mechabase.webp",
-              "_id": "6a7f3604f9d1516b443bf9b6",
-              "id": "6a7f3604f9d1516b443bf9b6",
-              "scaled": false,
-              "bytes": 3378,
-              "height": 150,
-              "width": 250
-            },
-            {
-              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b7/download/mechabase.webp",
-              "_id": "6a7f3604f9d1516b443bf9b7",
-              "id": "6a7f3604f9d1516b443bf9b7",
-              "scaled": true,
-              "bytes": 4036,
-              "height": 170,
-              "width": 150
-            },
-            {
-              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b8/download/mechabase.webp",
-              "_id": "6a7f3604f9d1516b443bf9b8",
-              "id": "6a7f3604f9d1516b443bf9b8",
-              "scaled": true,
-              "bytes": 10134,
-              "height": 340,
-              "width": 300
-            },
-            {
-              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b9/download/mechabase.webp",
-              "_id": "6a7f3604f9d1516b443bf9b9",
-              "id": "6a7f3604f9d1516b443bf9b9",
-              "scaled": true,
-              "bytes": 11138,
-              "height": 364,
-              "width": 321
-            }
-          ],
-          "sourceView": {},
-          "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/download/mechabase.png",
-          "pos": 140737488355328,
-          "fileName": "mechabase.png"
-        }
-      ],
-      "url": "https://trello.com/c/8EGpJVaN/30-tower-mecha-base",
-      "closed": false
-    },
-    "6a6083bf557ea1a71723114a": {
-      "name": "Tower: Time Dilator",
-      "desc": "A tower that acts as a ranged AOE buff/debuff tower to adjust the speed of any object inside its field, whether its an enemy or a friendly tower.",
-      "idList": "691601d194e0d9a27a3a94e5",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 7
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/q5GHDYFx/33-tower-time-dilator",
-      "closed": false
-    },
     "6a57b26d499a372ad42696c6": {
       "name": "Tower: Executioner Rework",
       "desc": "Rework the Executioner to be up to modern standards and expand on its existing functionality to create a tower that stands out from Boomerang.",
-      "idList": "691601d194e0d9a27a3a94e5",
+      "idList": "691601ce8394932359241a9b",
       "labels": [
         {
-          "id": "691601a77fde3bc637f6e6a0",
+          "id": "691601a77fde3bc637f6e69c",
           "idBoard": "691601a77fde3bc637f6e61f",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 7
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 8
         }
       ],
       "idAttachmentCover": "6a74d316b11146f0ee5bf638",
@@ -1606,6 +1463,149 @@
       "url": "https://trello.com/c/56aDjXKj/31-tower-executioner-rework",
       "closed": false
     },
+    "6916059ecca8d6acf796f6b9": {
+      "name": "Event: Halloween 2026",
+      "desc": "Information coming soon…",
+      "idList": "691601d194e0d9a27a3a94e5",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/tpUPFaOx/10-event-halloween-2026",
+      "closed": false
+    },
+    "69160599332bae26697c51bf": {
+      "name": "Event: Winter 2026",
+      "desc": "Information coming soon…",
+      "idList": "691601d194e0d9a27a3a94e5",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/g8AVlQPF/9-event-winter-2026",
+      "closed": false
+    },
+    "6a6083bf557ea1a71723114a": {
+      "name": "Tower: Time Dilator",
+      "desc": "A tower that acts as a ranged AOE buff/debuff tower to adjust the speed of any object inside its field, whether its an enemy or a friendly tower.",
+      "idList": "691601d194e0d9a27a3a94e5",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/q5GHDYFx/33-tower-time-dilator",
+      "closed": false
+    },
+    "6a1a07c3ad33e160d14c7908": {
+      "name": "Tower: Mecha Base",
+      "desc": "Evolved from Military Base. An advanced base that deploys mechs and brings high-impact battlefield abilities.",
+      "idList": "691601d194e0d9a27a3a94e5",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": "6a7f3604f9d1516b443bf9a9",
+      "attachments": [
+        {
+          "id": "6a7f3604f9d1516b443bf9a9",
+          "bytes": 124614,
+          "date": "2026-08-14T15:36:36.475Z",
+          "edgeColor": "#2c2f33",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "mechabase.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b5/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b5",
+              "id": "6a7f3604f9d1516b443bf9b5",
+              "scaled": false,
+              "bytes": 708,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b6/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b6",
+              "id": "6a7f3604f9d1516b443bf9b6",
+              "scaled": false,
+              "bytes": 3378,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b7/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b7",
+              "id": "6a7f3604f9d1516b443bf9b7",
+              "scaled": true,
+              "bytes": 4036,
+              "height": 170,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b8/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b8",
+              "id": "6a7f3604f9d1516b443bf9b8",
+              "scaled": true,
+              "bytes": 10134,
+              "height": 340,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/previews/6a7f3604f9d1516b443bf9b9/download/mechabase.webp",
+              "_id": "6a7f3604f9d1516b443bf9b9",
+              "id": "6a7f3604f9d1516b443bf9b9",
+              "scaled": true,
+              "bytes": 11138,
+              "height": 364,
+              "width": 321
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6a1a07c3ad33e160d14c7908/attachments/6a7f3604f9d1516b443bf9a9/download/mechabase.png",
+          "pos": 140737488355328,
+          "fileName": "mechabase.png"
+        }
+      ],
+      "url": "https://trello.com/c/8EGpJVaN/30-tower-mecha-base",
+      "closed": false
+    },
     "691605c37fd252daaf6d055a": {
       "name": "Gamemode: Golden mode",
       "desc": "Information coming soon…",
@@ -1618,7 +1618,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 4
         }
       ],
       "idAttachmentCover": null,
@@ -1638,7 +1638,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 4
         }
       ],
       "idAttachmentCover": null,
@@ -1658,7 +1658,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 7
+          "uses": 4
         }
       ],
       "idAttachmentCover": null,
@@ -1921,5 +1921,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-08-21T19:35:15.707Z"
+  "lastCheck": "2026-09-01T18:09:40.627Z"
 }
