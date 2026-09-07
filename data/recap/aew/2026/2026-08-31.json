@@ -1,0 +1,19 @@
+{
+  "week": "2026-08-31",
+  "totalMessages": 11,
+  "irrelevantMessages": 0,
+  "counts": {
+    "Frogt007": 6,
+    "Gabonnie": 5
+  },
+  "irrelevantCounts": {
+    "Frogt007": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Gabonnie": {
+      "relevant": 5,
+      "change": 0
+    }
+  }
+}
