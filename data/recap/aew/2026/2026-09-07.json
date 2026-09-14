@@ -1,0 +1,24 @@
+{
+  "week": "2026-09-07",
+  "totalMessages": 26,
+  "irrelevantMessages": 0,
+  "counts": {
+    "Vwwwiou": 21,
+    "Frogt007": 3,
+    "RustyChroma2": 2
+  },
+  "irrelevantCounts": {
+    "Vwwwiou": {
+      "relevant": 21,
+      "change": 0
+    },
+    "Frogt007": {
+      "relevant": 3,
+      "change": 0
+    },
+    "RustyChroma2": {
+      "relevant": 2,
+      "change": 0
+    }
+  }
+}
