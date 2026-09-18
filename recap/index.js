@@ -13,6 +13,11 @@ const CHANNEL_ID = process.env.CHANNEL_ID;
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 const BOT_TOKEN = process.env.BOT_TOKEN;
 const FANDOM_SUBDOMAIN = process.env.FANDOM_SUBDOMAIN || "tds";
+const USER_PAGE_BASE =
+	process.env.USER_PAGE_BASE ||
+	(PROJECT_DIR === "tdsw"
+		? "https://tds.wiki/w"
+		: `https://${FANDOM_SUBDOMAIN}.fandom.com`);
 const EMBED_COLOR = parseInt(
 	process.env.EMBED_COLOR?.replace("#", "") || "00ff00",
 	16,
@@ -181,7 +186,7 @@ client.once("ready", async () => {
 		let descriptionContent = top5
 			.map(([name, stats], i) => {
 				const valid = stats.total - stats.irrelevant;
-				return `${i + 1}. [${name}](https://${FANDOM_SUBDOMAIN}.fandom.com/User:${name.replace(/ /g, "_")}) - ${valid} (${stats.total}) edit${stats.total === 1 ? "" : "s"}`;
+				return `${i + 1}. [${name}](${USER_PAGE_BASE}/User:${name.replace(/ /g, "_")}) - ${valid} (${stats.total}) edit${stats.total === 1 ? "" : "s"}`;
 			})
 			.join("\n");
 
