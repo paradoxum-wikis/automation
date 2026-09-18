@@ -36,7 +36,6 @@ client.once("ready", async () => {
 		lastMonday.setDate(now.getDate() - daysSinceMonday - 7);
 		lastMonday.setHours(0, 0, 0, 0);
 
-		const since = lastMonday.getTime();
 		const weekDate = lastMonday.toISOString().split("T")[0]; // YYYY-MM-DD
 		const year = lastMonday.getFullYear().toString();
 
@@ -44,6 +43,13 @@ client.once("ready", async () => {
 
 		const CUTOFF = Date.parse("2026-09-12T14:17:00-05:00");
 
+		let since = lastMonday.getTime();
+		if (PROJECT_DIR === "tdsw" && weekDate === "2026-09-14") {
+			since = CUTOFF;
+			console.log(
+				`Temp shift: fetching since cutoff ${new Date(CUTOFF).toISOString()} instead of ${lastMonday.toISOString()}`,
+			);
+		}
 		let messages = [];
 		let lastId;
 
@@ -62,7 +68,7 @@ client.once("ready", async () => {
 
 		console.log(`Fetched ${messages.length} messages`);
 
-		if (PROJECT_DIR === "tdsw" && since <= CUTOFF) {
+		if (PROJECT_DIR === "tdsw" && since < CUTOFF) {
 			const before = messages.length;
 			messages = messages.filter((msg) => msg.createdTimestamp <= CUTOFF);
 			console.log(
