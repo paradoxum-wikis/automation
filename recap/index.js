@@ -87,6 +87,16 @@ client.once("ready", async () => {
 			if (!msg.embeds || msg.embeds.length === 0) return;
 			const embed = msg.embeds[0];
 
+			if (embed.title) {
+				const titleLower = embed.title.toLowerCase();
+				if (
+					titleLower === "created account" ||
+					titleLower === "migrated account"
+				) {
+					return;
+				}
+			}
+
 			let isIrrelevant = false;
 			if (embed.title) {
 				const titleLower = embed.title.toLowerCase();
