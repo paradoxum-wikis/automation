@@ -1,19 +1,16 @@
 {
   "week": "2026-09-14",
-  "totalMessages": 2422,
-  "irrelevantMessages": 521,
+  "totalMessages": 1725,
+  "irrelevantMessages": 162,
   "counts": {
     "Adachi": 413,
     "Mentin": 241,
     "Toru": 228,
-    "Command line script": 495,
-    "DiscussTool": 187,
     "Nanyawr": 66,
     "Breathix": 37,
     "GodzillaTDS777": 20,
     "Razuatix": 17,
     "Sofiasean560": 18,
-    "DarkGabonnie": 15,
     "Visible": 18,
     "Enternal": 10,
     "Nemesis2005": 8,
@@ -119,14 +116,6 @@
       "relevant": 211,
       "change": 17
     },
-    "Command line script": {
-      "relevant": 181,
-      "change": 314
-    },
-    "DiscussTool": {
-      "relevant": 142,
-      "change": 45
-    },
     "Nanyawr": {
       "relevant": 60,
       "change": 6
@@ -146,10 +135,6 @@
     "Sofiasean560": {
       "relevant": 16,
       "change": 2
-    },
-    "DarkGabonnie": {
-      "relevant": 15,
-      "change": 0
     },
     "Visible": {
       "relevant": 14,
