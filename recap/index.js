@@ -46,15 +46,8 @@ client.once("ready", async () => {
 
 		console.log(`Fetching messages since ${lastMonday.toISOString()}`);
 
-		const CUTOFF = Date.parse("2026-09-12T14:17:00-05:00");
+		const since = lastMonday.getTime();
 
-		let since = lastMonday.getTime();
-		if (PROJECT_DIR === "tdsw" && weekDate === "2026-09-14") {
-			since = CUTOFF;
-			console.log(
-				`Temp shift: fetching since cutoff ${new Date(CUTOFF).toISOString()} instead of ${lastMonday.toISOString()}`,
-			);
-		}
 		let messages = [];
 		let lastId;
 
@@ -72,14 +65,6 @@ client.once("ready", async () => {
 		}
 
 		console.log(`Fetched ${messages.length} messages`);
-
-		if (PROJECT_DIR === "tdsw" && since < CUTOFF) {
-			const before = messages.length;
-			messages = messages.filter((msg) => msg.createdTimestamp <= CUTOFF);
-			console.log(
-				`Applied one-time cutoff ${new Date(CUTOFF).toISOString()}: ${before} -> ${messages.length} messages`,
-			);
-		}
 
 		const counts = {};
 		let globalIrrelevant = 0;
