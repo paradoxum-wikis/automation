@@ -1,0 +1,289 @@
+{
+  "week": "2026-09-21",
+  "totalMessages": 1057,
+  "irrelevantMessages": 45,
+  "counts": {
+    "Adachi": 381,
+    "Mentin": 155,
+    "Toru": 99,
+    "GodzillaTDS777": 63,
+    "Visible": 50,
+    "RustyChroma": 33,
+    "Yanboblox22": 30,
+    "Nanyawr": 27,
+    "Sofiasean560": 24,
+    "Enternal": 16,
+    "Nemesis2005": 11,
+    "Goderator": 10,
+    "Breathix": 7,
+    "Vortex": 6,
+    "GamerAlex27": 5,
+    "Johnpaul10002": 5,
+    "LordRed": 7,
+    "BoogerMaster10": 4,
+    "Redjacko6": 4,
+    "Okap8": 4,
+    "Itsnirvus": 3,
+    "Azazelians": 3,
+    "Vihaanbansal12": 3,
+    "Frost Catgang": 3,
+    "SlingingDart612": 9,
+    "BrillanceDisplayed": 2,
+    "WikiaColors": 2,
+    "Bkind000 Games": 2,
+    "GamingWithAlexyt27": 2,
+    "Timonourahmed": 1,
+    "DARKLORD250": 1,
+    "Otter56": 1,
+    "Beehaife": 1,
+    "CaIIMeMaz": 1,
+    "KelanTDS12345": 1,
+    "OvergrownTadpole123": 1,
+    "J888y": 1,
+    "Raden1509": 1,
+    "Cake32": 1,
+    "TheMostBoringGuy": 1,
+    "Cyxis": 1,
+    "That1Sonic.exefan": 1,
+    "Zionblee": 5,
+    "Casey02504": 1,
+    "Jjjgyg": 1,
+    "Wafflelover5623": 1,
+    "Mag": 1,
+    "Testaccount3248485": 1,
+    "ThirteenM": 1,
+    "OnePartyThisTime": 1,
+    "TDSLover1999": 1,
+    "Unknowndarkman": 4,
+    "SheSoldMyKidney": 1,
+    "Rochukura": 1,
+    "Kadett": 1,
+    "Just a username i thought of": 1
+  },
+  "irrelevantCounts": {
+    "Adachi": {
+      "relevant": 381,
+      "change": 0
+    },
+    "Mentin": {
+      "relevant": 154,
+      "change": 1
+    },
+    "Toru": {
+      "relevant": 96,
+      "change": 3
+    },
+    "GodzillaTDS777": {
+      "relevant": 62,
+      "change": 1
+    },
+    "Visible": {
+      "relevant": 50,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 30,
+      "change": 3
+    },
+    "Yanboblox22": {
+      "relevant": 30,
+      "change": 0
+    },
+    "Nanyawr": {
+      "relevant": 21,
+      "change": 6
+    },
+    "Sofiasean560": {
+      "relevant": 18,
+      "change": 6
+    },
+    "Enternal": {
+      "relevant": 16,
+      "change": 0
+    },
+    "Nemesis2005": {
+      "relevant": 11,
+      "change": 0
+    },
+    "Goderator": {
+      "relevant": 10,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Vortex": {
+      "relevant": 6,
+      "change": 0
+    },
+    "GamerAlex27": {
+      "relevant": 5,
+      "change": 0
+    },
+    "Johnpaul10002": {
+      "relevant": 5,
+      "change": 0
+    },
+    "LordRed": {
+      "relevant": 5,
+      "change": 2
+    },
+    "BoogerMaster10": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Redjacko6": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Okap8": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Itsnirvus": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Azazelians": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Vihaanbansal12": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 3,
+      "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 2,
+      "change": 7
+    },
+    "BrillanceDisplayed": {
+      "relevant": 2,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 2,
+      "change": 0
+    },
+    "GamingWithAlexyt27": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Timonourahmed": {
+      "relevant": 1,
+      "change": 0
+    },
+    "DARKLORD250": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Otter56": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Beehaife": {
+      "relevant": 1,
+      "change": 0
+    },
+    "CaIIMeMaz": {
+      "relevant": 1,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 1,
+      "change": 0
+    },
+    "OvergrownTadpole123": {
+      "relevant": 1,
+      "change": 0
+    },
+    "J888y": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Raden1509": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Cake32": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TheMostBoringGuy": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Cyxis": {
+      "relevant": 1,
+      "change": 0
+    },
+    "That1Sonic.exefan": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Zionblee": {
+      "relevant": 1,
+      "change": 4
+    },
+    "Casey02504": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Jjjgyg": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Wafflelover5623": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Mag": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Testaccount3248485": {
+      "relevant": 0,
+      "change": 1
+    },
+    "ThirteenM": {
+      "relevant": 0,
+      "change": 1
+    },
+    "OnePartyThisTime": {
+      "relevant": 0,
+      "change": 1
+    },
+    "TDSLover1999": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Unknowndarkman": {
+      "relevant": 0,
+      "change": 4
+    },
+    "SheSoldMyKidney": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Rochukura": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Kadett": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Just a username i thought of": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
