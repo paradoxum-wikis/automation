@@ -1,7 +1,7 @@
 {
   "week": "2026-06-22",
   "totalMessages": 1507,
-  "irrelevantMessages": 24,
+  "irrelevantMessages": 133,
   "counts": {
     "Mentin123": 431,
     "3nt4rna1Wastaken": 311,
@@ -10,15 +10,12 @@
     "Breathix": 94,
     "Frost Catgang": 69,
     "SlingingDart612": 70,
-    "Yanboblox22": 55,
     "Taserball": 22,
-    "Rochukura": 22,
     "Zac-bb8": 19,
-    "MrMosquito": 16,
     "Doooooahhhhhhh": 14,
-    "PowerHavenOfficial": 12,
     "Vessel Of Infinite Destruction": 11,
     "Predictacolors": 10,
+    "MrMosquito": 16,
     "Sofiasean560": 7,
     "Gabonnie": 7,
     "Lawfan12": 7,
@@ -26,9 +23,9 @@
     "CorruptedGovernment": 6,
     "Bkind000 Games": 5,
     "Leadfoot2121": 4,
+    "Rochukura": 22,
     "WikiaColors": 4,
     "Fhzfgjalt1": 4,
-    "Vortex2175": 3,
     "Watdahecc": 4,
     "Supra-bamb": 3,
     "Yipcheok": 3,
@@ -40,6 +37,7 @@
     "Hotsaladeater": 2,
     "TheMostBoringGuy": 2,
     "Bartu165": 1,
+    "Vortex2175": 3,
     "Papon186880": 1,
     "ToMacMa": 1,
     "Basic Elf": 1,
@@ -47,7 +45,6 @@
     "Sures91152043": 1,
     "WoodenBase": 1,
     "Slimersonic": 1,
-    "AverageJoebloxian": 1,
     "Godzilla777theworst": 1,
     "TheVictorOp": 1,
     "Bloxyboyy": 1,
@@ -70,15 +67,18 @@
     "Moty28": 1,
     "Redjacko6": 1,
     "TDSEpikMan": 1,
+    "Yanboblox22": 55,
     "Zek22344": 1,
     "Terror teapot": 1,
+    "AverageJoebloxian": 1,
     "Wowiezer": 1,
-    "LionelJovanRBLX": 1
+    "LionelJovanRBLX": 1,
+    "PowerHavenOfficial": 12
   },
   "irrelevantCounts": {
     "Mentin123": {
-      "relevant": 428,
-      "change": 3
+      "relevant": 420,
+      "change": 11
     },
     "3nt4rna1Wastaken": {
       "relevant": 311,
@@ -101,35 +101,19 @@
       "change": 0
     },
     "SlingingDart612": {
-      "relevant": 58,
-      "change": 12
-    },
-    "Yanboblox22": {
-      "relevant": 55,
-      "change": 0
+      "relevant": 51,
+      "change": 19
     },
     "Taserball": {
       "relevant": 22,
       "change": 0
     },
-    "Rochukura": {
-      "relevant": 21,
-      "change": 1
-    },
     "Zac-bb8": {
       "relevant": 19,
       "change": 0
     },
-    "MrMosquito": {
-      "relevant": 15,
-      "change": 1
-    },
     "Doooooahhhhhhh": {
       "relevant": 14,
-      "change": 0
-    },
-    "PowerHavenOfficial": {
-      "relevant": 12,
       "change": 0
     },
     "Vessel Of Infinite Destruction": {
@@ -139,6 +123,10 @@
     "Predictacolors": {
       "relevant": 10,
       "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 8,
+      "change": 8
     },
     "Sofiasean560": {
       "relevant": 7,
@@ -168,16 +156,16 @@
       "relevant": 4,
       "change": 0
     },
+    "Rochukura": {
+      "relevant": 4,
+      "change": 18
+    },
     "WikiaColors": {
       "relevant": 4,
       "change": 0
     },
     "Fhzfgjalt1": {
       "relevant": 4,
-      "change": 0
-    },
-    "Vortex2175": {
-      "relevant": 3,
       "change": 0
     },
     "Watdahecc": {
@@ -224,6 +212,10 @@
       "relevant": 1,
       "change": 0
     },
+    "Vortex2175": {
+      "relevant": 1,
+      "change": 2
+    },
     "Papon186880": {
       "relevant": 1,
       "change": 0
@@ -249,10 +241,6 @@
       "change": 0
     },
     "Slimersonic": {
-      "relevant": 1,
-      "change": 0
-    },
-    "AverageJoebloxian": {
       "relevant": 1,
       "change": 0
     },
@@ -344,11 +332,19 @@
       "relevant": 0,
       "change": 1
     },
+    "Yanboblox22": {
+      "relevant": 0,
+      "change": 55
+    },
     "Zek22344": {
       "relevant": 0,
       "change": 1
     },
     "Terror teapot": {
+      "relevant": 0,
+      "change": 1
+    },
+    "AverageJoebloxian": {
       "relevant": 0,
       "change": 1
     },
@@ -359,6 +355,10 @@
     "LionelJovanRBLX": {
       "relevant": 0,
       "change": 1
+    },
+    "PowerHavenOfficial": {
+      "relevant": 0,
+      "change": 12
     }
   }
 }

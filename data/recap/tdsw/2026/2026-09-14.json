@@ -1,14 +1,13 @@
 {
   "week": "2026-09-14",
   "totalMessages": 1725,
-  "irrelevantMessages": 162,
+  "irrelevantMessages": 183,
   "counts": {
     "Adachi": 413,
     "Mentin": 241,
     "Toru": 228,
     "Nanyawr": 66,
     "Breathix": 37,
-    "GodzillaTDS777": 20,
     "Razuatix": 17,
     "Sofiasean560": 18,
     "Visible": 18,
@@ -47,6 +46,7 @@
     "Bman Shadow": 1,
     "Mishanik538": 2,
     "Raspbelle": 2,
+    "GodzillaTDS777": 20,
     "Yanboblox22": 2,
     "Jjoche": 1,
     "PotaoLin": 1,
@@ -109,8 +109,8 @@
       "change": 5
     },
     "Mentin": {
-      "relevant": 227,
-      "change": 14
+      "relevant": 226,
+      "change": 15
     },
     "Toru": {
       "relevant": 211,
@@ -123,10 +123,6 @@
     "Breathix": {
       "relevant": 35,
       "change": 2
-    },
-    "GodzillaTDS777": {
-      "relevant": 20,
-      "change": 0
     },
     "Razuatix": {
       "relevant": 17,
@@ -279,6 +275,10 @@
     "Raspbelle": {
       "relevant": 1,
       "change": 1
+    },
+    "GodzillaTDS777": {
+      "relevant": 0,
+      "change": 20
     },
     "Yanboblox22": {
       "relevant": 0,

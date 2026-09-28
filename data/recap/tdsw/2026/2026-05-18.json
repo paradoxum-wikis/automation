@@ -1,36 +1,34 @@
 {
   "week": "2026-05-18",
   "totalMessages": 1306,
-  "irrelevantMessages": 42,
+  "irrelevantMessages": 144,
   "counts": {
     "Mentin123": 538,
-    "Breathix": 92,
     "Nemesis2005": 89,
+    "Breathix": 92,
     "3nt4rna1Wastaken": 66,
     "Sofiasean560": 62,
     "Goderator": 53,
     "Frost Catgang": 51,
     "BloxxerFilip": 38,
     "Predictacolors": 36,
-    "FalkyriesRises": 36,
     "VisibleKnot": 32,
-    "Yanboblox22": 20,
-    "Trooper43": 19,
-    "MrMosquito": 18,
     "WikiaColors": 17,
     "Vortex2175": 14,
     "Vessel Of Infinite Destruction": 12,
-    "TinyGhostGamer87": 9,
     "Bkind000 Games": 5,
     "Bravo1230": 5,
     "Supra-bamb": 4,
+    "TinyGhostGamer87": 9,
     "Marcpare18": 3,
     "AEirgood": 3,
     "TowerZGalore": 5,
     "Potatotheeater": 27,
     "Gabonnie": 3,
     "Dino Noob0221": 3,
+    "FalkyriesRises": 36,
     "JustNumberFive": 3,
+    "Yanboblox22": 20,
     "CaptainKT": 2,
     "Rowanayan": 2,
     "ToastyWaffles1027": 2,
@@ -39,6 +37,7 @@
     "JustARandomUser6767": 2,
     "Mrehtan": 2,
     "Sures91152043": 2,
+    "Trooper43": 19,
     "BrillanceDisplayed": 1,
     "MasterDjustin": 1,
     "DontReadMePls10": 5,
@@ -52,6 +51,7 @@
     "Nosurvivalmode": 2,
     "That1Sonic.exefan": 1,
     "Iamarelikewolves": 1,
+    "MrMosquito": 18,
     "TheProtonTemptation-14": 1,
     "Magmaxton II": 2,
     "Hazellovich.": 3,
@@ -64,13 +64,13 @@
       "relevant": 538,
       "change": 0
     },
-    "Breathix": {
-      "relevant": 92,
-      "change": 0
-    },
     "Nemesis2005": {
       "relevant": 89,
       "change": 0
+    },
+    "Breathix": {
+      "relevant": 84,
+      "change": 8
     },
     "3nt4rna1Wastaken": {
       "relevant": 66,
@@ -96,24 +96,8 @@
       "relevant": 36,
       "change": 0
     },
-    "FalkyriesRises": {
-      "relevant": 36,
-      "change": 0
-    },
     "VisibleKnot": {
       "relevant": 32,
-      "change": 0
-    },
-    "Yanboblox22": {
-      "relevant": 20,
-      "change": 0
-    },
-    "Trooper43": {
-      "relevant": 19,
-      "change": 0
-    },
-    "MrMosquito": {
-      "relevant": 18,
       "change": 0
     },
     "WikiaColors": {
@@ -128,10 +112,6 @@
       "relevant": 12,
       "change": 0
     },
-    "TinyGhostGamer87": {
-      "relevant": 9,
-      "change": 0
-    },
     "Bkind000 Games": {
       "relevant": 5,
       "change": 0
@@ -143,6 +123,10 @@
     "Supra-bamb": {
       "relevant": 4,
       "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 3,
+      "change": 6
     },
     "Marcpare18": {
       "relevant": 3,
@@ -168,9 +152,17 @@
       "relevant": 3,
       "change": 0
     },
+    "FalkyriesRises": {
+      "relevant": 2,
+      "change": 34
+    },
     "JustNumberFive": {
       "relevant": 2,
       "change": 1
+    },
+    "Yanboblox22": {
+      "relevant": 2,
+      "change": 18
     },
     "CaptainKT": {
       "relevant": 2,
@@ -203,6 +195,10 @@
     "Sures91152043": {
       "relevant": 2,
       "change": 0
+    },
+    "Trooper43": {
+      "relevant": 1,
+      "change": 18
     },
     "BrillanceDisplayed": {
       "relevant": 1,
@@ -255,6 +251,10 @@
     "Iamarelikewolves": {
       "relevant": 1,
       "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 0,
+      "change": 18
     },
     "TheProtonTemptation-14": {
       "relevant": 0,

@@ -1,16 +1,16 @@
 {
   "week": "2026-07-20",
   "totalMessages": 871,
-  "irrelevantMessages": 50,
+  "irrelevantMessages": 84,
   "counts": {
     "Mentin123": 289,
     "3nt4rna1Wastaken": 134,
     "Breathix": 72,
-    "Yanboblox22": 49,
     "Nemesis2005": 26,
     "Gabonnie": 24,
     "VisibleKnot": 22,
     "Sofiasean560": 22,
+    "Yanboblox22": 49,
     "Raspbelle": 16,
     "WikiaColors": 11,
     "Bkind000 Games": 10,
@@ -26,10 +26,7 @@
     "FireRambo1234": 5,
     "Younoob52": 4,
     "Vihaanbansal12": 4,
-    "Godzilla777theworst": 4,
-    "TinyGhostGamer87": 4,
     "Moty28": 4,
-    "Bman Shadow": 5,
     "Your nameless protagonist": 2,
     "SamuelTheConquerer": 2,
     "Velociraptortophat": 2,
@@ -42,12 +39,14 @@
     "Кошара 3.202": 2,
     "1Vanadium": 2,
     "TDS Fanat": 1,
+    "Godzilla777theworst": 4,
     "Rochukura": 1,
     "Jesse Pinkman4520": 1,
     "44uryik": 1,
     "BrillanceDisplayed": 1,
     "MC WIKI is better": 1,
     "Krusnov": 1,
+    "TinyGhostGamer87": 4,
     "ThirteenM": 1,
     "Thister": 1,
     "Sures91152043": 1,
@@ -98,6 +97,7 @@
     "Offical Kyle-Hiroki": 1,
     "Zac-bb8": 1,
     "MayB-RBLX": 1,
+    "Bman Shadow": 5,
     "Abtsstyt": 1,
     "Retriex": 1,
     "Devilbowser253": 1,
@@ -126,10 +126,6 @@
       "relevant": 72,
       "change": 0
     },
-    "Yanboblox22": {
-      "relevant": 48,
-      "change": 1
-    },
     "Nemesis2005": {
       "relevant": 26,
       "change": 0
@@ -145,6 +141,10 @@
     "Sofiasean560": {
       "relevant": 22,
       "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 21,
+      "change": 28
     },
     "Raspbelle": {
       "relevant": 16,
@@ -206,21 +206,9 @@
       "relevant": 4,
       "change": 0
     },
-    "Godzilla777theworst": {
-      "relevant": 3,
-      "change": 1
-    },
-    "TinyGhostGamer87": {
-      "relevant": 3,
-      "change": 1
-    },
     "Moty28": {
       "relevant": 3,
       "change": 1
-    },
-    "Bman Shadow": {
-      "relevant": 3,
-      "change": 2
     },
     "Your nameless protagonist": {
       "relevant": 2,
@@ -270,6 +258,10 @@
       "relevant": 1,
       "change": 0
     },
+    "Godzilla777theworst": {
+      "relevant": 1,
+      "change": 3
+    },
     "Rochukura": {
       "relevant": 1,
       "change": 0
@@ -293,6 +285,10 @@
     "Krusnov": {
       "relevant": 1,
       "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 1,
+      "change": 3
     },
     "ThirteenM": {
       "relevant": 1,
@@ -493,6 +489,10 @@
     "MayB-RBLX": {
       "relevant": 0,
       "change": 1
+    },
+    "Bman Shadow": {
+      "relevant": 0,
+      "change": 5
     },
     "Abtsstyt": {
       "relevant": 0,

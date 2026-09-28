@@ -1,7 +1,7 @@
 {
   "week": "2026-05-04",
   "totalMessages": 1389,
-  "irrelevantMessages": 47,
+  "irrelevantMessages": 77,
   "counts": {
     "Mentin123": 641,
     "Raspbelle": 211,
@@ -21,7 +21,6 @@
     "Vessel Of Infinite Destruction": 12,
     "TDSLover1999": 5,
     "BloxxerFilip": 14,
-    "TinyGhostGamer87": 4,
     "KEINEAHUNUNGBROWILLMIRJETZT": 4,
     "Feuhufe": 4,
     "Supra-bamb": 4,
@@ -29,9 +28,9 @@
     "Yanboblox22": 3,
     "Marcpare1111": 3,
     "ShaneHelms1": 3,
+    "TinyGhostGamer87": 4,
     "Lol7778828": 2,
     "SpecialSince": 2,
-    "MrMosquito": 1,
     "Minordance2022": 1,
     "Chaosjevil06": 1,
     "The.one.you.should.not.know": 1,
@@ -42,6 +41,7 @@
     "KelanTDS12345": 1,
     "Nosurvivalmode": 1,
     "Abuse filter": 1,
+    "MrMosquito": 1,
     "Averagetduckmeme": 1,
     "Farsy1": 1,
     "Bacon noob gaming": 1,
@@ -51,8 +51,8 @@
   },
   "irrelevantCounts": {
     "Mentin123": {
-      "relevant": 626,
-      "change": 15
+      "relevant": 599,
+      "change": 42
     },
     "Raspbelle": {
       "relevant": 210,
@@ -122,10 +122,6 @@
       "relevant": 5,
       "change": 9
     },
-    "TinyGhostGamer87": {
-      "relevant": 4,
-      "change": 0
-    },
     "KEINEAHUNUNGBROWILLMIRJETZT": {
       "relevant": 4,
       "change": 0
@@ -154,16 +150,16 @@
       "relevant": 3,
       "change": 0
     },
+    "TinyGhostGamer87": {
+      "relevant": 2,
+      "change": 2
+    },
     "Lol7778828": {
       "relevant": 2,
       "change": 0
     },
     "SpecialSince": {
       "relevant": 2,
-      "change": 0
-    },
-    "MrMosquito": {
-      "relevant": 1,
       "change": 0
     },
     "Minordance2022": {
@@ -205,6 +201,10 @@
     "Abuse filter": {
       "relevant": 1,
       "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 0,
+      "change": 1
     },
     "Averagetduckmeme": {
       "relevant": 0,

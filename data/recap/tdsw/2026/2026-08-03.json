@@ -1,7 +1,7 @@
 {
   "week": "2026-08-03",
   "totalMessages": 971,
-  "irrelevantMessages": 39,
+  "irrelevantMessages": 53,
   "counts": {
     "Mentin123": 595,
     "VisibleKnot": 50,
@@ -10,7 +10,6 @@
     "3nt4rna1Wastaken": 35,
     "WikiaColors": 30,
     "Vessel Of Infinite Destruction": 27,
-    "ImAllOutOfNames": 13,
     "Sofiasean560": 10,
     "Godzilla777theworst": 10,
     "GooberDawg": 5,
@@ -32,24 +31,24 @@
     "DARKLORD250": 2,
     "L141515616": 2,
     "Yanboblox22": 2,
-    "BrillanceDisplayed": 3,
     "44uryik": 2,
     "Generalistic": 2,
     "KirbysTheName": 2,
     "GodzillaTDS777": 7,
     "Iamarelikewolves": 1,
-    "TinyGhostGamer87": 1,
     "Thimgym": 1,
     "Akaribenitari1": 1,
     "MaPieRkLB": 1,
     "Fiprandom": 1,
     "MrError2547": 1,
     "ChaoticNature": 2,
+    "ImAllOutOfNames": 13,
     "Mel00noob": 1,
     "Kruushkaa": 1,
     "Feuhufe": 1,
     "Bman Shadow": 1,
     "HappyBrownie3362": 1,
+    "BrillanceDisplayed": 3,
     "Moty28": 1,
     "GrizelleX": 1,
     "Infrasound7": 1,
@@ -68,6 +67,7 @@
     "PyroDaKing": 1,
     "Zionblee": 1,
     "Sillynoobnoober": 1,
+    "TinyGhostGamer87": 1,
     "TheRastorianRepublic": 1,
     "EternalBlaze36": 1,
     "Eiptopregnad": 1,
@@ -103,10 +103,6 @@
     "Vessel Of Infinite Destruction": {
       "relevant": 23,
       "change": 4
-    },
-    "ImAllOutOfNames": {
-      "relevant": 13,
-      "change": 0
     },
     "Sofiasean560": {
       "relevant": 10,
@@ -192,10 +188,6 @@
       "relevant": 2,
       "change": 0
     },
-    "BrillanceDisplayed": {
-      "relevant": 2,
-      "change": 1
-    },
     "44uryik": {
       "relevant": 2,
       "change": 0
@@ -213,10 +205,6 @@
       "change": 6
     },
     "Iamarelikewolves": {
-      "relevant": 1,
-      "change": 0
-    },
-    "TinyGhostGamer87": {
       "relevant": 1,
       "change": 0
     },
@@ -244,6 +232,10 @@
       "relevant": 1,
       "change": 1
     },
+    "ImAllOutOfNames": {
+      "relevant": 1,
+      "change": 12
+    },
     "Mel00noob": {
       "relevant": 1,
       "change": 0
@@ -263,6 +255,10 @@
     "HappyBrownie3362": {
       "relevant": 1,
       "change": 0
+    },
+    "BrillanceDisplayed": {
+      "relevant": 1,
+      "change": 2
     },
     "Moty28": {
       "relevant": 1,
@@ -333,6 +329,10 @@
       "change": 1
     },
     "Sillynoobnoober": {
+      "relevant": 0,
+      "change": 1
+    },
+    "TinyGhostGamer87": {
       "relevant": 0,
       "change": 1
     },

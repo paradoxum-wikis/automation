@@ -1,7 +1,7 @@
 {
   "week": "2026-07-27",
   "totalMessages": 1275,
-  "irrelevantMessages": 70,
+  "irrelevantMessages": 118,
   "counts": {
     "Mentin123": 486,
     "Nemesis2005": 157,
@@ -10,29 +10,27 @@
     "VisibleKnot": 73,
     "MasterDjustin": 48,
     "Gabonnie": 41,
-    "Yanboblox22": 30,
     "Sofiasean560": 21,
     "Frost Catgang": 12,
     "WikiaColors": 11,
     "Bkind000 Games": 10,
+    "Yanboblox22": 30,
     "Vessel Of Infinite Destruction": 7,
-    "MrMosquito": 10,
     "Godzilla777theworst": 7,
     "OvergrownTadpole123": 20,
     "Bobodance": 6,
     "Vortex2175": 6,
     "Meta the g": 6,
     "JurassicParker32": 6,
-    "Bman Shadow": 6,
-    "IFeelSoSubjective!": 6,
     "8k120": 18,
-    "TinyGhostGamer87": 7,
+    "IFeelSoSubjective!": 6,
     "FebriTheNoobie": 4,
     "BasicBritishBoy": 4,
     "Iloveshiroko": 4,
     "That1Sonic.exefan": 4,
     "FurnitureEnthusiastAstral": 3,
     "Yamato1928": 3,
+    "MrMosquito": 10,
     "Domino132": 3,
     "TheBlueNightyes": 3,
     "RustyChroma2": 3,
@@ -51,7 +49,6 @@
     "Dogeiguessidk": 1,
     "Generalistic": 1,
     "XC3fan": 1,
-    "ImAllOutOfNames": 1,
     "LionEclipse": 1,
     "ILoveChickenNugget109": 1,
     "Velociraptortophat": 1,
@@ -74,9 +71,11 @@
     "Evalieunderscore": 1,
     "JamCubeYT": 1,
     "TDS Fanat": 1,
+    "ImAllOutOfNames": 1,
     "Sharkepicgamer07": 1,
     "OvergrownTadpole": 1,
     "UltrakillingTime": 2,
+    "TinyGhostGamer87": 7,
     "Rochukura": 4,
     "Cordyceps109": 2,
     "TheMimicDev": 2,
@@ -89,12 +88,13 @@
     "Adamisalive": 5,
     "BrokenEmp": 1,
     "G01DENBL4NK": 1,
+    "Bman Shadow": 6,
     "BloxxerFilip": 1
   },
   "irrelevantCounts": {
     "Mentin123": {
-      "relevant": 484,
-      "change": 2
+      "relevant": 474,
+      "change": 12
     },
     "Nemesis2005": {
       "relevant": 157,
@@ -120,10 +120,6 @@
       "relevant": 39,
       "change": 2
     },
-    "Yanboblox22": {
-      "relevant": 30,
-      "change": 0
-    },
     "Sofiasean560": {
       "relevant": 21,
       "change": 0
@@ -140,13 +136,13 @@
       "relevant": 10,
       "change": 0
     },
+    "Yanboblox22": {
+      "relevant": 8,
+      "change": 22
+    },
     "Vessel Of Infinite Destruction": {
       "relevant": 7,
       "change": 0
-    },
-    "MrMosquito": {
-      "relevant": 7,
-      "change": 3
     },
     "Godzilla777theworst": {
       "relevant": 6,
@@ -172,21 +168,13 @@
       "relevant": 6,
       "change": 0
     },
-    "Bman Shadow": {
-      "relevant": 6,
-      "change": 0
-    },
-    "IFeelSoSubjective!": {
-      "relevant": 5,
-      "change": 1
-    },
     "8k120": {
       "relevant": 5,
       "change": 13
     },
-    "TinyGhostGamer87": {
+    "IFeelSoSubjective!": {
       "relevant": 4,
-      "change": 3
+      "change": 2
     },
     "FebriTheNoobie": {
       "relevant": 4,
@@ -211,6 +199,10 @@
     "Yamato1928": {
       "relevant": 3,
       "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 3,
+      "change": 7
     },
     "Domino132": {
       "relevant": 3,
@@ -281,10 +273,6 @@
       "change": 0
     },
     "XC3fan": {
-      "relevant": 1,
-      "change": 0
-    },
-    "ImAllOutOfNames": {
       "relevant": 1,
       "change": 0
     },
@@ -376,6 +364,10 @@
       "relevant": 1,
       "change": 0
     },
+    "ImAllOutOfNames": {
+      "relevant": 0,
+      "change": 1
+    },
     "Sharkepicgamer07": {
       "relevant": 0,
       "change": 1
@@ -387,6 +379,10 @@
     "UltrakillingTime": {
       "relevant": 0,
       "change": 2
+    },
+    "TinyGhostGamer87": {
+      "relevant": 0,
+      "change": 7
     },
     "Rochukura": {
       "relevant": 0,
@@ -435,6 +431,10 @@
     "G01DENBL4NK": {
       "relevant": 0,
       "change": 1
+    },
+    "Bman Shadow": {
+      "relevant": 0,
+      "change": 6
     },
     "BloxxerFilip": {
       "relevant": 0,

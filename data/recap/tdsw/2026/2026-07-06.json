@@ -1,7 +1,7 @@
 {
   "week": "2026-07-06",
   "totalMessages": 1189,
-  "irrelevantMessages": 35,
+  "irrelevantMessages": 57,
   "counts": {
     "Mentin123": 535,
     "3nt4rna1Wastaken": 225,
@@ -15,30 +15,27 @@
     "Sofiasean560": 12,
     "IFeelSoSubjective!": 13,
     "MasterDjustin": 11,
-    "Yanboblox22": 10,
     "WikiaColors": 9,
     "SH16307": 8,
+    "Yanboblox22": 10,
     "Raspbelle": 10,
-    "MrMosquito": 9,
     "Bkind000 Games": 5,
     "Robucket": 5,
-    "SlingingDart612": 8,
     "Godzilla777theworst": 17,
-    "Noality": 4,
     "Vessel Of Infinite Destruction": 5,
     "Supra-bamb": 4,
+    "SlingingDart612": 8,
     "Your nameless protagonist": 3,
     "Bobodance": 3,
     "RB HJY": 3,
-    "TinyGhostGamer87": 3,
     "OrangeTruly": 3,
     "Timyva123": 2,
     "CommanderTDS32": 2,
-    "PowerHavenOfficial": 2,
     "Biff84": 2,
     "Kodenamii101": 2,
     "EnergeticPelican626": 2,
     "Theboywhodied22": 2,
+    "TinyGhostGamer87": 3,
     "Gigya": 6,
     "Feuhufe": 2,
     "Whathtehe": 3,
@@ -46,6 +43,7 @@
     "NoNameIGuessSadge": 1,
     "Vividva": 1,
     "ChaoticNature": 1,
+    "MrMosquito": 9,
     "1Vanadium": 1,
     "ATEABURGER": 1,
     "IsaIsaIsaIsaIsa": 1,
@@ -77,6 +75,8 @@
     "Jjjgyg": 1,
     "Frost Catgang": 1,
     "Papon186880": 1,
+    "Noality": 4,
+    "PowerHavenOfficial": 2,
     "DependablePheasant317": 1,
     "Kathylikestoread": 1,
     "Geniusninja100": 2
@@ -103,8 +103,8 @@
       "change": 0
     },
     "Vortex2175": {
-      "relevant": 19,
-      "change": 0
+      "relevant": 14,
+      "change": 5
     },
     "Lol7778828": {
       "relevant": 13,
@@ -130,10 +130,6 @@
       "relevant": 11,
       "change": 0
     },
-    "Yanboblox22": {
-      "relevant": 10,
-      "change": 0
-    },
     "WikiaColors": {
       "relevant": 9,
       "change": 0
@@ -142,13 +138,13 @@
       "relevant": 8,
       "change": 0
     },
-    "Raspbelle": {
+    "Yanboblox22": {
       "relevant": 7,
       "change": 3
     },
-    "MrMosquito": {
+    "Raspbelle": {
       "relevant": 7,
-      "change": 2
+      "change": 3
     },
     "Bkind000 Games": {
       "relevant": 5,
@@ -158,17 +154,9 @@
       "relevant": 5,
       "change": 0
     },
-    "SlingingDart612": {
-      "relevant": 5,
-      "change": 3
-    },
     "Godzilla777theworst": {
       "relevant": 4,
       "change": 13
-    },
-    "Noality": {
-      "relevant": 4,
-      "change": 0
     },
     "Vessel Of Infinite Destruction": {
       "relevant": 4,
@@ -177,6 +165,10 @@
     "Supra-bamb": {
       "relevant": 4,
       "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 4,
+      "change": 4
     },
     "Your nameless protagonist": {
       "relevant": 3,
@@ -190,10 +182,6 @@
       "relevant": 3,
       "change": 0
     },
-    "TinyGhostGamer87": {
-      "relevant": 3,
-      "change": 0
-    },
     "OrangeTruly": {
       "relevant": 3,
       "change": 0
@@ -203,10 +191,6 @@
       "change": 0
     },
     "CommanderTDS32": {
-      "relevant": 2,
-      "change": 0
-    },
-    "PowerHavenOfficial": {
       "relevant": 2,
       "change": 0
     },
@@ -225,6 +209,10 @@
     "Theboywhodied22": {
       "relevant": 2,
       "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 2,
+      "change": 1
     },
     "Gigya": {
       "relevant": 2,
@@ -253,6 +241,10 @@
     "ChaoticNature": {
       "relevant": 1,
       "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 1,
+      "change": 8
     },
     "1Vanadium": {
       "relevant": 1,
@@ -377,6 +369,14 @@
     "Papon186880": {
       "relevant": 1,
       "change": 0
+    },
+    "Noality": {
+      "relevant": 0,
+      "change": 4
+    },
+    "PowerHavenOfficial": {
+      "relevant": 0,
+      "change": 2
     },
     "DependablePheasant317": {
       "relevant": 0,

@@ -1,7 +1,7 @@
 {
   "week": "2026-06-08",
   "totalMessages": 2152,
-  "irrelevantMessages": 58,
+  "irrelevantMessages": 105,
   "counts": {
     "Mentin123": 649,
     "Nemesis2005": 359,
@@ -19,24 +19,20 @@
     "ChaosX7": 18,
     "Robucket": 17,
     "Superhandsome4950": 15,
-    "PowerHavenOfficial": 13,
     "Breathix": 12,
     "Jjjgyg": 11,
     "JustNumberFive": 11,
-    "Oldscouterz02": 11,
     "IAmAVictini": 11,
-    "Random Robloxian42": 11,
+    "Oldscouterz02": 11,
     "Redjacko6": 9,
     "Kinwith14letters": 9,
     "Marf4h2": 9,
     "Soupman93": 9,
     "Sharkepicgamer07": 8,
     "CaptainKT": 8,
-    "TinyGhostGamer87": 8,
     "Vortex2175": 7,
     "Jakeistaken2": 7,
     "ConciseTermite482": 6,
-    "Yanboblox22": 6,
     "Worstwebsitever": 6,
     "Rocradecool": 6,
     "Bkind000 Games": 5,
@@ -45,6 +41,7 @@
     "Mati278": 7,
     "Trashboychaders": 5,
     "Jwilliam1027": 5,
+    "TinyGhostGamer87": 8,
     "FrostiFyre": 5,
     "Wponta": 5,
     "Xolaroan": 5,
@@ -60,7 +57,6 @@
     "NebulaisWiki": 3,
     "Ham Ham is so cool": 3,
     "FurnitureEnthusiastAstral": 3,
-    "Your nameless protagonist": 3,
     "LordCarrera19": 3,
     "MrCup126": 3,
     "Mr. Wasnttaken": 3,
@@ -71,17 +67,18 @@
     "TheRedSupergiant": 2,
     "Potatotheeater": 16,
     "Moty28": 2,
-    "MrMosquito": 2,
     "MasterDjustin": 2,
     "Cirno fumo": 2,
     "Bonnie0987": 2,
     "CheeseburgerSandwich": 2,
+    "Your nameless protagonist": 3,
     "Egfg": 2,
     "Supra-bamb": 2,
     "Kezzo14": 2,
     "KirbysTheName": 2,
     "Thegoldenvalkguy": 1,
     "Nico1415615": 1,
+    "Yanboblox22": 6,
     "Dingusboink": 1,
     "MC WIKI is better": 1,
     "Mouse Consumer": 1,
@@ -121,7 +118,6 @@
     "Soufre": 1,
     "TDSLover1999": 1,
     "TheVictorOp": 1,
-    "FalkyriesRises": 1,
     "Hyper Icer Trooper": 1,
     "GooberDawg": 1,
     "MCR199Abrams": 1,
@@ -135,13 +131,17 @@
     "MayB-RBLX": 1,
     "Zek22344": 1,
     "Rochukura": 1,
+    "MrMosquito": 2,
     "Frogt007": 1,
-    "Louis77Jacket": 1
+    "Louis77Jacket": 1,
+    "PowerHavenOfficial": 13,
+    "FalkyriesRises": 1,
+    "Random Robloxian42": 11
   },
   "irrelevantCounts": {
     "Mentin123": {
-      "relevant": 644,
-      "change": 5
+      "relevant": 634,
+      "change": 15
     },
     "Nemesis2005": {
       "relevant": 359,
@@ -203,10 +203,6 @@
       "relevant": 15,
       "change": 0
     },
-    "PowerHavenOfficial": {
-      "relevant": 13,
-      "change": 0
-    },
     "Breathix": {
       "relevant": 12,
       "change": 0
@@ -219,17 +215,13 @@
       "relevant": 11,
       "change": 0
     },
-    "Oldscouterz02": {
-      "relevant": 11,
-      "change": 0
-    },
     "IAmAVictini": {
       "relevant": 11,
       "change": 0
     },
-    "Random Robloxian42": {
-      "relevant": 11,
-      "change": 0
+    "Oldscouterz02": {
+      "relevant": 10,
+      "change": 1
     },
     "Redjacko6": {
       "relevant": 9,
@@ -255,10 +247,6 @@
       "relevant": 8,
       "change": 0
     },
-    "TinyGhostGamer87": {
-      "relevant": 8,
-      "change": 0
-    },
     "Vortex2175": {
       "relevant": 7,
       "change": 0
@@ -268,10 +256,6 @@
       "change": 0
     },
     "ConciseTermite482": {
-      "relevant": 6,
-      "change": 0
-    },
-    "Yanboblox22": {
       "relevant": 6,
       "change": 0
     },
@@ -306,6 +290,10 @@
     "Jwilliam1027": {
       "relevant": 5,
       "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 5,
+      "change": 3
     },
     "FrostiFyre": {
       "relevant": 5,
@@ -367,10 +355,6 @@
       "relevant": 3,
       "change": 0
     },
-    "Your nameless protagonist": {
-      "relevant": 3,
-      "change": 0
-    },
     "LordCarrera19": {
       "relevant": 3,
       "change": 0
@@ -411,10 +395,6 @@
       "relevant": 2,
       "change": 0
     },
-    "MrMosquito": {
-      "relevant": 2,
-      "change": 0
-    },
     "MasterDjustin": {
       "relevant": 2,
       "change": 0
@@ -430,6 +410,10 @@
     "CheeseburgerSandwich": {
       "relevant": 2,
       "change": 0
+    },
+    "Your nameless protagonist": {
+      "relevant": 2,
+      "change": 1
     },
     "Egfg": {
       "relevant": 2,
@@ -454,6 +438,10 @@
     "Nico1415615": {
       "relevant": 1,
       "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 1,
+      "change": 5
     },
     "Dingusboink": {
       "relevant": 1,
@@ -611,10 +599,6 @@
       "relevant": 1,
       "change": 0
     },
-    "FalkyriesRises": {
-      "relevant": 1,
-      "change": 0
-    },
     "Hyper Icer Trooper": {
       "relevant": 1,
       "change": 0
@@ -667,6 +651,10 @@
       "relevant": 0,
       "change": 1
     },
+    "MrMosquito": {
+      "relevant": 0,
+      "change": 2
+    },
     "Frogt007": {
       "relevant": 0,
       "change": 1
@@ -674,6 +662,18 @@
     "Louis77Jacket": {
       "relevant": 0,
       "change": 1
+    },
+    "PowerHavenOfficial": {
+      "relevant": 0,
+      "change": 13
+    },
+    "FalkyriesRises": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Random Robloxian42": {
+      "relevant": 0,
+      "change": 11
     }
   }
 }

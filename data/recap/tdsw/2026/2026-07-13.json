@@ -1,13 +1,13 @@
 {
   "week": "2026-07-13",
   "totalMessages": 1119,
-  "irrelevantMessages": 19,
+  "irrelevantMessages": 97,
   "counts": {
     "Mentin123": 353,
-    "Yanboblox22": 121,
     "3nt4rna1Wastaken": 97,
     "Sofiasean560": 73,
     "Breathix": 70,
+    "Yanboblox22": 121,
     "WikiaColors": 45,
     "Gabonnie": 36,
     "VisibleKnot": 25,
@@ -16,17 +16,16 @@
     "Nemesis2005": 22,
     "Generalistic": 21,
     "Taserball": 19,
-    "Vortex2175": 13,
     "Chaosjevil06": 11,
-    "TinyGhostGamer87": 9,
     "Goderator": 8,
     "ThatOneColor": 7,
     "Sures91152043": 7,
-    "MrMosquito": 8,
     "Bkind000 Games": 7,
+    "Vortex2175": 13,
     "That1Sonic.exefan": 6,
     "Bobodance": 6,
     "IFeelSoSubjective!": 5,
+    "TinyGhostGamer87": 9,
     "Marcpare18": 4,
     "TheRuszard": 4,
     "CorruptedGovernment": 4,
@@ -45,6 +44,7 @@
     "RB HJY": 2,
     "Ktotocat": 2,
     "Tirus 2": 2,
+    "MrMosquito": 8,
     "Donatones": 2,
     "Marcpare1111": 2,
     "Whathtehe": 2,
@@ -92,10 +92,6 @@
       "relevant": 353,
       "change": 0
     },
-    "Yanboblox22": {
-      "relevant": 121,
-      "change": 0
-    },
     "3nt4rna1Wastaken": {
       "relevant": 97,
       "change": 0
@@ -107,6 +103,10 @@
     "Breathix": {
       "relevant": 70,
       "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 59,
+      "change": 62
     },
     "WikiaColors": {
       "relevant": 45,
@@ -140,16 +140,8 @@
       "relevant": 19,
       "change": 0
     },
-    "Vortex2175": {
-      "relevant": 13,
-      "change": 0
-    },
     "Chaosjevil06": {
       "relevant": 11,
-      "change": 0
-    },
-    "TinyGhostGamer87": {
-      "relevant": 9,
       "change": 0
     },
     "Goderator": {
@@ -164,13 +156,13 @@
       "relevant": 7,
       "change": 0
     },
-    "MrMosquito": {
-      "relevant": 7,
-      "change": 1
-    },
     "Bkind000 Games": {
       "relevant": 7,
       "change": 0
+    },
+    "Vortex2175": {
+      "relevant": 6,
+      "change": 7
     },
     "That1Sonic.exefan": {
       "relevant": 6,
@@ -183,6 +175,10 @@
     "IFeelSoSubjective!": {
       "relevant": 5,
       "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 5,
+      "change": 4
     },
     "Marcpare18": {
       "relevant": 4,
@@ -255,6 +251,10 @@
     "Tirus 2": {
       "relevant": 2,
       "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 2,
+      "change": 6
     },
     "Donatones": {
       "relevant": 2,

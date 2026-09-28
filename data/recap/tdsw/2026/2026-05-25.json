@@ -1,20 +1,16 @@
 {
   "week": "2026-05-25",
   "totalMessages": 952,
-  "irrelevantMessages": 30,
+  "irrelevantMessages": 97,
   "counts": {
     "Mentin123": 523,
     "3nt4rna1Wastaken": 155,
     "Gabonnie": 32,
     "Predictacolors": 24,
-    "Yanboblox22": 23,
     "WikiaColors": 21,
-    "PowerHavenOfficial": 19,
-    "MrMosquito": 14,
     "Goderator": 17,
     "Vessel Of Infinite Destruction": 9,
     "Vortex2175": 9,
-    "Trooper43": 9,
     "Bkind000 Games": 7,
     "JustNumberFive": 7,
     "Moty28": 8,
@@ -24,20 +20,21 @@
     "Nemesis2005": 4,
     "AverageJoebloxian": 3,
     "Mel00noob": 4,
-    "FalkyriesRises": 3,
     "Superhandsome4950": 3,
+    "MrMosquito": 14,
+    "PowerHavenOfficial": 19,
     "Raspbelle": 2,
     "Kaiserin913": 2,
-    "TinyGhostGamer87": 2,
     "JustADuckie": 2,
-    "Iamarelikewolves": 2,
     "Bidsgarza": 1,
+    "Yanboblox22": 23,
     "BloxxerFilip": 1,
     "Zenariks": 1,
     "Domino132": 1,
     "Bawjreaker": 1,
     "GoldCrow3227": 1,
     "Geniusninja100": 1,
+    "TinyGhostGamer87": 2,
     "Rocradecool": 1,
     "Bravo1230Alt": 1,
     "Tehspammiest": 1,
@@ -45,18 +42,21 @@
     "MaggotSans": 1,
     "Spacingharbor": 1,
     "Sures91152043": 1,
+    "Iamarelikewolves": 2,
     "NoobleSee": 1,
     "Chimchom14": 1,
     "Potatotheeater": 11,
     "Bosriman": 1,
+    "FalkyriesRises": 3,
     "HoominDuck": 1,
     "Random Robloxian42": 3,
-    "INLOC": 1
+    "INLOC": 1,
+    "Trooper43": 9
   },
   "irrelevantCounts": {
     "Mentin123": {
-      "relevant": 521,
-      "change": 2
+      "relevant": 516,
+      "change": 7
     },
     "3nt4rna1Wastaken": {
       "relevant": 155,
@@ -70,21 +70,9 @@
       "relevant": 24,
       "change": 0
     },
-    "Yanboblox22": {
-      "relevant": 23,
-      "change": 0
-    },
     "WikiaColors": {
       "relevant": 21,
       "change": 0
-    },
-    "PowerHavenOfficial": {
-      "relevant": 17,
-      "change": 2
-    },
-    "MrMosquito": {
-      "relevant": 13,
-      "change": 1
     },
     "Goderator": {
       "relevant": 13,
@@ -95,10 +83,6 @@
       "change": 0
     },
     "Vortex2175": {
-      "relevant": 9,
-      "change": 0
-    },
-    "Trooper43": {
       "relevant": 9,
       "change": 0
     },
@@ -138,13 +122,17 @@
       "relevant": 3,
       "change": 1
     },
-    "FalkyriesRises": {
-      "relevant": 3,
-      "change": 0
-    },
     "Superhandsome4950": {
       "relevant": 3,
       "change": 0
+    },
+    "MrMosquito": {
+      "relevant": 2,
+      "change": 12
+    },
+    "PowerHavenOfficial": {
+      "relevant": 2,
+      "change": 17
     },
     "Raspbelle": {
       "relevant": 2,
@@ -154,21 +142,17 @@
       "relevant": 2,
       "change": 0
     },
-    "TinyGhostGamer87": {
-      "relevant": 2,
-      "change": 0
-    },
     "JustADuckie": {
-      "relevant": 2,
-      "change": 0
-    },
-    "Iamarelikewolves": {
       "relevant": 2,
       "change": 0
     },
     "Bidsgarza": {
       "relevant": 1,
       "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 1,
+      "change": 22
     },
     "BloxxerFilip": {
       "relevant": 1,
@@ -193,6 +177,10 @@
     "Geniusninja100": {
       "relevant": 1,
       "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 1,
+      "change": 1
     },
     "Rocradecool": {
       "relevant": 1,
@@ -222,6 +210,10 @@
       "relevant": 1,
       "change": 0
     },
+    "Iamarelikewolves": {
+      "relevant": 1,
+      "change": 1
+    },
     "NoobleSee": {
       "relevant": 0,
       "change": 1
@@ -238,6 +230,10 @@
       "relevant": 0,
       "change": 1
     },
+    "FalkyriesRises": {
+      "relevant": 0,
+      "change": 3
+    },
     "HoominDuck": {
       "relevant": 0,
       "change": 1
@@ -249,6 +245,10 @@
     "INLOC": {
       "relevant": 0,
       "change": 1
+    },
+    "Trooper43": {
+      "relevant": 0,
+      "change": 9
     }
   }
 }

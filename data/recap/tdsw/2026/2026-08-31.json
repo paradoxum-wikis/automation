@@ -1,25 +1,24 @@
 {
   "week": "2026-08-31",
   "totalMessages": 943,
-  "irrelevantMessages": 102,
+  "irrelevantMessages": 183,
   "counts": {
     "Mentin123": 407,
     "Leadfoot2121": 100,
-    "GodzillaTDS777": 87,
     "Goderator": 52,
     "3nt4rna1Wastaken": 24,
-    "OvergrownTadpole123": 37,
     "44uryik": 17,
     "Sofiasean560": 16,
+    "GodzillaTDS777": 87,
     "Bkind000 Games": 11,
     "Vessel Of Infinite Destruction": 11,
-    "Breathix": 9,
+    "OvergrownTadpole123": 37,
     "SkilledWolf373": 8,
     "Frost Catgang": 8,
     "Nemesis2005": 7,
+    "Breathix": 9,
     "Mel00noob": 6,
     "VisibleKnot": 6,
-    "Zionblee": 6,
     "Gabonnie": 9,
     "Osvaldosin": 4,
     "Dragonixe": 4,
@@ -28,12 +27,12 @@
     "CheaperNightingale068": 12,
     "WastelandSplitter": 4,
     "Vortex2175": 4,
-    "TinyGhostGamer87": 4,
     "KelanTDS12345": 3,
     "BrillanceDisplayed": 2,
     "JurassicParker32": 2,
     "MasterDjustin": 2,
     "MrMosquito": 1,
+    "Zionblee": 6,
     "BeneficiaryFly536": 1,
     "Bman Shadow": 1,
     "JustARandomUser6767": 1,
@@ -54,6 +53,7 @@
     "MrSmileyz75": 1,
     "OnceAndTwice1": 1,
     "Sonicspeed867": 1,
+    "TinyGhostGamer87": 4,
     "Gmmag10": 40,
     "Sillyfunthehappyguy": 3,
     "DudeAccTestin": 1,
@@ -73,10 +73,6 @@
       "relevant": 100,
       "change": 0
     },
-    "GodzillaTDS777": {
-      "relevant": 73,
-      "change": 14
-    },
     "Goderator": {
       "relevant": 52,
       "change": 0
@@ -84,10 +80,6 @@
     "3nt4rna1Wastaken": {
       "relevant": 24,
       "change": 0
-    },
-    "OvergrownTadpole123": {
-      "relevant": 23,
-      "change": 14
     },
     "44uryik": {
       "relevant": 17,
@@ -97,6 +89,10 @@
       "relevant": 16,
       "change": 0
     },
+    "GodzillaTDS777": {
+      "relevant": 14,
+      "change": 73
+    },
     "Bkind000 Games": {
       "relevant": 11,
       "change": 0
@@ -105,9 +101,9 @@
       "relevant": 9,
       "change": 2
     },
-    "Breathix": {
+    "OvergrownTadpole123": {
       "relevant": 9,
-      "change": 0
+      "change": 28
     },
     "SkilledWolf373": {
       "relevant": 8,
@@ -121,15 +117,15 @@
       "relevant": 7,
       "change": 0
     },
+    "Breathix": {
+      "relevant": 7,
+      "change": 2
+    },
     "Mel00noob": {
       "relevant": 6,
       "change": 0
     },
     "VisibleKnot": {
-      "relevant": 4,
-      "change": 2
-    },
-    "Zionblee": {
       "relevant": 4,
       "change": 2
     },
@@ -165,10 +161,6 @@
       "relevant": 4,
       "change": 0
     },
-    "TinyGhostGamer87": {
-      "relevant": 3,
-      "change": 1
-    },
     "KelanTDS12345": {
       "relevant": 3,
       "change": 0
@@ -188,6 +180,10 @@
     "MrMosquito": {
       "relevant": 1,
       "change": 0
+    },
+    "Zionblee": {
+      "relevant": 1,
+      "change": 5
     },
     "BeneficiaryFly536": {
       "relevant": 1,
@@ -268,6 +264,10 @@
     "Sonicspeed867": {
       "relevant": 0,
       "change": 1
+    },
+    "TinyGhostGamer87": {
+      "relevant": 0,
+      "change": 4
     },
     "Gmmag10": {
       "relevant": 0,

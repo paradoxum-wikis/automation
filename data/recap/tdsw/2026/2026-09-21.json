@@ -1,12 +1,11 @@
 {
   "week": "2026-09-21",
   "totalMessages": 1057,
-  "irrelevantMessages": 45,
+  "irrelevantMessages": 103,
   "counts": {
     "Adachi": 381,
     "Mentin": 155,
     "Toru": 99,
-    "GodzillaTDS777": 63,
     "Visible": 50,
     "RustyChroma": 33,
     "Yanboblox22": 30,
@@ -20,6 +19,7 @@
     "GamerAlex27": 5,
     "Johnpaul10002": 5,
     "LordRed": 7,
+    "GodzillaTDS777": 63,
     "BoogerMaster10": 4,
     "Redjacko6": 4,
     "Okap8": 4,
@@ -73,10 +73,6 @@
       "relevant": 96,
       "change": 3
     },
-    "GodzillaTDS777": {
-      "relevant": 62,
-      "change": 1
-    },
     "Visible": {
       "relevant": 50,
       "change": 0
@@ -128,6 +124,10 @@
     "LordRed": {
       "relevant": 5,
       "change": 2
+    },
+    "GodzillaTDS777": {
+      "relevant": 4,
+      "change": 59
     },
     "BoogerMaster10": {
       "relevant": 4,

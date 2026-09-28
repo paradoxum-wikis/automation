@@ -1,7 +1,7 @@
 {
   "week": "2026-08-10",
   "totalMessages": 1028,
-  "irrelevantMessages": 63,
+  "irrelevantMessages": 84,
   "counts": {
     "Mentin123": 452,
     "VisibleKnot": 97,
@@ -12,20 +12,19 @@
     "Sofiasean560": 27,
     "Vortex2175": 21,
     "GalaxyKai28": 20,
-    "GodzillaTDS777": 37,
-    "OvergrownTadpole123": 18,
     "Chaosjevil06": 13,
-    "Yanboblox22": 10,
+    "OvergrownTadpole123": 18,
     "BrillanceDisplayed": 10,
     "NicestArmadillo864": 9,
+    "Yanboblox22": 10,
     "Bkind000 Games": 9,
     "Nemesis2005": 8,
+    "GodzillaTDS777": 37,
     "NovaHallows": 4,
     "Vessel Of Infinite Destruction": 4,
     "WikiaColors": 3,
     "GooberDawg": 3,
     "Supra-bamb": 3,
-    "MrMosquito": 10,
     "DARKLORD250": 3,
     "KelanTDS12345": 2,
     "TinyGhostGamer87": 3,
@@ -67,6 +66,7 @@
     "Cbeebiespoos": 1,
     "INLOC": 1,
     "Walker74382": 1,
+    "MrMosquito": 10,
     "TheCet": 1,
     "GroomNuggetx69": 1,
     "Ben The Protogen": 1,
@@ -113,21 +113,13 @@
       "relevant": 20,
       "change": 0
     },
-    "GodzillaTDS777": {
-      "relevant": 18,
-      "change": 19
-    },
-    "OvergrownTadpole123": {
-      "relevant": 17,
-      "change": 1
-    },
     "Chaosjevil06": {
       "relevant": 13,
       "change": 0
     },
-    "Yanboblox22": {
-      "relevant": 10,
-      "change": 0
+    "OvergrownTadpole123": {
+      "relevant": 11,
+      "change": 7
     },
     "BrillanceDisplayed": {
       "relevant": 10,
@@ -137,6 +129,10 @@
       "relevant": 9,
       "change": 0
     },
+    "Yanboblox22": {
+      "relevant": 9,
+      "change": 1
+    },
     "Bkind000 Games": {
       "relevant": 9,
       "change": 0
@@ -144,6 +140,10 @@
     "Nemesis2005": {
       "relevant": 8,
       "change": 0
+    },
+    "GodzillaTDS777": {
+      "relevant": 7,
+      "change": 30
     },
     "NovaHallows": {
       "relevant": 4,
@@ -164,10 +164,6 @@
     "Supra-bamb": {
       "relevant": 3,
       "change": 0
-    },
-    "MrMosquito": {
-      "relevant": 3,
-      "change": 7
     },
     "DARKLORD250": {
       "relevant": 3,
@@ -332,6 +328,10 @@
     "Walker74382": {
       "relevant": 0,
       "change": 1
+    },
+    "MrMosquito": {
+      "relevant": 0,
+      "change": 10
     },
     "TheCet": {
       "relevant": 0,

@@ -1,7 +1,7 @@
 {
   "week": "2026-05-04",
   "totalMessages": 704,
-  "irrelevantMessages": 5,
+  "irrelevantMessages": 12,
   "counts": {
     "Frogt007": 227,
     "Gabonnie": 180,
@@ -29,8 +29,8 @@
       "change": 2
     },
     "RustyChroma": {
-      "relevant": 108,
-      "change": 0
+      "relevant": 101,
+      "change": 7
     },
     "Raspbelle": {
       "relevant": 32,

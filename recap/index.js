@@ -88,6 +88,7 @@ client.once("ready", async () => {
 				if (
 					titleLower.startsWith("message wall greeting:") ||
 					titleLower.startsWith("user:") ||
+					titleLower.startsWith("user blog:") ||
 					/^[^:]*talk:/i.test(embed.title)
 				) {
 					isIrrelevant = true;

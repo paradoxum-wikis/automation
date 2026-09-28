@@ -1,11 +1,10 @@
 {
   "week": "2026-06-29",
   "totalMessages": 986,
-  "irrelevantMessages": 21,
+  "irrelevantMessages": 109,
   "counts": {
     "Mentin123": 343,
     "3nt4rna1Wastaken": 105,
-    "Random Robloxian42": 73,
     "MasterDjustin": 53,
     "Nemesis2005": 47,
     "Goderator": 45,
@@ -17,29 +16,25 @@
     "OddlyPankaes": 14,
     "Raspbelle": 12,
     "Breathix": 10,
-    "PowerHavenOfficial": 8,
     "Redjacko6": 8,
     "WikiaColors": 8,
-    "Yanboblox22": 8,
     "IFeelSoSubjective!": 7,
     "FurnitureEnthusiastAstral": 8,
     "Vessel Of Infinite Destruction": 7,
     "Bkind000 Games": 7,
     "Taserball": 7,
-    "Rochukura": 6,
     "Thermal1231231231": 4,
-    "TinyGhostGamer87": 3,
     "Kaiserin913": 3,
     "Leadfoot2121": 3,
-    "0prus": 2,
     "Sinikyu": 2,
     "KelanTDS12345": 2,
+    "Random Robloxian42": 73,
     "RB HJY": 2,
     "Robucket": 2,
     "Boombox guy lol": 2,
+    "TinyGhostGamer87": 3,
     "Adlib2": 2,
     "INLOC": 2,
-    "MrMosquito": 2,
     "Krimmer": 2,
     "Vortex2175": 2,
     "RustyChroma": 4,
@@ -52,12 +47,12 @@
     "JustARandomUser6767": 1,
     "MJVpogerzz": 1,
     "Moviedrone": 1,
+    "MrMosquito": 2,
     "DaCotton": 1,
     "Feuhufe": 1,
     "HallowedFrog": 1,
     "Michaelaftonstoes": 1,
     "Wherewhathuhhowwhen": 1,
-    "Your nameless protagonist": 1,
     "Randomdude696987": 1,
     "ManongAnt2": 1,
     "Supra-bamb": 1,
@@ -67,11 +62,16 @@
     "Abuse filter": 1,
     "Bartu165": 1,
     "MrCup126": 1,
+    "0prus": 2,
     "NoNameIGuessSadge": 1,
     "MilitaryNoobster": 1,
+    "PowerHavenOfficial": 8,
+    "Your nameless protagonist": 1,
     "Wowiezer": 1,
     "TowerZGalore": 1,
-    "Cringeaccount123456789": 2
+    "Cringeaccount123456789": 2,
+    "Rochukura": 6,
+    "Yanboblox22": 8
   },
   "irrelevantCounts": {
     "Mentin123": {
@@ -81,10 +81,6 @@
     "3nt4rna1Wastaken": {
       "relevant": 105,
       "change": 0
-    },
-    "Random Robloxian42": {
-      "relevant": 63,
-      "change": 10
     },
     "MasterDjustin": {
       "relevant": 53,
@@ -130,19 +126,11 @@
       "relevant": 10,
       "change": 0
     },
-    "PowerHavenOfficial": {
-      "relevant": 8,
-      "change": 0
-    },
     "Redjacko6": {
       "relevant": 8,
       "change": 0
     },
     "WikiaColors": {
-      "relevant": 8,
-      "change": 0
-    },
-    "Yanboblox22": {
       "relevant": 8,
       "change": 0
     },
@@ -166,16 +154,8 @@
       "relevant": 7,
       "change": 0
     },
-    "Rochukura": {
-      "relevant": 6,
-      "change": 0
-    },
     "Thermal1231231231": {
       "relevant": 4,
-      "change": 0
-    },
-    "TinyGhostGamer87": {
-      "relevant": 3,
       "change": 0
     },
     "Kaiserin913": {
@@ -186,10 +166,6 @@
       "relevant": 3,
       "change": 0
     },
-    "0prus": {
-      "relevant": 2,
-      "change": 0
-    },
     "Sinikyu": {
       "relevant": 2,
       "change": 0
@@ -197,6 +173,10 @@
     "KelanTDS12345": {
       "relevant": 2,
       "change": 0
+    },
+    "Random Robloxian42": {
+      "relevant": 2,
+      "change": 71
     },
     "RB HJY": {
       "relevant": 2,
@@ -210,15 +190,15 @@
       "relevant": 2,
       "change": 0
     },
+    "TinyGhostGamer87": {
+      "relevant": 2,
+      "change": 1
+    },
     "Adlib2": {
       "relevant": 2,
       "change": 0
     },
     "INLOC": {
-      "relevant": 2,
-      "change": 0
-    },
-    "MrMosquito": {
       "relevant": 2,
       "change": 0
     },
@@ -270,6 +250,10 @@
       "relevant": 1,
       "change": 0
     },
+    "MrMosquito": {
+      "relevant": 1,
+      "change": 1
+    },
     "DaCotton": {
       "relevant": 1,
       "change": 0
@@ -287,10 +271,6 @@
       "change": 0
     },
     "Wherewhathuhhowwhen": {
-      "relevant": 1,
-      "change": 0
-    },
-    "Your nameless protagonist": {
       "relevant": 1,
       "change": 0
     },
@@ -330,11 +310,23 @@
       "relevant": 1,
       "change": 0
     },
+    "0prus": {
+      "relevant": 0,
+      "change": 2
+    },
     "NoNameIGuessSadge": {
       "relevant": 0,
       "change": 1
     },
     "MilitaryNoobster": {
+      "relevant": 0,
+      "change": 1
+    },
+    "PowerHavenOfficial": {
+      "relevant": 0,
+      "change": 8
+    },
+    "Your nameless protagonist": {
       "relevant": 0,
       "change": 1
     },
@@ -349,6 +341,14 @@
     "Cringeaccount123456789": {
       "relevant": 0,
       "change": 2
+    },
+    "Rochukura": {
+      "relevant": 0,
+      "change": 6
+    },
+    "Yanboblox22": {
+      "relevant": 0,
+      "change": 8
     }
   }
 }

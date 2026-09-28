@@ -1,24 +1,21 @@
 {
   "week": "2026-05-11",
   "totalMessages": 1102,
-  "irrelevantMessages": 26,
+  "irrelevantMessages": 115,
   "counts": {
     "Mentin123": 467,
     "Breathix": 204,
     "Frost Catgang": 103,
     "Jan168158": 84,
     "Gabonnie": 45,
-    "Yanboblox22": 33,
-    "MrMosquito": 27,
     "Vortex2175": 17,
     "Sures91152043": 14,
     "Predictacolors": 12,
-    "ThirteenM": 11,
     "Vessel Of Infinite Destruction": 14,
     "Moty28": 6,
     "BrillanceDisplayed": 5,
+    "Yanboblox22": 33,
     "VisibleKnot": 5,
-    "TinyGhostGamer87": 4,
     "Marcpare1111": 4,
     "Bkind000 Games": 4,
     "Supra-bamb": 4,
@@ -28,7 +25,9 @@
     "MasterDjustin": 3,
     "JustARandomUser6767": 2,
     "Chaosjevil06": 2,
+    "MrMosquito": 27,
     "Xolaroan": 2,
+    "TinyGhostGamer87": 4,
     "3nt4rna1Wastaken": 1,
     "Raspbelle": 1,
     "LeTopHatZleezy": 1,
@@ -42,16 +41,17 @@
     "BloxxerFilip": 2,
     "Shining Spikes": 1,
     "IFeelSoSubjective!": 1,
+    "ThirteenM": 11,
     "CCyb3rr": 1
   },
   "irrelevantCounts": {
     "Mentin123": {
-      "relevant": 458,
-      "change": 9
+      "relevant": 453,
+      "change": 14
     },
     "Breathix": {
-      "relevant": 204,
-      "change": 0
+      "relevant": 188,
+      "change": 16
     },
     "Frost Catgang": {
       "relevant": 103,
@@ -65,17 +65,9 @@
       "relevant": 42,
       "change": 3
     },
-    "Yanboblox22": {
-      "relevant": 33,
-      "change": 0
-    },
-    "MrMosquito": {
-      "relevant": 26,
-      "change": 1
-    },
     "Vortex2175": {
-      "relevant": 17,
-      "change": 0
+      "relevant": 15,
+      "change": 2
     },
     "Sures91152043": {
       "relevant": 14,
@@ -83,10 +75,6 @@
     },
     "Predictacolors": {
       "relevant": 12,
-      "change": 0
-    },
-    "ThirteenM": {
-      "relevant": 11,
       "change": 0
     },
     "Vessel Of Infinite Destruction": {
@@ -101,12 +89,12 @@
       "relevant": 5,
       "change": 0
     },
+    "Yanboblox22": {
+      "relevant": 5,
+      "change": 28
+    },
     "VisibleKnot": {
       "relevant": 5,
-      "change": 0
-    },
-    "TinyGhostGamer87": {
-      "relevant": 4,
       "change": 0
     },
     "Marcpare1111": {
@@ -145,9 +133,17 @@
       "relevant": 2,
       "change": 0
     },
+    "MrMosquito": {
+      "relevant": 2,
+      "change": 25
+    },
     "Xolaroan": {
       "relevant": 2,
       "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 1,
+      "change": 3
     },
     "3nt4rna1Wastaken": {
       "relevant": 1,
@@ -200,6 +196,10 @@
     "IFeelSoSubjective!": {
       "relevant": 0,
       "change": 1
+    },
+    "ThirteenM": {
+      "relevant": 0,
+      "change": 11
     },
     "CCyb3rr": {
       "relevant": 0,

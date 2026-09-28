@@ -1,11 +1,10 @@
 {
   "week": "2026-08-24",
   "totalMessages": 1132,
-  "irrelevantMessages": 123,
+  "irrelevantMessages": 171,
   "counts": {
     "Mentin123": 385,
     "Leadfoot2121": 241,
-    "GodzillaTDS777": 66,
     "Goderator": 47,
     "Gabonnie": 36,
     "Vessel Of Infinite Destruction": 28,
@@ -14,21 +13,21 @@
     "Breathix": 18,
     "Ornamen": 18,
     "Bkind000 Games": 12,
-    "OvergrownTadpole123": 13,
+    "GodzillaTDS777": 66,
     "JurassicParker32": 11,
     "VisibleKnot": 10,
     "Yanboblox22": 9,
-    "RustyChroma2": 9,
     "Frost Catgang": 7,
     "Vortex2175": 7,
+    "RustyChroma2": 9,
     "WikiaColors": 5,
     "WastelandSplitter": 4,
     "Sofiasean560": 4,
     "Hayyaan93": 4,
     "LucasLiorLE": 4,
     "Nemesis2005": 3,
+    "OvergrownTadpole123": 13,
     "Bidsgarza": 3,
-    "TinyGhostGamer87": 5,
     "Jjjgyg": 3,
     "Robucket": 4,
     "Dragonixe": 2,
@@ -46,6 +45,7 @@
     "MasterJadins": 1,
     "JohnJOHNjohneeeeeeeeeeeeeeee": 1,
     "Robloxidkwhattowrite11": 1,
+    "TinyGhostGamer87": 5,
     "CheaperNightingale068": 3,
     "ToMacMa": 1,
     "Superhandsome4950": 1,
@@ -94,10 +94,6 @@
       "relevant": 241,
       "change": 0
     },
-    "GodzillaTDS777": {
-      "relevant": 48,
-      "change": 18
-    },
     "Goderator": {
       "relevant": 47,
       "change": 0
@@ -130,9 +126,9 @@
       "relevant": 12,
       "change": 0
     },
-    "OvergrownTadpole123": {
-      "relevant": 11,
-      "change": 2
+    "GodzillaTDS777": {
+      "relevant": 12,
+      "change": 54
     },
     "JurassicParker32": {
       "relevant": 11,
@@ -146,10 +142,6 @@
       "relevant": 9,
       "change": 0
     },
-    "RustyChroma2": {
-      "relevant": 9,
-      "change": 0
-    },
     "Frost Catgang": {
       "relevant": 7,
       "change": 0
@@ -157,6 +149,10 @@
     "Vortex2175": {
       "relevant": 7,
       "change": 0
+    },
+    "RustyChroma2": {
+      "relevant": 7,
+      "change": 2
     },
     "WikiaColors": {
       "relevant": 5,
@@ -182,13 +178,13 @@
       "relevant": 3,
       "change": 0
     },
+    "OvergrownTadpole123": {
+      "relevant": 3,
+      "change": 10
+    },
     "Bidsgarza": {
       "relevant": 3,
       "change": 0
-    },
-    "TinyGhostGamer87": {
-      "relevant": 3,
-      "change": 2
     },
     "Jjjgyg": {
       "relevant": 3,
@@ -257,6 +253,10 @@
     "Robloxidkwhattowrite11": {
       "relevant": 1,
       "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 1,
+      "change": 4
     },
     "CheaperNightingale068": {
       "relevant": 1,

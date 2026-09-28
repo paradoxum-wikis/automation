@@ -1,54 +1,249 @@
 {
   "week": "2026-04-13",
   "totalMessages": 890,
+  "irrelevantMessages": 31,
   "counts": {
     "Mentin123": 555,
     "Gabonnie": 99,
     "Jan168158": 65,
-    "OnePartyThisTime": 24,
     "Predictacolors": 23,
+    "OnePartyThisTime": 24,
     "Nemesis2005": 20,
     "WikiaColors": 13,
     "Frost Catgang": 8,
     "Breathix": 6,
     "Vortex2175": 6,
-    "BloxxerFilip": 5,
     "Goderator": 4,
-    "Vessel Of Infinite Destruction": 4,
-    "TinyGhostGamer87": 4,
     "Bkind000 Games": 4,
     "TDSLover1999": 4,
     "VisibleKnot": 3,
     "Feuhufe": 3,
-    "Raspbelle": 2,
     "VultureSniper": 2,
-    "ItsEugeo": 2,
     "Moty28": 2,
     "NoobsAreCoolAndCoolerThanCasual": 2,
-    "Freakyjimbob": 2,
     "Soufre": 2,
     "Gdilives34": 2,
     "Mishanik538": 2,
     "RustyChroma": 2,
     "Justfornotinginfo": 1,
     "Gamestore11": 1,
-    "Thejen": 1,
-    "Lol7778828": 1,
+    "Vessel Of Infinite Destruction": 4,
+    "TinyGhostGamer87": 4,
     "Diztorted": 1,
     "FrostiFyre": 1,
     "Wildnoob52545": 1,
     "Random Robloxian42": 1,
     "Halleyalex": 1,
-    "Chimchom14": 1,
     "PedroX86": 1,
-    "PicklesworfPerson1234": 1,
     "Amogsususususaujf": 1,
-    "NoNameIGuessSadge": 1,
     "Xolaroan": 1,
     "Ego20": 1,
     "Weekry": 1,
     "HunterMartea": 1,
     "Alexrr05": 1,
-    "ATEABURGER": 1
+    "ATEABURGER": 1,
+    "Thejen": 1,
+    "Lol7778828": 1,
+    "Raspbelle": 2,
+    "BloxxerFilip": 5,
+    "ItsEugeo": 2,
+    "Chimchom14": 1,
+    "Freakyjimbob": 2,
+    "PicklesworfPerson1234": 1,
+    "NoNameIGuessSadge": 1
+  },
+  "irrelevantCounts": {
+    "Mentin123": {
+      "relevant": 549,
+      "change": 6
+    },
+    "Gabonnie": {
+      "relevant": 99,
+      "change": 0
+    },
+    "Jan168158": {
+      "relevant": 65,
+      "change": 0
+    },
+    "Predictacolors": {
+      "relevant": 23,
+      "change": 0
+    },
+    "OnePartyThisTime": {
+      "relevant": 21,
+      "change": 3
+    },
+    "Nemesis2005": {
+      "relevant": 20,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 13,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Vortex2175": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Goderator": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 4,
+      "change": 0
+    },
+    "TDSLover1999": {
+      "relevant": 4,
+      "change": 0
+    },
+    "VisibleKnot": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Feuhufe": {
+      "relevant": 3,
+      "change": 0
+    },
+    "VultureSniper": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Moty28": {
+      "relevant": 2,
+      "change": 0
+    },
+    "NoobsAreCoolAndCoolerThanCasual": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Soufre": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Gdilives34": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Mishanik538": {
+      "relevant": 2,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Justfornotinginfo": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Gamestore11": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Vessel Of Infinite Destruction": {
+      "relevant": 1,
+      "change": 3
+    },
+    "TinyGhostGamer87": {
+      "relevant": 1,
+      "change": 3
+    },
+    "Diztorted": {
+      "relevant": 1,
+      "change": 0
+    },
+    "FrostiFyre": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Wildnoob52545": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Random Robloxian42": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Halleyalex": {
+      "relevant": 1,
+      "change": 0
+    },
+    "PedroX86": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Amogsususususaujf": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Xolaroan": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Ego20": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Weekry": {
+      "relevant": 1,
+      "change": 0
+    },
+    "HunterMartea": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Alexrr05": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ATEABURGER": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Thejen": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Lol7778828": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Raspbelle": {
+      "relevant": 0,
+      "change": 2
+    },
+    "BloxxerFilip": {
+      "relevant": 0,
+      "change": 5
+    },
+    "ItsEugeo": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Chimchom14": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Freakyjimbob": {
+      "relevant": 0,
+      "change": 2
+    },
+    "PicklesworfPerson1234": {
+      "relevant": 0,
+      "change": 1
+    },
+    "NoNameIGuessSadge": {
+      "relevant": 0,
+      "change": 1
+    }
   }
 }
