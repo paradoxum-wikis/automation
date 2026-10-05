@@ -1,0 +1,249 @@
+{
+  "week": "2026-09-28",
+  "totalMessages": 370,
+  "irrelevantMessages": 39,
+  "counts": {
+    "Goderator": 68,
+    "Toru": 63,
+    "Mentin": 51,
+    "Enternal": 16,
+    "RustyChroma": 15,
+    "Sniper Battle": 9,
+    "Nanyawr": 8,
+    "TheCommander": 8,
+    "Breathix": 7,
+    "SlingingDart612": 8,
+    "Okap8": 4,
+    "Vortex": 4,
+    "GamingWithAlexyt27": 4,
+    "Magnetrite": 4,
+    "Soufre": 3,
+    "Frost Catgang": 3,
+    "Vihaanbansal12": 3,
+    "GamerAlex27": 3,
+    "Predictacolors": 3,
+    "LordRed": 3,
+    "KelanTDS12345": 2,
+    "Cosmonautplane": 12,
+    "GodzillaTDS777": 11,
+    "Nemesis2005": 2,
+    "Sofiasean560": 2,
+    "BrillanceDisplayed": 2,
+    "Visible": 1,
+    "Azazelians": 1,
+    "JustARandomUser6767": 1,
+    "Awayfromhome": 1,
+    "Froggerton8000": 1,
+    "INLOC": 1,
+    "CheaperNightingale068": 3,
+    "Bkind000 Games": 1,
+    "Lpea42": 1,
+    "Hayyaan93": 1,
+    "Zionblee": 1,
+    "ILikeCats48": 1,
+    "Adachi": 1,
+    "The7mb4a": 1,
+    "Random Robloxian42": 1,
+    "Feuhufe": 1,
+    "Draco179": 2,
+    "TinyGhostGamer87": 1,
+    "PlasmaRift": 1,
+    "Kuro": 1,
+    "Redjacko6": 2,
+    "Testaccount3248485": 1
+  },
+  "irrelevantCounts": {
+    "Goderator": {
+      "relevant": 68,
+      "change": 0
+    },
+    "Toru": {
+      "relevant": 62,
+      "change": 1
+    },
+    "Mentin": {
+      "relevant": 51,
+      "change": 0
+    },
+    "Enternal": {
+      "relevant": 16,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 14,
+      "change": 1
+    },
+    "Sniper Battle": {
+      "relevant": 9,
+      "change": 0
+    },
+    "Nanyawr": {
+      "relevant": 8,
+      "change": 0
+    },
+    "TheCommander": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 7,
+      "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 5,
+      "change": 3
+    },
+    "Okap8": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Vortex": {
+      "relevant": 4,
+      "change": 0
+    },
+    "GamingWithAlexyt27": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Magnetrite": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Soufre": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Vihaanbansal12": {
+      "relevant": 3,
+      "change": 0
+    },
+    "GamerAlex27": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Predictacolors": {
+      "relevant": 3,
+      "change": 0
+    },
+    "LordRed": {
+      "relevant": 3,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Cosmonautplane": {
+      "relevant": 2,
+      "change": 10
+    },
+    "GodzillaTDS777": {
+      "relevant": 2,
+      "change": 9
+    },
+    "Nemesis2005": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 2,
+      "change": 0
+    },
+    "BrillanceDisplayed": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Visible": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Azazelians": {
+      "relevant": 1,
+      "change": 0
+    },
+    "JustARandomUser6767": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Awayfromhome": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Froggerton8000": {
+      "relevant": 1,
+      "change": 0
+    },
+    "INLOC": {
+      "relevant": 1,
+      "change": 0
+    },
+    "CheaperNightingale068": {
+      "relevant": 1,
+      "change": 2
+    },
+    "Bkind000 Games": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Lpea42": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Hayyaan93": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Zionblee": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ILikeCats48": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Adachi": {
+      "relevant": 0,
+      "change": 1
+    },
+    "The7mb4a": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Random Robloxian42": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Feuhufe": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Draco179": {
+      "relevant": 0,
+      "change": 2
+    },
+    "TinyGhostGamer87": {
+      "relevant": 0,
+      "change": 1
+    },
+    "PlasmaRift": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Kuro": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Redjacko6": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Testaccount3248485": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
