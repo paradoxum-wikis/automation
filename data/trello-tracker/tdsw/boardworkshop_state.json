@@ -1531,8 +1531,72 @@
           "uses": 5
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "6ac51cfaf1b75217356d9a99",
+      "attachments": [
+        {
+          "id": "6ac51cfaf1b75217356d9a99",
+          "aiSummary": null,
+          "bytes": 258962,
+          "date": "2026-10-06T16:08:26.385Z",
+          "edgeColor": "#8c8c8c",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "TimeDilator.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6a6083bf557ea1a71723114a/attachments/6ac51cfaf1b75217356d9a99/previews/6ac51cfaf1b75217356d9a9d/download/TimeDilator.webp",
+              "_id": "6ac51cfaf1b75217356d9a9d",
+              "id": "6ac51cfaf1b75217356d9a9d",
+              "scaled": false,
+              "bytes": 924,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6a6083bf557ea1a71723114a/attachments/6ac51cfaf1b75217356d9a99/previews/6ac51cfaf1b75217356d9a9e/download/TimeDilator.webp",
+              "_id": "6ac51cfaf1b75217356d9a9e",
+              "id": "6ac51cfaf1b75217356d9a9e",
+              "scaled": false,
+              "bytes": 4236,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6a6083bf557ea1a71723114a/attachments/6ac51cfaf1b75217356d9a99/previews/6ac51cfaf1b75217356d9a9f/download/TimeDilator.webp",
+              "_id": "6ac51cfaf1b75217356d9a9f",
+              "id": "6ac51cfaf1b75217356d9a9f",
+              "scaled": true,
+              "bytes": 4010,
+              "height": 145,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6a6083bf557ea1a71723114a/attachments/6ac51cfaf1b75217356d9a99/previews/6ac51cfaf1b75217356d9aa0/download/TimeDilator.webp",
+              "_id": "6ac51cfaf1b75217356d9aa0",
+              "id": "6ac51cfaf1b75217356d9aa0",
+              "scaled": true,
+              "bytes": 10932,
+              "height": 290,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6a6083bf557ea1a71723114a/attachments/6ac51cfaf1b75217356d9a99/previews/6ac51cfaf1b75217356d9aa1/download/TimeDilator.webp",
+              "_id": "6ac51cfaf1b75217356d9aa1",
+              "id": "6ac51cfaf1b75217356d9aa1",
+              "scaled": true,
+              "bytes": 28714,
+              "height": 540,
+              "width": 559
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6a6083bf557ea1a71723114a/attachments/6ac51cfaf1b75217356d9a99/download/TimeDilator.png",
+          "pos": 140737488355328,
+          "fileName": "TimeDilator.png"
+        }
+      ],
       "url": "https://trello.com/c/q5GHDYFx/33-tower-time-dilator",
       "closed": false
     },
@@ -1935,5 +1999,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-09-28T07:32:48.135Z"
+  "lastCheck": "2026-10-06T20:08:52.306Z"
 }
