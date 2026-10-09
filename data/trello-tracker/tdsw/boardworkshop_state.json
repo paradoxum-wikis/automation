@@ -205,7 +205,7 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
           "color": "red",
-          "uses": 3
+          "uses": 2
         },
         {
           "id": "691601a77fde3bc637f6e6a0",
@@ -214,7 +214,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 4
+          "uses": 5
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -589,7 +589,7 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
           "color": "red",
-          "uses": 3
+          "uses": 2
         }
       ],
       "idAttachmentCover": null,
@@ -1456,26 +1456,6 @@
       "url": "https://trello.com/c/56aDjXKj/31-tower-executioner-rework",
       "closed": false
     },
-    "69160586f25e1f4e5986a34d": {
-      "name": "Economy Update",
-      "desc": "**Chroma Currency**\nChroma is a new currency centered around cosmetic progression. It will be used for crafting skins, ability to unlock old event towers, purchasing items in the daily shop, and interacting with future cosmetic features.\n\n**Skin Quantities & Crafting**\nSkins will now have quantity counts, letting players collect and stack duplicates. These duplicates can be used as materials in the crafting system to create new skins, giving every skin drop additional value and expanding long-term cosmetic progression.",
-      "idList": "691601ce8394932359241a9b",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69f",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Delayed",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
-          "color": "red",
-          "uses": 3
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
-      "closed": false
-    },
     "6916059ecca8d6acf796f6b9": {
       "name": "Event: Halloween 2026",
       "desc": "Information coming soon…",
@@ -1684,6 +1664,26 @@
       "url": "https://trello.com/c/8EGpJVaN/30-tower-mecha-base",
       "closed": false
     },
+    "69160586f25e1f4e5986a34d": {
+      "name": "Economy Update",
+      "desc": "**Chroma Currency**\nChroma is a new currency centered around cosmetic progression. It will be used for crafting skins, ability to unlock old event towers, purchasing items in the daily shop, and interacting with future cosmetic features.\n\n**Skin Quantities & Crafting**\nSkins will now have quantity counts, letting players collect and stack duplicates. These duplicates can be used as materials in the crafting system to create new skins, giving every skin drop additional value and expanding long-term cosmetic progression.",
+      "idList": "6a74d250274d0c13284cbc1f",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
+      "closed": false
+    },
     "691605c37fd252daaf6d055a": {
       "name": "Gamemode: Golden mode",
       "desc": "Information coming soon…",
@@ -1696,7 +1696,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 4
+          "uses": 5
         }
       ],
       "idAttachmentCover": null,
@@ -1716,7 +1716,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 4
+          "uses": 5
         }
       ],
       "idAttachmentCover": null,
@@ -1736,7 +1736,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 4
+          "uses": 5
         }
       ],
       "idAttachmentCover": null,
@@ -1999,5 +1999,5 @@
     "name": "Tower Defense Simulator Public Roadmap",
     "desc": ""
   },
-  "lastCheck": "2026-10-06T20:08:52.306Z"
+  "lastCheck": "2026-10-09T18:59:19.467Z"
 }
