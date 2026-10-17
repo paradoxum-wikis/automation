@@ -1,5 +1,6 @@
-import { Client, GatewayIntentBits } from "discord.js";
+import { Client, GatewayIntentBits, MessageFlags } from "discord.js";
 import fs from "fs";
+import { renderTop5 } from "./avatars.js";
 
 const client = new Client({
 	intents: [
@@ -194,21 +195,51 @@ client.once("ready", async () => {
 
 		descriptionContent += `\n\n[📊 View full recap](https://companio.alterego.wiki/recap?date=${weekDate}&wiki=${PROJECT_DIR})`;
 
-		const embed = {
-			title: "This Week's Top Contributors",
-			description: descriptionContent,
-			footer: {
-				text: `Top 5 contributors from ${formatDate(lastMonday)} to ${formatDate(endDate)}`,
-			},
-			color: EMBED_COLOR,
+		const entries = top5.map(([name, stats]) => ({
+			name,
+			relevant: stats.total - stats.irrelevant,
+		}));
+		const image = await renderTop5(
+			entries,
+			`#${EMBED_COLOR.toString(16).padStart(6, "0")}`,
+			PROJECT_DIR === "tdsw"
+				? "https://tds.wiki"
+				: `https://${FANDOM_SUBDOMAIN}.fandom.com`,
+		).catch((err) => {
+			console.warn(`Top 5 image failed, sending without it: ${err.message}`);
+		});
+
+		const text = (content) => ({ type: 10, content });
+		const payload = {
+			flags: MessageFlags.IsComponentsV2,
+			components: [
+				{
+					type: 17,
+					accent_color: EMBED_COLOR,
+					components: [
+						text("## This Week's Top Contributors"),
+						...(image
+							? [{ type: 12, items: [{ media: { url: "attachment://top5.png" } }] }]
+							: []),
+						text(descriptionContent),
+						{ type: 14, spacing: 1 },
+						text(
+							`-# Top 5 contributors from ${formatDate(lastMonday)} to ${formatDate(endDate)}`,
+						),
+					],
+				},
+			],
 		};
 
-		const response = await fetch(WEBHOOK_URL, {
+		const form = new FormData();
+		form.append("payload_json", JSON.stringify(payload));
+		if (image) {
+			form.append("files[0]", new Blob([image], { type: "image/png" }), "top5.png");
+		}
+
+		const response = await fetch(`${WEBHOOK_URL}?with_components=true`, {
 			method: "POST",
-			headers: {
-				"Content-Type": "application/json",
-			},
-			body: JSON.stringify({ embeds: [embed] }),
+			body: form,
 		});
 
 		if (!response.ok) {
