@@ -1,0 +1,344 @@
+{
+  "week": "2026-10-12",
+  "totalMessages": 1340,
+  "irrelevantMessages": 124,
+  "counts": {
+    "Adachi": 358,
+    "Mentin": 216,
+    "Predictacolors": 196,
+    "Sylmark1": 49,
+    "ChaosX7": 48,
+    "Enternal": 43,
+    "Nemesis2005": 43,
+    "Breathix": 41,
+    "Froggerton8000": 32,
+    "Nooby": 31,
+    "Visible": 29,
+    "RustyChroma": 22,
+    "Goderator": 17,
+    "ErikTheGreat": 15,
+    "SlingingDart612": 21,
+    "WikiaColors": 11,
+    "Yanboblox22": 10,
+    "AmazingCool": 9,
+    "Nanyawr": 8,
+    "Frost Catgang": 7,
+    "Lukebebe 0921": 6,
+    "Sofiasean560": 5,
+    "ThirteenM": 5,
+    "Toru": 4,
+    "Vihaanbansal12": 3,
+    "Redjacko6": 3,
+    "Адаманти": 3,
+    "That1Sonic.exefan": 2,
+    "CheaperNightingale068": 2,
+    "Ash": 2,
+    "Dabi": 2,
+    "KelanTDS12345": 2,
+    "Diduck": 3,
+    "Piyush3333": 1,
+    "Jjjgyg": 1,
+    "Mono": 1,
+    "DummyNamedGato 1": 1,
+    "TinyGhostGamer87": 2,
+    "Bman Shadow": 1,
+    "Zionblee": 2,
+    "CaptainKT": 1,
+    "RealMemor22": 1,
+    "Bkind000 Games": 1,
+    "Noahgame": 1,
+    "Velociraptortophat": 1,
+    "Johnpaul10002": 1,
+    "IFeelSoSubjective!": 1,
+    "Spondor": 1,
+    "Mia": 1,
+    "Raden1509": 1,
+    "Dogdoinlore": 1,
+    "Michaelaftonstoes": 1,
+    "SALERvaT": 1,
+    "Blizz": 1,
+    "GamerAlex27": 1,
+    "Ruvoidsky": 1,
+    "FurnitureEnthusiastAstral": 1,
+    "PlasmaRift": 1,
+    "Rochukura": 2,
+    "Beetos3432": 1,
+    "ZanidaFromTheVoid": 1,
+    "GodzillaTDS777": 2,
+    "MrSmileyz75": 1,
+    "Escollada": 1,
+    "Acronaut6152": 1,
+    "OvergrownTadpole123": 1,
+    "A Commander Cult leader": 1
+  },
+  "irrelevantCounts": {
+    "Adachi": {
+      "relevant": 266,
+      "change": 92
+    },
+    "Mentin": {
+      "relevant": 215,
+      "change": 1
+    },
+    "Predictacolors": {
+      "relevant": 196,
+      "change": 0
+    },
+    "Sylmark1": {
+      "relevant": 49,
+      "change": 0
+    },
+    "ChaosX7": {
+      "relevant": 48,
+      "change": 0
+    },
+    "Enternal": {
+      "relevant": 43,
+      "change": 0
+    },
+    "Nemesis2005": {
+      "relevant": 43,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 40,
+      "change": 1
+    },
+    "Froggerton8000": {
+      "relevant": 32,
+      "change": 0
+    },
+    "Nooby": {
+      "relevant": 30,
+      "change": 1
+    },
+    "Visible": {
+      "relevant": 29,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 19,
+      "change": 3
+    },
+    "Goderator": {
+      "relevant": 17,
+      "change": 0
+    },
+    "ErikTheGreat": {
+      "relevant": 15,
+      "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 13,
+      "change": 8
+    },
+    "WikiaColors": {
+      "relevant": 11,
+      "change": 0
+    },
+    "Yanboblox22": {
+      "relevant": 10,
+      "change": 0
+    },
+    "AmazingCool": {
+      "relevant": 9,
+      "change": 0
+    },
+    "Nanyawr": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 7,
+      "change": 0
+    },
+    "Lukebebe 0921": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 5,
+      "change": 0
+    },
+    "ThirteenM": {
+      "relevant": 5,
+      "change": 0
+    },
+    "Toru": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Vihaanbansal12": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Redjacko6": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Адаманти": {
+      "relevant": 3,
+      "change": 0
+    },
+    "That1Sonic.exefan": {
+      "relevant": 2,
+      "change": 0
+    },
+    "CheaperNightingale068": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Ash": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Dabi": {
+      "relevant": 2,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Diduck": {
+      "relevant": 1,
+      "change": 2
+    },
+    "Piyush3333": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Jjjgyg": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Mono": {
+      "relevant": 1,
+      "change": 0
+    },
+    "DummyNamedGato 1": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TinyGhostGamer87": {
+      "relevant": 1,
+      "change": 1
+    },
+    "Bman Shadow": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Zionblee": {
+      "relevant": 1,
+      "change": 1
+    },
+    "CaptainKT": {
+      "relevant": 1,
+      "change": 0
+    },
+    "RealMemor22": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Noahgame": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Velociraptortophat": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Johnpaul10002": {
+      "relevant": 1,
+      "change": 0
+    },
+    "IFeelSoSubjective!": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Spondor": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Mia": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Raden1509": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Dogdoinlore": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Michaelaftonstoes": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SALERvaT": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Blizz": {
+      "relevant": 1,
+      "change": 0
+    },
+    "GamerAlex27": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Ruvoidsky": {
+      "relevant": 0,
+      "change": 1
+    },
+    "FurnitureEnthusiastAstral": {
+      "relevant": 0,
+      "change": 1
+    },
+    "PlasmaRift": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Rochukura": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Beetos3432": {
+      "relevant": 0,
+      "change": 1
+    },
+    "ZanidaFromTheVoid": {
+      "relevant": 0,
+      "change": 1
+    },
+    "GodzillaTDS777": {
+      "relevant": 0,
+      "change": 2
+    },
+    "MrSmileyz75": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Escollada": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Acronaut6152": {
+      "relevant": 0,
+      "change": 1
+    },
+    "OvergrownTadpole123": {
+      "relevant": 0,
+      "change": 1
+    },
+    "A Commander Cult leader": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
