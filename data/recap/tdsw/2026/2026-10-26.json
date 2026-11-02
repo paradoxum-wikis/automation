@@ -1,0 +1,359 @@
+{
+  "week": "2026-10-26",
+  "totalMessages": 908,
+  "irrelevantMessages": 63,
+  "counts": {
+    "Mentin": 209,
+    "Adachi": 178,
+    "Visible": 149,
+    "WikiaColors": 33,
+    "Sofiasean560": 27,
+    "Nemesis2005": 25,
+    "Goderator": 22,
+    "Froggerton8000": 19,
+    "SlingingDart612": 23,
+    "Breathix": 14,
+    "Vortex": 17,
+    "Frost Catgang": 10,
+    "Bkind000 Games": 9,
+    "AmazingCool": 14,
+    "Nanyawr": 8,
+    "Enternal": 7,
+    "SnappyDucky 1": 5,
+    "GamerAlex27": 4,
+    "Hayyaan93": 4,
+    "Shitfish": 4,
+    "That1Sonic.exefan": 4,
+    "Khewmanwantdying": 3,
+    "Tehm": 3,
+    "Vihaanbansal12": 3,
+    "Minionrush65": 3,
+    "Toru": 3,
+    "MasterDevelopments": 2,
+    "Sk4T": 2,
+    "Testaccount3248485": 4,
+    "Hexer": 2,
+    "CaptainKT": 2,
+    "RustyChroma": 2,
+    "Redjacko6": 2,
+    "RealMemor22": 2,
+    "Ken1602": 2,
+    "Адаманти": 2,
+    "BOIIIIIIIIIIIIIIIIIIII7": 2,
+    "CxHyandO2toCO2andH2O": 2,
+    "ToMacMa": 2,
+    "NitroSpheres848": 2,
+    "Nillune": 2,
+    "Xtreme48-0GC": 1,
+    "Bman Shadow": 1,
+    "Feuhufe": 1,
+    "Potatotheeater": 3,
+    "Coreyhao3": 1,
+    "AverageRobloxianfanthe2nd": 1,
+    "Sola Moth": 1,
+    "Drokshar5639": 1,
+    "Djbaileybop08": 1,
+    "GodzillaTDS777": 4,
+    "Kosshy": 1,
+    "IFeelSoSubjective!": 1,
+    "Leafglou": 1,
+    "TDSLover1999": 2,
+    "Acz": 1,
+    "Enotik": 1,
+    "BrillanceDisplayed": 1,
+    "Tomonolo1": 1,
+    "KelanTDS12345": 1,
+    "RMBertaz": 1,
+    "000korryo": 1,
+    "Jjjgyg": 1,
+    "Aspiringghost3": 1,
+    "FurnitureEnthusiastAstral": 1,
+    "Tojoyour": 2,
+    "Underanimater": 1,
+    "TinyGhostGamer87": 1,
+    "TDSWikiUser2010BecauseICantFindABetterUsername": 1,
+    "Eternalblaze540": 1
+  },
+  "irrelevantCounts": {
+    "Mentin": {
+      "relevant": 209,
+      "change": 0
+    },
+    "Adachi": {
+      "relevant": 170,
+      "change": 8
+    },
+    "Visible": {
+      "relevant": 126,
+      "change": 23
+    },
+    "WikiaColors": {
+      "relevant": 33,
+      "change": 0
+    },
+    "Sofiasean560": {
+      "relevant": 27,
+      "change": 0
+    },
+    "Nemesis2005": {
+      "relevant": 25,
+      "change": 0
+    },
+    "Goderator": {
+      "relevant": 22,
+      "change": 0
+    },
+    "Froggerton8000": {
+      "relevant": 19,
+      "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 16,
+      "change": 7
+    },
+    "Breathix": {
+      "relevant": 14,
+      "change": 0
+    },
+    "Vortex": {
+      "relevant": 13,
+      "change": 4
+    },
+    "Frost Catgang": {
+      "relevant": 10,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 9,
+      "change": 0
+    },
+    "AmazingCool": {
+      "relevant": 9,
+      "change": 5
+    },
+    "Nanyawr": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Enternal": {
+      "relevant": 7,
+      "change": 0
+    },
+    "SnappyDucky 1": {
+      "relevant": 5,
+      "change": 0
+    },
+    "GamerAlex27": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Hayyaan93": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Shitfish": {
+      "relevant": 4,
+      "change": 0
+    },
+    "That1Sonic.exefan": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Khewmanwantdying": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Tehm": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Vihaanbansal12": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Minionrush65": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Toru": {
+      "relevant": 3,
+      "change": 0
+    },
+    "MasterDevelopments": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Sk4T": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Testaccount3248485": {
+      "relevant": 2,
+      "change": 2
+    },
+    "Hexer": {
+      "relevant": 2,
+      "change": 0
+    },
+    "CaptainKT": {
+      "relevant": 2,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Redjacko6": {
+      "relevant": 2,
+      "change": 0
+    },
+    "RealMemor22": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Ken1602": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Адаманти": {
+      "relevant": 2,
+      "change": 0
+    },
+    "BOIIIIIIIIIIIIIIIIIIII7": {
+      "relevant": 2,
+      "change": 0
+    },
+    "CxHyandO2toCO2andH2O": {
+      "relevant": 2,
+      "change": 0
+    },
+    "ToMacMa": {
+      "relevant": 2,
+      "change": 0
+    },
+    "NitroSpheres848": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Nillune": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Xtreme48-0GC": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Bman Shadow": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Feuhufe": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Potatotheeater": {
+      "relevant": 1,
+      "change": 2
+    },
+    "Coreyhao3": {
+      "relevant": 1,
+      "change": 0
+    },
+    "AverageRobloxianfanthe2nd": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Sola Moth": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Drokshar5639": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Djbaileybop08": {
+      "relevant": 1,
+      "change": 0
+    },
+    "GodzillaTDS777": {
+      "relevant": 1,
+      "change": 3
+    },
+    "Kosshy": {
+      "relevant": 1,
+      "change": 0
+    },
+    "IFeelSoSubjective!": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Leafglou": {
+      "relevant": 1,
+      "change": 0
+    },
+    "TDSLover1999": {
+      "relevant": 1,
+      "change": 1
+    },
+    "Acz": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Enotik": {
+      "relevant": 1,
+      "change": 0
+    },
+    "BrillanceDisplayed": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Tomonolo1": {
+      "relevant": 1,
+      "change": 0
+    },
+    "KelanTDS12345": {
+      "relevant": 1,
+      "change": 0
+    },
+    "RMBertaz": {
+      "relevant": 1,
+      "change": 0
+    },
+    "000korryo": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Jjjgyg": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Aspiringghost3": {
+      "relevant": 0,
+      "change": 1
+    },
+    "FurnitureEnthusiastAstral": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Tojoyour": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Underanimater": {
+      "relevant": 0,
+      "change": 1
+    },
+    "TinyGhostGamer87": {
+      "relevant": 0,
+      "change": 1
+    },
+    "TDSWikiUser2010BecauseICantFindABetterUsername": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Eternalblaze540": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
