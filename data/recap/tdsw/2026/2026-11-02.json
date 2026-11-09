@@ -1,0 +1,379 @@
+{
+  "week": "2026-11-02",
+  "totalMessages": 1130,
+  "irrelevantMessages": 70,
+  "counts": {
+    "Adachi": 313,
+    "Mentin": 265,
+    "Visible": 153,
+    "Enternal": 38,
+    "WikiaColors": 31,
+    "Goderator": 24,
+    "Toru": 21,
+    "Breathix": 21,
+    "Sofiasean560": 16,
+    "Froggerton8000": 13,
+    "Frost Catgang": 10,
+    "CheaperNightingale068": 9,
+    "That1Sonic.exefan": 8,
+    "Bkind000 Games": 8,
+    "Nemesis2005": 8,
+    "HARRYPOTER5487": 8,
+    "Jjjgyg": 6,
+    "Vortex": 15,
+    "Hexer": 6,
+    "Vihaanbansal12": 5,
+    "AmazingCool": 5,
+    "Hayyaan93": 4,
+    "RustyChroma": 4,
+    "RealMemor22": 4,
+    "Existencialbeing": 4,
+    "Jayjay1221x2": 4,
+    "Bacon kju": 3,
+    "SlingingDart612": 4,
+    "Bman Shadow": 3,
+    "Pacaleu": 3,
+    "Part": 4,
+    "Coreyhao3": 2,
+    "LordRed": 2,
+    "ToMacMa": 3,
+    "Sk4T": 2,
+    "OnceAndTwice1": 2,
+    "TheCommander": 2,
+    "1Vanadium": 2,
+    "Velociraptortophat": 2,
+    "Johnpaul10002": 3,
+    "MasterDevelopments": 2,
+    "PlasmaRift": 2,
+    "Сын наги грушы": 1,
+    "Sylmark1": 1,
+    "Mrehtan": 1,
+    "Kdf453": 1,
+    "Raden1509": 1,
+    "Tehm": 1,
+    "Shot gun900": 1,
+    "FurnitureEnthusiastAstral": 2,
+    "Shadoscorpion": 1,
+    "Doktor": 1,
+    "Frankensteinpug": 1,
+    "Kosshy": 1,
+    "Yeeman345": 1,
+    "GamingWithAlexyt27": 1,
+    "44uryik": 1,
+    "SnappyDucky 1": 1,
+    "ErikTheGreat": 3,
+    "ThirteenM": 2,
+    "TDSLover1999": 1,
+    "KingOfCrashout": 1,
+    "Tojoyour": 3,
+    "Waffle c0nsumer": 1,
+    "Allentheender": 2,
+    "MaxVeryChill04": 1,
+    "Danulikestoplayrbx": 1,
+    "BananaPeelSandwich": 1,
+    "CookieBlicky": 1,
+    "NicolifegamesYT": 1,
+    "Redjacko6": 1,
+    "Fishyfingerposer": 1,
+    "VoKorob12": 2,
+    "Hamster": 1
+  },
+  "irrelevantCounts": {
+    "Adachi": {
+      "relevant": 293,
+      "change": 20
+    },
+    "Mentin": {
+      "relevant": 264,
+      "change": 1
+    },
+    "Visible": {
+      "relevant": 150,
+      "change": 3
+    },
+    "Enternal": {
+      "relevant": 38,
+      "change": 0
+    },
+    "WikiaColors": {
+      "relevant": 31,
+      "change": 0
+    },
+    "Goderator": {
+      "relevant": 24,
+      "change": 0
+    },
+    "Toru": {
+      "relevant": 21,
+      "change": 0
+    },
+    "Breathix": {
+      "relevant": 17,
+      "change": 4
+    },
+    "Sofiasean560": {
+      "relevant": 15,
+      "change": 1
+    },
+    "Froggerton8000": {
+      "relevant": 13,
+      "change": 0
+    },
+    "Frost Catgang": {
+      "relevant": 10,
+      "change": 0
+    },
+    "CheaperNightingale068": {
+      "relevant": 8,
+      "change": 1
+    },
+    "That1Sonic.exefan": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Bkind000 Games": {
+      "relevant": 8,
+      "change": 0
+    },
+    "Nemesis2005": {
+      "relevant": 8,
+      "change": 0
+    },
+    "HARRYPOTER5487": {
+      "relevant": 7,
+      "change": 1
+    },
+    "Jjjgyg": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Vortex": {
+      "relevant": 6,
+      "change": 9
+    },
+    "Hexer": {
+      "relevant": 6,
+      "change": 0
+    },
+    "Vihaanbansal12": {
+      "relevant": 5,
+      "change": 0
+    },
+    "AmazingCool": {
+      "relevant": 5,
+      "change": 0
+    },
+    "Hayyaan93": {
+      "relevant": 4,
+      "change": 0
+    },
+    "RustyChroma": {
+      "relevant": 4,
+      "change": 0
+    },
+    "RealMemor22": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Existencialbeing": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Jayjay1221x2": {
+      "relevant": 4,
+      "change": 0
+    },
+    "Bacon kju": {
+      "relevant": 3,
+      "change": 0
+    },
+    "SlingingDart612": {
+      "relevant": 3,
+      "change": 1
+    },
+    "Bman Shadow": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Pacaleu": {
+      "relevant": 3,
+      "change": 0
+    },
+    "Part": {
+      "relevant": 2,
+      "change": 2
+    },
+    "Coreyhao3": {
+      "relevant": 2,
+      "change": 0
+    },
+    "LordRed": {
+      "relevant": 2,
+      "change": 0
+    },
+    "ToMacMa": {
+      "relevant": 2,
+      "change": 1
+    },
+    "Sk4T": {
+      "relevant": 2,
+      "change": 0
+    },
+    "OnceAndTwice1": {
+      "relevant": 2,
+      "change": 0
+    },
+    "TheCommander": {
+      "relevant": 2,
+      "change": 0
+    },
+    "1Vanadium": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Velociraptortophat": {
+      "relevant": 2,
+      "change": 0
+    },
+    "Johnpaul10002": {
+      "relevant": 2,
+      "change": 1
+    },
+    "MasterDevelopments": {
+      "relevant": 2,
+      "change": 0
+    },
+    "PlasmaRift": {
+      "relevant": 1,
+      "change": 1
+    },
+    "Сын наги грушы": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Sylmark1": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Mrehtan": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Kdf453": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Raden1509": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Tehm": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Shot gun900": {
+      "relevant": 1,
+      "change": 0
+    },
+    "FurnitureEnthusiastAstral": {
+      "relevant": 1,
+      "change": 1
+    },
+    "Shadoscorpion": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Doktor": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Frankensteinpug": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Kosshy": {
+      "relevant": 1,
+      "change": 0
+    },
+    "Yeeman345": {
+      "relevant": 1,
+      "change": 0
+    },
+    "GamingWithAlexyt27": {
+      "relevant": 1,
+      "change": 0
+    },
+    "44uryik": {
+      "relevant": 1,
+      "change": 0
+    },
+    "SnappyDucky 1": {
+      "relevant": 1,
+      "change": 0
+    },
+    "ErikTheGreat": {
+      "relevant": 0,
+      "change": 3
+    },
+    "ThirteenM": {
+      "relevant": 0,
+      "change": 2
+    },
+    "TDSLover1999": {
+      "relevant": 0,
+      "change": 1
+    },
+    "KingOfCrashout": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Tojoyour": {
+      "relevant": 0,
+      "change": 3
+    },
+    "Waffle c0nsumer": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Allentheender": {
+      "relevant": 0,
+      "change": 2
+    },
+    "MaxVeryChill04": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Danulikestoplayrbx": {
+      "relevant": 0,
+      "change": 1
+    },
+    "BananaPeelSandwich": {
+      "relevant": 0,
+      "change": 1
+    },
+    "CookieBlicky": {
+      "relevant": 0,
+      "change": 1
+    },
+    "NicolifegamesYT": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Redjacko6": {
+      "relevant": 0,
+      "change": 1
+    },
+    "Fishyfingerposer": {
+      "relevant": 0,
+      "change": 1
+    },
+    "VoKorob12": {
+      "relevant": 0,
+      "change": 2
+    },
+    "Hamster": {
+      "relevant": 0,
+      "change": 1
+    }
+  }
+}
